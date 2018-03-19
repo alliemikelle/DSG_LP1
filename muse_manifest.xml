@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://alliemikelle.github.io/DSG_LP1" resolutions="1x" timestamp="1521474507074">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://alliemikelle.github.io/DSG_LP1" resolutions="1x" timestamp="1521484790174">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="4173786265" ref="version-1:version-2:version-3:index"/>
@@ -7,8 +7,8 @@
     <file name="nomq_version-1.css" crc="135512152" ref="version-1"/>
     <file name="version-2.css" crc="323642732" ref="version-2"/>
     <file name="nomq_version-2.css" crc="4115880501" ref="version-2"/>
-    <file name="version-3.css" crc="44797396" ref="version-3"/>
-    <file name="nomq_version-3.css" crc="61988576" ref="version-3"/>
+    <file name="version-3.css" crc="4066393230" ref="version-3"/>
+    <file name="nomq_version-3.css" crc="4153733021" ref="version-3"/>
     <file name="index.css" crc="400561951" ref="index"/>
     <file name="nomq_index.css" crc="239366337" ref="index"/>
   </folder>
@@ -1169,7 +1169,15 @@
     <file name="running_ss18_edgelux_women_cq1239_ftw_1-crop-u501167.jpg" crc="368507546" seo="true" ref="version-3">
       <caption webpage="version-3" alt=""/>
     </file>
+    <file name="shoespin.gif" crc="241445705" ref="version-3">
+      <caption webpage="version-3" alt=""/>
+      <caption webpage="version-3" alt=""/>
+    </file>
     <file name="2_men_banner-u56352-fr.jpg" crc="531607908" ref="version-3"/>
+    <file name="ocean_mobile.gif" crc="3989476768" ref="version-3">
+      <caption webpage="version-3" alt=""/>
+      <caption webpage="version-3" alt=""/>
+    </file>
     <file name="2_women_banner-u56368-fr.jpg" crc="78411543" ref="version-3"/>
     <file name="u51913-82.png" crc="60089271" ref="version-3"/>
     <file name="shoe_windows-crop-u501118.jpg" crc="4290255155" seo="true" ref="version-3">
@@ -1189,6 +1197,6 @@
   </folder>
   <file name="version-1.html" crc="3808906609" seo="true" mt="1521071333191" redirect="true"/>
   <file name="version-2.html" crc="435127919" seo="true" mt="1521423724216" redirect="true"/>
-  <file name="index.html" crc="276204036" seo="true" mt="1521424166902" redirect="true"/>
-  <file name="version-3.html" crc="163061387" seo="true" mt="1521473828036" redirect="true"/>
+  <file name="index.html" crc="258589317" seo="true" mt="1521484702600" redirect="true"/>
+  <file name="version-3.html" crc="3876596913" seo="true" mt="1521484679048" redirect="true"/>
 </manifest>
