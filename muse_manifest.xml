@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://alliemikelle.github.io/DSG_LP1" resolutions="1x" timestamp="1521484790174">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://alliemikelle.github.io/DSG_LP1" resolutions="1x" timestamp="1521485556092">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="4173786265" ref="version-1:version-2:version-3:index"/>
@@ -7,7 +7,7 @@
     <file name="nomq_version-1.css" crc="135512152" ref="version-1"/>
     <file name="version-2.css" crc="323642732" ref="version-2"/>
     <file name="nomq_version-2.css" crc="4115880501" ref="version-2"/>
-    <file name="version-3.css" crc="4066393230" ref="version-3"/>
+    <file name="version-3.css" crc="323631189" ref="version-3"/>
     <file name="nomq_version-3.css" crc="4153733021" ref="version-3"/>
     <file name="index.css" crc="400561951" ref="index"/>
     <file name="nomq_index.css" crc="239366337" ref="index"/>
@@ -1197,6 +1197,6 @@
   </folder>
   <file name="version-1.html" crc="3808906609" seo="true" mt="1521071333191" redirect="true"/>
   <file name="version-2.html" crc="435127919" seo="true" mt="1521423724216" redirect="true"/>
-  <file name="index.html" crc="258589317" seo="true" mt="1521484702600" redirect="true"/>
-  <file name="version-3.html" crc="3876596913" seo="true" mt="1521484679048" redirect="true"/>
+  <file name="index.html" crc="4123270129" seo="true" mt="1521484702600" redirect="true"/>
+  <file name="version-3.html" crc="3879555819" seo="true" mt="1521485407980" redirect="true"/>
 </manifest>
