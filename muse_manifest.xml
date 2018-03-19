@@ -1,24 +1,24 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://alliemikelle.github.io/DSG_LP1" resolutions="1x" timestamp="1521424252254">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://alliemikelle.github.io/DSG_LP1" resolutions="1x" timestamp="1521473917077">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="4173786265" ref="index:version-1:version-3:version-2"/>
-    <file name="nomq_preview_master_a-master.css" crc="4171088771" ref="index:version-1:version-3:version-2"/>
-    <file name="index.css" crc="153295772" ref="index"/>
-    <file name="nomq_index.css" crc="239366337" ref="index"/>
-    <file name="version-1.css" crc="4265234281" ref="version-1"/>
+    <file name="master_a-master.css" crc="4173786265" ref="version-1:version-2:version-3:index"/>
+    <file name="nomq_preview_master_a-master.css" crc="4171088771" ref="version-1:version-2:version-3:index"/>
+    <file name="version-1.css" crc="4265312515" ref="version-1"/>
     <file name="nomq_version-1.css" crc="135512152" ref="version-1"/>
-    <file name="version-3.css" crc="4084195011" ref="version-3"/>
-    <file name="nomq_version-3.css" crc="3797883140" ref="version-3"/>
-    <file name="version-2.css" crc="162315732" ref="version-2"/>
-    <file name="nomq_version-2.css" crc="445791279" ref="version-2"/>
+    <file name="version-2.css" crc="323642732" ref="version-2"/>
+    <file name="nomq_version-2.css" crc="4115880501" ref="version-2"/>
+    <file name="version-3.css" crc="44797396" ref="version-3"/>
+    <file name="nomq_version-3.css" crc="61988576" ref="version-3"/>
+    <file name="index.css" crc="400561951" ref="index"/>
+    <file name="nomq_index.css" crc="239366337" ref="index"/>
   </folder>
   <folder name="fonts">
-    <file name="dsgsans-bold.woff" crc="245600299"/>
-    <file name="dsgsans-bold.eot" crc="3803045370"/>
-    <file name="dsgsans-bold.svg" crc="3762300238"/>
     <file name="din-medi.woff" crc="3978543979"/>
     <file name="din-medi.eot" crc="4211618926"/>
     <file name="din-medi.svg" crc="4101310960"/>
+    <file name="dsgsans-bold.woff" crc="245600299"/>
+    <file name="dsgsans-bold.eot" crc="3803045370"/>
+    <file name="dsgsans-bold.svg" crc="3762300238"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="version-1:version-2:index:version-3"/>
@@ -36,6 +36,11 @@
   </folder>
   <folder name="images">
     <file name="dsgolympics.png" crc="290549742" seo="true" ref="version-1:version-2:index:version-3">
+      <caption webpage="version-1" alt=""/>
+      <caption webpage="version-1" alt=""/>
+      <caption webpage="version-1" alt=""/>
+      <caption webpage="version-1" alt=""/>
+      <caption webpage="version-1" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -44,11 +49,6 @@
       <caption webpage="version-3" alt=""/>
       <caption webpage="version-3" alt=""/>
       <caption webpage="version-3" alt=""/>
-      <caption webpage="version-1" alt=""/>
-      <caption webpage="version-1" alt=""/>
-      <caption webpage="version-1" alt=""/>
-      <caption webpage="version-1" alt=""/>
-      <caption webpage="version-1" alt=""/>
       <caption webpage="version-2" alt=""/>
       <caption webpage="version-2" alt=""/>
       <caption webpage="version-2" alt=""/>
@@ -56,6 +56,11 @@
       <caption webpage="version-2" alt=""/>
     </file>
     <file name="menu_desktop.png" crc="43139248" seo="true" ref="version-1:version-2:index:version-3">
+      <caption webpage="version-1" alt=""/>
+      <caption webpage="version-1" alt=""/>
+      <caption webpage="version-1" alt=""/>
+      <caption webpage="version-1" alt=""/>
+      <caption webpage="version-1" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -64,11 +69,6 @@
       <caption webpage="version-3" alt=""/>
       <caption webpage="version-3" alt=""/>
       <caption webpage="version-3" alt=""/>
-      <caption webpage="version-1" alt=""/>
-      <caption webpage="version-1" alt=""/>
-      <caption webpage="version-1" alt=""/>
-      <caption webpage="version-1" alt=""/>
-      <caption webpage="version-1" alt=""/>
       <caption webpage="version-2" alt=""/>
       <caption webpage="version-2" alt=""/>
       <caption webpage="version-2" alt=""/>
@@ -79,6 +79,11 @@
     <file name="u309-4.png" crc="3842823417" ref="version-1:version-2:index:version-3"/>
     <file name="u548-4.png" crc="3909045019" ref="version-1:version-2:index:version-3"/>
     <file name="search.png" crc="3923079032" seo="true" ref="version-1:version-2:index:version-3">
+      <caption webpage="version-1" alt=""/>
+      <caption webpage="version-1" alt=""/>
+      <caption webpage="version-1" alt=""/>
+      <caption webpage="version-1" alt=""/>
+      <caption webpage="version-1" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -87,11 +92,6 @@
       <caption webpage="version-3" alt=""/>
       <caption webpage="version-3" alt=""/>
       <caption webpage="version-3" alt=""/>
-      <caption webpage="version-1" alt=""/>
-      <caption webpage="version-1" alt=""/>
-      <caption webpage="version-1" alt=""/>
-      <caption webpage="version-1" alt=""/>
-      <caption webpage="version-1" alt=""/>
       <caption webpage="version-2" alt=""/>
       <caption webpage="version-2" alt=""/>
       <caption webpage="version-2" alt=""/>
@@ -102,6 +102,11 @@
     <file name="u364-4.png" crc="149310511" ref="version-1:version-2:index:version-3"/>
     <file name="u382-4.png" crc="240178569" ref="version-1:version-2:index:version-3"/>
     <file name="cart_desktop.png" crc="3995768359" seo="true" ref="version-1:version-2:index:version-3">
+      <caption webpage="version-1" alt=""/>
+      <caption webpage="version-1" alt=""/>
+      <caption webpage="version-1" alt=""/>
+      <caption webpage="version-1" alt=""/>
+      <caption webpage="version-1" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -110,11 +115,6 @@
       <caption webpage="version-3" alt=""/>
       <caption webpage="version-3" alt=""/>
       <caption webpage="version-3" alt=""/>
-      <caption webpage="version-1" alt=""/>
-      <caption webpage="version-1" alt=""/>
-      <caption webpage="version-1" alt=""/>
-      <caption webpage="version-1" alt=""/>
-      <caption webpage="version-1" alt=""/>
       <caption webpage="version-2" alt=""/>
       <caption webpage="version-2" alt=""/>
       <caption webpage="version-2" alt=""/>
@@ -156,16 +156,6 @@
     <file name="learn_on_poster_u46118.png" crc="17855247" ref="version-1:version-2:version-3"/>
     <file name="u4839-4.png" crc="255055002" ref="version-1"/>
     <file name="ab_frame1.jpg" crc="4107256402" ref="version-1:version-2:version-3">
-      <caption webpage="version-3" alt=""/>
-      <caption webpage="version-3" alt=""/>
-      <caption webpage="version-3" alt=""/>
-      <caption webpage="version-3" alt=""/>
-      <caption webpage="version-3" alt=""/>
-      <caption webpage="version-3" alt=""/>
-      <caption webpage="version-3" alt=""/>
-      <caption webpage="version-3" alt=""/>
-      <caption webpage="version-3" alt=""/>
-      <caption webpage="version-3" alt=""/>
       <caption webpage="version-1" alt=""/>
       <caption webpage="version-1" alt=""/>
       <caption webpage="version-1" alt=""/>
@@ -176,6 +166,16 @@
       <caption webpage="version-1" alt=""/>
       <caption webpage="version-1" alt=""/>
       <caption webpage="version-1" alt=""/>
+      <caption webpage="version-3" alt=""/>
+      <caption webpage="version-3" alt=""/>
+      <caption webpage="version-3" alt=""/>
+      <caption webpage="version-3" alt=""/>
+      <caption webpage="version-3" alt=""/>
+      <caption webpage="version-3" alt=""/>
+      <caption webpage="version-3" alt=""/>
+      <caption webpage="version-3" alt=""/>
+      <caption webpage="version-3" alt=""/>
+      <caption webpage="version-3" alt=""/>
       <caption webpage="version-2" alt=""/>
       <caption webpage="version-2" alt=""/>
       <caption webpage="version-2" alt=""/>
@@ -188,26 +188,26 @@
       <caption webpage="version-2" alt=""/>
     </file>
     <file name="ab_frame2.jpg" crc="4276224570" ref="version-1:version-2:version-3">
-      <caption webpage="version-3" alt=""/>
-      <caption webpage="version-3" alt=""/>
       <caption webpage="version-1" alt=""/>
       <caption webpage="version-1" alt=""/>
+      <caption webpage="version-3" alt=""/>
+      <caption webpage="version-3" alt=""/>
       <caption webpage="version-2" alt=""/>
       <caption webpage="version-2" alt=""/>
     </file>
     <file name="ab_frame3.jpg" crc="47623551" ref="version-1:version-2:version-3">
-      <caption webpage="version-3" alt=""/>
-      <caption webpage="version-3" alt=""/>
       <caption webpage="version-1" alt=""/>
       <caption webpage="version-1" alt=""/>
+      <caption webpage="version-3" alt=""/>
+      <caption webpage="version-3" alt=""/>
       <caption webpage="version-2" alt=""/>
       <caption webpage="version-2" alt=""/>
     </file>
     <file name="ab_frame4.jpg" crc="4019755059" ref="version-1:version-2:version-3">
-      <caption webpage="version-3" alt=""/>
-      <caption webpage="version-3" alt=""/>
       <caption webpage="version-1" alt=""/>
       <caption webpage="version-1" alt=""/>
+      <caption webpage="version-3" alt=""/>
+      <caption webpage="version-3" alt=""/>
       <caption webpage="version-2" alt=""/>
       <caption webpage="version-2" alt=""/>
     </file>
@@ -235,6 +235,11 @@
     <file name="alphabounce_header_poster_u7096.png" crc="3802448110" ref="version-1:version-2:version-3"/>
     <file name="u400-7.png" crc="322240908" ref="version-1:version-2:index:version-3"/>
     <file name="bubbles.png" crc="3934849744" seo="true" ref="version-1:version-2:index:version-3">
+      <caption webpage="version-1" alt=""/>
+      <caption webpage="version-1" alt=""/>
+      <caption webpage="version-1" alt=""/>
+      <caption webpage="version-1" alt=""/>
+      <caption webpage="version-1" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -243,11 +248,6 @@
       <caption webpage="version-3" alt=""/>
       <caption webpage="version-3" alt=""/>
       <caption webpage="version-3" alt=""/>
-      <caption webpage="version-1" alt=""/>
-      <caption webpage="version-1" alt=""/>
-      <caption webpage="version-1" alt=""/>
-      <caption webpage="version-1" alt=""/>
-      <caption webpage="version-1" alt=""/>
       <caption webpage="version-2" alt=""/>
       <caption webpage="version-2" alt=""/>
       <caption webpage="version-2" alt=""/>
@@ -419,29 +419,29 @@
     <file name="u1277-4.png" crc="138688299" ref="version-1:version-2:index:version-3"/>
     <file name="u1313-4.png" crc="207183727" ref="version-1:version-2:index:version-3"/>
     <file name="dick-s_sporting_goods_logo.png" crc="4047831415" seo="true" ref="version-1:version-2:index:version-3">
+      <caption webpage="version-1" alt=""/>
+      <caption webpage="version-1" alt=""/>
+      <caption webpage="version-1" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="version-3" alt=""/>
       <caption webpage="version-3" alt=""/>
       <caption webpage="version-3" alt=""/>
-      <caption webpage="version-1" alt=""/>
-      <caption webpage="version-1" alt=""/>
-      <caption webpage="version-1" alt=""/>
       <caption webpage="version-2" alt=""/>
       <caption webpage="version-2" alt=""/>
       <caption webpage="version-2" alt=""/>
     </file>
     <file name="search-tablet.png" crc="3888704939" seo="true" ref="version-1:version-2:index:version-3">
+      <caption webpage="version-1" alt=""/>
+      <caption webpage="version-1" alt=""/>
+      <caption webpage="version-1" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="version-3" alt=""/>
       <caption webpage="version-3" alt=""/>
       <caption webpage="version-3" alt=""/>
-      <caption webpage="version-1" alt=""/>
-      <caption webpage="version-1" alt=""/>
-      <caption webpage="version-1" alt=""/>
       <caption webpage="version-2" alt=""/>
       <caption webpage="version-2" alt=""/>
       <caption webpage="version-2" alt=""/>
@@ -449,45 +449,45 @@
     <file name="u1395-4.png" crc="3785014924" ref="version-1:version-2:index:version-3"/>
     <file name="u1403-4.png" crc="4014642397" ref="version-1:version-2:index:version-3"/>
     <file name="map.png" crc="372465025" seo="true" ref="version-1:version-2:index:version-3">
+      <caption webpage="version-1" alt=""/>
+      <caption webpage="version-1" alt=""/>
+      <caption webpage="version-1" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="version-3" alt=""/>
       <caption webpage="version-3" alt=""/>
       <caption webpage="version-3" alt=""/>
-      <caption webpage="version-1" alt=""/>
-      <caption webpage="version-1" alt=""/>
-      <caption webpage="version-1" alt=""/>
       <caption webpage="version-2" alt=""/>
       <caption webpage="version-2" alt=""/>
       <caption webpage="version-2" alt=""/>
     </file>
     <file name="u1421-4.png" crc="3933901625" ref="version-1:version-2:index:version-3"/>
     <file name="sale.png" crc="4025139782" seo="true" ref="version-1:version-2:index:version-3">
+      <caption webpage="version-1" alt=""/>
+      <caption webpage="version-1" alt=""/>
+      <caption webpage="version-1" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="version-3" alt=""/>
       <caption webpage="version-3" alt=""/>
       <caption webpage="version-3" alt=""/>
-      <caption webpage="version-1" alt=""/>
-      <caption webpage="version-1" alt=""/>
-      <caption webpage="version-1" alt=""/>
       <caption webpage="version-2" alt=""/>
       <caption webpage="version-2" alt=""/>
       <caption webpage="version-2" alt=""/>
     </file>
     <file name="u1439-4.png" crc="56410081" ref="version-1:version-2:index:version-3"/>
     <file name="cart_tablet-mobile.png" crc="3825537137" seo="true" ref="version-1:version-2:index:version-3">
+      <caption webpage="version-1" alt=""/>
+      <caption webpage="version-1" alt=""/>
+      <caption webpage="version-1" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="version-3" alt=""/>
       <caption webpage="version-3" alt=""/>
       <caption webpage="version-3" alt=""/>
-      <caption webpage="version-1" alt=""/>
-      <caption webpage="version-1" alt=""/>
-      <caption webpage="version-1" alt=""/>
       <caption webpage="version-2" alt=""/>
       <caption webpage="version-2" alt=""/>
       <caption webpage="version-2" alt=""/>
@@ -577,9 +577,9 @@
     <file name="u13019-82.png" crc="60089271" ref="version-1"/>
     <file name="u2355-7.png" crc="3870356100" ref="version-1:version-2:index:version-3"/>
     <file name="menu_tablet-mobile.png" crc="3951720400" seo="true" ref="version-1:version-2:index:version-3">
+      <caption webpage="version-1" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="version-3" alt=""/>
-      <caption webpage="version-1" alt=""/>
       <caption webpage="version-2" alt=""/>
     </file>
     <file name="u2624-4.png" crc="249290530" ref="version-1:version-2:index:version-3"/>
@@ -635,40 +635,40 @@
       <caption webpage="version-2" alt=""/>
     </file>
     <file name="window_anim.gif" crc="140385454" seo="true" ref="version-2:version-3">
-      <caption webpage="version-2" alt=""/>
-      <caption webpage="version-2" alt=""/>
-      <caption webpage="version-2" alt=""/>
-      <caption webpage="version-2" alt=""/>
-      <caption webpage="version-2" alt=""/>
       <caption webpage="version-3" alt=""/>
       <caption webpage="version-3" alt=""/>
       <caption webpage="version-3" alt=""/>
       <caption webpage="version-3" alt=""/>
       <caption webpage="version-3" alt=""/>
+      <caption webpage="version-2" alt=""/>
+      <caption webpage="version-2" alt=""/>
+      <caption webpage="version-2" alt=""/>
+      <caption webpage="version-2" alt=""/>
+      <caption webpage="version-2" alt=""/>
     </file>
     <file name="ab_frame1_blue.jpg" crc="3768533193" ref="version-2:version-3">
-      <caption webpage="version-2" alt=""/>
-      <caption webpage="version-2" alt=""/>
       <caption webpage="version-3" alt=""/>
       <caption webpage="version-3" alt=""/>
+      <caption webpage="version-2" alt=""/>
+      <caption webpage="version-2" alt=""/>
     </file>
     <file name="ab_frame2_blue.jpg" crc="4156896366" ref="version-2:version-3">
-      <caption webpage="version-2" alt=""/>
-      <caption webpage="version-2" alt=""/>
       <caption webpage="version-3" alt=""/>
       <caption webpage="version-3" alt=""/>
+      <caption webpage="version-2" alt=""/>
+      <caption webpage="version-2" alt=""/>
     </file>
     <file name="ab_frame3_blue.jpg" crc="340272950" ref="version-2:version-3">
-      <caption webpage="version-2" alt=""/>
-      <caption webpage="version-2" alt=""/>
       <caption webpage="version-3" alt=""/>
       <caption webpage="version-3" alt=""/>
+      <caption webpage="version-2" alt=""/>
+      <caption webpage="version-2" alt=""/>
     </file>
     <file name="ab_frame4_blue.jpg" crc="3859298133" ref="version-2:version-3">
-      <caption webpage="version-2" alt=""/>
-      <caption webpage="version-2" alt=""/>
       <caption webpage="version-3" alt=""/>
       <caption webpage="version-3" alt=""/>
+      <caption webpage="version-2" alt=""/>
+      <caption webpage="version-2" alt=""/>
     </file>
     <file name="midsole_off_blue.svg" crc="4287507451" ref="version-2:version-3"/>
     <file name="midsole_off_blue_poster_u23704.png" crc="4156620804" ref="version-2:version-3"/>
@@ -687,28 +687,28 @@
     <file name="heel_on_blue.svg" crc="9794307" ref="version-2:version-3"/>
     <file name="heel_on_blue_poster_u23768.png" crc="3925508865" ref="version-2:version-3"/>
     <file name="ab_frame1_black.jpg" crc="413077324" ref="version-2:version-3">
-      <caption webpage="version-2" alt=""/>
-      <caption webpage="version-2" alt=""/>
       <caption webpage="version-3" alt=""/>
       <caption webpage="version-3" alt=""/>
+      <caption webpage="version-2" alt=""/>
+      <caption webpage="version-2" alt=""/>
     </file>
     <file name="ab_frame2_black.jpg" crc="333395134" ref="version-2:version-3">
-      <caption webpage="version-2" alt=""/>
-      <caption webpage="version-2" alt=""/>
       <caption webpage="version-3" alt=""/>
       <caption webpage="version-3" alt=""/>
+      <caption webpage="version-2" alt=""/>
+      <caption webpage="version-2" alt=""/>
     </file>
     <file name="ab_frame3_black.jpg" crc="14488382" ref="version-2:version-3">
-      <caption webpage="version-2" alt=""/>
-      <caption webpage="version-2" alt=""/>
       <caption webpage="version-3" alt=""/>
       <caption webpage="version-3" alt=""/>
+      <caption webpage="version-2" alt=""/>
+      <caption webpage="version-2" alt=""/>
     </file>
     <file name="ab_frame4_black.jpg" crc="3788725662" ref="version-2:version-3">
-      <caption webpage="version-2" alt=""/>
-      <caption webpage="version-2" alt=""/>
       <caption webpage="version-3" alt=""/>
       <caption webpage="version-3" alt=""/>
+      <caption webpage="version-2" alt=""/>
+      <caption webpage="version-2" alt=""/>
     </file>
     <file name="midsole_off_black.svg" crc="535509462" ref="version-2:version-3"/>
     <file name="midsole_off_black_poster_u24168.png" crc="4159037815" ref="version-2:version-3"/>
@@ -727,26 +727,26 @@
     <file name="heel_on_black.svg" crc="164404685" ref="version-2:version-3"/>
     <file name="heel_on_black_poster_u24224.png" crc="3894570613" ref="version-2:version-3"/>
     <file name="ab_frame1_olive.jpg" crc="60864310" ref="version-2:version-3">
-      <caption webpage="version-2" alt=""/>
       <caption webpage="version-3" alt=""/>
+      <caption webpage="version-2" alt=""/>
     </file>
     <file name="ab_frame2_olive.jpg" crc="323058533" ref="version-2:version-3">
-      <caption webpage="version-2" alt=""/>
-      <caption webpage="version-2" alt=""/>
       <caption webpage="version-3" alt=""/>
       <caption webpage="version-3" alt=""/>
+      <caption webpage="version-2" alt=""/>
+      <caption webpage="version-2" alt=""/>
     </file>
     <file name="ab_frame3_olive.jpg" crc="246415298" ref="version-2:version-3">
-      <caption webpage="version-2" alt=""/>
-      <caption webpage="version-2" alt=""/>
       <caption webpage="version-3" alt=""/>
       <caption webpage="version-3" alt=""/>
+      <caption webpage="version-2" alt=""/>
+      <caption webpage="version-2" alt=""/>
     </file>
     <file name="ab_frame4_olive.jpg" crc="3979746617" ref="version-2:version-3">
-      <caption webpage="version-2" alt=""/>
-      <caption webpage="version-2" alt=""/>
       <caption webpage="version-3" alt=""/>
       <caption webpage="version-3" alt=""/>
+      <caption webpage="version-2" alt=""/>
+      <caption webpage="version-2" alt=""/>
     </file>
     <file name="midsole_off_olive.svg" crc="240795200" ref="version-2:version-3"/>
     <file name="midsole_off_olive_poster_u24853.png" crc="3785758927" ref="version-2:version-3"/>
@@ -830,8 +830,8 @@
       <caption webpage="version-2" alt=""/>
     </file>
     <file name="ab_frame1_mobile_olive.jpg" crc="3924068720" ref="version-2:version-3">
-      <caption webpage="version-2" alt=""/>
       <caption webpage="version-3" alt=""/>
+      <caption webpage="version-2" alt=""/>
     </file>
     <file name="u17584-7.png" crc="3763764364" ref="version-2"/>
     <file name="u45454-42.png" crc="182990988" ref="version-2"/>
@@ -1077,34 +1077,7 @@
     <file name="running_ss18_edgelux_women_cq1239_ftw_1-crop-u50116.jpg" crc="3895185073" seo="true" ref="version-3">
       <caption webpage="version-3" alt=""/>
     </file>
-    <file name="2_men_banner.jpg" crc="4251259540" ref="version-3">
-      <caption webpage="version-3" alt=""/>
-      <caption webpage="version-3" alt=""/>
-      <caption webpage="version-3" alt=""/>
-      <caption webpage="version-3" alt=""/>
-      <caption webpage="version-3" alt=""/>
-      <caption webpage="version-3" alt=""/>
-      <caption webpage="version-3" alt=""/>
-      <caption webpage="version-3" alt=""/>
-      <caption webpage="version-3" alt=""/>
-      <caption webpage="version-3" alt=""/>
-      <caption webpage="version-3" alt=""/>
-      <caption webpage="version-3" alt=""/>
-      <caption webpage="version-3" alt=""/>
-    </file>
-    <file name="2_women_banner.jpg" crc="351744100" ref="version-3">
-      <caption webpage="version-3" alt=""/>
-      <caption webpage="version-3" alt=""/>
-      <caption webpage="version-3" alt=""/>
-      <caption webpage="version-3" alt=""/>
-      <caption webpage="version-3" alt=""/>
-      <caption webpage="version-3" alt=""/>
-      <caption webpage="version-3" alt=""/>
-      <caption webpage="version-3" alt=""/>
-      <caption webpage="version-3" alt=""/>
-      <caption webpage="version-3" alt=""/>
-      <caption webpage="version-3" alt=""/>
-      <caption webpage="version-3" alt=""/>
+    <file name="doublebanner-100.jpg" crc="441231899" ref="version-3">
       <caption webpage="version-3" alt=""/>
     </file>
     <file name="u51923-7.png" crc="3782468148" ref="version-3"/>
@@ -1121,6 +1094,7 @@
       <caption webpage="version-3" alt=""/>
     </file>
     <file name="u51926-7.png" crc="3763764364" ref="version-3"/>
+    <file name="doublebanner-100-u56195-fr.jpg" crc="4251511157" ref="version-3"/>
     <file name="shoe_windows-crop-u501113.jpg" crc="4119659087" seo="true" ref="version-3">
       <caption webpage="version-3" alt=""/>
     </file>
@@ -1134,6 +1108,8 @@
       <caption webpage="version-3" alt=""/>
     </file>
     <file name="u51926-72.png" crc="4054709028" ref="version-3"/>
+    <file name="doublebanner-100-u56195-fr2.jpg" crc="102793153" ref="version-3"/>
+    <file name="doublebanner-100-u56652-fr.jpg" crc="4095425624" ref="version-3"/>
     <file name="shoe_windows-crop-u501114.jpg" crc="297724202" seo="true" ref="version-3">
       <caption webpage="version-3" alt=""/>
     </file>
@@ -1147,6 +1123,8 @@
       <caption webpage="version-3" alt=""/>
     </file>
     <file name="u51926-73.png" crc="362257630" ref="version-3"/>
+    <file name="doublebanner-100-u56195-fr3.jpg" crc="226768953" ref="version-3"/>
+    <file name="doublebanner-100-u56652-fr2.jpg" crc="4151297442" ref="version-3"/>
     <file name="shoe_windows-crop-u501115.jpg" crc="3794676242" seo="true" ref="version-3">
       <caption webpage="version-3" alt=""/>
     </file>
@@ -1160,6 +1138,8 @@
       <caption webpage="version-3" alt=""/>
     </file>
     <file name="u51926-74.png" crc="50266184" ref="version-3"/>
+    <file name="doublebanner-100-u56195-fr4.jpg" crc="33587100" ref="version-3"/>
+    <file name="doublebanner-100-u56652-fr3.jpg" crc="188118749" ref="version-3"/>
     <file name="u51907-8.png" crc="3797129032" ref="version-3"/>
     <file name="shoe_windows-crop-u501116.jpg" crc="251303117" seo="true" ref="version-3">
       <caption webpage="version-3" alt=""/>
@@ -1174,8 +1154,8 @@
       <caption webpage="version-3" alt=""/>
     </file>
     <file name="u51924-7.png" crc="50510637" ref="version-3"/>
-    <file name="2_men_banner-u53974-fr.jpg" crc="234125030" ref="version-3"/>
-    <file name="2_women_banner-u53992-fr.jpg" crc="4125673185" ref="version-3"/>
+    <file name="doublebanner-100-u56195-fr5.jpg" crc="189651601" ref="version-3"/>
+    <file name="doublebanner-100-u56652-fr4.jpg" crc="4049815711" ref="version-3"/>
     <file name="u51913-8.png" crc="3896607462" ref="version-3"/>
     <file name="shoe_windows-crop-u501117.jpg" crc="4022639345" seo="true" ref="version-3">
       <caption webpage="version-3" alt=""/>
@@ -1189,8 +1169,8 @@
     <file name="running_ss18_edgelux_women_cq1239_ftw_1-crop-u501167.jpg" crc="368507546" seo="true" ref="version-3">
       <caption webpage="version-3" alt=""/>
     </file>
-    <file name="2_men_banner-u53974-fr2.jpg" crc="87653048" ref="version-3"/>
-    <file name="2_women_banner-u53992-fr2.jpg" crc="4004750692" ref="version-3"/>
+    <file name="2_men_banner-u56352-fr.jpg" crc="531607908" ref="version-3"/>
+    <file name="2_women_banner-u56368-fr.jpg" crc="78411543" ref="version-3"/>
     <file name="u51913-82.png" crc="60089271" ref="version-3"/>
     <file name="shoe_windows-crop-u501118.jpg" crc="4290255155" seo="true" ref="version-3">
       <caption webpage="version-3" alt=""/>
@@ -1204,11 +1184,11 @@
     <file name="running_ss18_edgelux_women_cq1239_ftw_1-crop-u501168.jpg" crc="233835383" seo="true" ref="version-3">
       <caption webpage="version-3" alt=""/>
     </file>
-    <file name="2_men_banner-u53974-fr3.jpg" crc="270394244" ref="version-3"/>
-    <file name="2_women_banner-u53992-fr3.jpg" crc="4180795015" ref="version-3"/>
+    <file name="2_men_banner-u56397-fr.jpg" crc="287651370" ref="version-3"/>
+    <file name="2_women_banner-u56398-fr.jpg" crc="3972595752" ref="version-3"/>
   </folder>
-  <file name="version-1.html" crc="3846719685" seo="true" mt="1521071333191" redirect="true"/>
-  <file name="version-2.html" crc="210909027" seo="true" mt="1521423724216" redirect="true"/>
-  <file name="index.html" crc="263769878" seo="true" mt="1521424166902" redirect="true"/>
-  <file name="version-3.html" crc="257612814" seo="true" mt="1521423724214" redirect="true"/>
+  <file name="version-1.html" crc="3808906609" seo="true" mt="1521071333191" redirect="true"/>
+  <file name="version-2.html" crc="435127919" seo="true" mt="1521423724216" redirect="true"/>
+  <file name="index.html" crc="362261625" seo="true" mt="1521424166902" redirect="true"/>
+  <file name="version-3.html" crc="163061387" seo="true" mt="1521473828036" redirect="true"/>
 </manifest>
