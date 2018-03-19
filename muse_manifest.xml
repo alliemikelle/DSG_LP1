@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://alliemikelle.github.io/DSG_LP1" resolutions="1x" timestamp="1521473917077">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://alliemikelle.github.io/DSG_LP1" resolutions="1x" timestamp="1521474507074">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="4173786265" ref="version-1:version-2:version-3:index"/>
@@ -1189,6 +1189,6 @@
   </folder>
   <file name="version-1.html" crc="3808906609" seo="true" mt="1521071333191" redirect="true"/>
   <file name="version-2.html" crc="435127919" seo="true" mt="1521423724216" redirect="true"/>
-  <file name="index.html" crc="362261625" seo="true" mt="1521424166902" redirect="true"/>
+  <file name="index.html" crc="276204036" seo="true" mt="1521424166902" redirect="true"/>
   <file name="version-3.html" crc="163061387" seo="true" mt="1521473828036" redirect="true"/>
 </manifest>
