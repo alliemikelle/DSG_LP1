@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://alliemikelle.github.io/DSG_LP1" resolutions="1x" timestamp="1521677733703">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://alliemikelle.github.io/DSG_LP1" resolutions="1x" timestamp="1521688238975">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="4173786265" ref="version-1:version-2:version-3:index:version-4"/>
@@ -9,10 +9,10 @@
     <file name="nomq_version-2.css" crc="4115880501" ref="version-2"/>
     <file name="version-3.css" crc="369526986" ref="version-3"/>
     <file name="nomq_version-3.css" crc="4057964634" ref="version-3"/>
-    <file name="index.css" crc="400561951" ref="index"/>
-    <file name="nomq_index.css" crc="239366337" ref="index"/>
-    <file name="version-4.css" crc="4034482248" ref="version-4"/>
-    <file name="nomq_version-4.css" crc="405865417" ref="version-4"/>
+    <file name="index.css" crc="3912119002" ref="index"/>
+    <file name="nomq_index.css" crc="485879047" ref="index"/>
+    <file name="version-4.css" crc="248472425" ref="version-4"/>
+    <file name="nomq_version-4.css" crc="178458609" ref="version-4"/>
   </folder>
   <folder name="fonts">
     <file name="din-medi.woff" crc="3978543979"/>
@@ -23,13 +23,6 @@
     <file name="dsgsans-bold.svg" crc="3762300238"/>
   </folder>
   <folder name="assets">
-    <folder name="el_flower_rotation">
-      <folder name="images">
-        <file name="EL_Flower.jpg" crc="4204699654" mt="1521673114000"/>
-      </folder>
-      <file name="EL_FlowerRotation.js" crc="324892720" mt="1521673114000"/>
-      <file name="EL_FlowerRotation.html" crc="4175497336" mt="1521673114000"/>
-    </folder>
     <folder name="rtg_animation_oam">
       <file name="window_anim.js" crc="4123758576" mt="1521499099000"/>
       <file name="window_anim.html" crc="3800850038" mt="1521499099000"/>
@@ -157,7 +150,7 @@
       <caption webpage="version-2" alt=""/>
     </file>
     <file name="u3044-4.png" crc="3876006808" ref="version-1"/>
-    <file name="shoe_windows-crop-u3051.jpg" crc="353492089" seo="true" ref="version-1">
+    <file name="shoe_windows-crop-u3051.jpg" crc="3938686802" seo="true" ref="version-1">
       <caption webpage="version-1" alt=""/>
     </file>
     <file name="shoe_right2250x250.jpg" crc="332294426" seo="true" ref="version-1">
@@ -330,7 +323,7 @@
       <caption webpage="version-1" alt=""/>
     </file>
     <file name="u3044-42.png" crc="3937415288" ref="version-1"/>
-    <file name="shoe_windows-crop-u30512.jpg" crc="505652548" seo="true" ref="version-1">
+    <file name="shoe_windows-crop-u30512.jpg" crc="114772755" seo="true" ref="version-1">
       <caption webpage="version-1" alt=""/>
     </file>
     <file name="shoe_right2213x213.jpg" crc="348236879" seo="true" ref="version-1">
@@ -361,7 +354,7 @@
       <caption webpage="version-1" alt=""/>
     </file>
     <file name="u3044-43.png" crc="104389670" ref="version-1"/>
-    <file name="shoe_windows-crop-u30513.jpg" crc="4267418213" seo="true" ref="version-1">
+    <file name="shoe_windows-crop-u30513.jpg" crc="443109253" seo="true" ref="version-1">
       <caption webpage="version-1" alt=""/>
     </file>
     <file name="shoe_right2178x178.jpg" crc="3979787405" seo="true" ref="version-1">
@@ -397,7 +390,7 @@
       <caption webpage="version-1" alt=""/>
     </file>
     <file name="u3044-44.png" crc="3833717496" ref="version-1"/>
-    <file name="shoe_windows-crop-u30514.jpg" crc="3823369455" seo="true" ref="version-1">
+    <file name="shoe_windows-crop-u30514.jpg" crc="4016068374" seo="true" ref="version-1">
       <caption webpage="version-1" alt=""/>
     </file>
     <file name="shoe_right2165x165.jpg" crc="40966067" seo="true" ref="version-1">
@@ -432,7 +425,7 @@
       <caption webpage="version-1" alt=""/>
     </file>
     <file name="u3044-45.png" crc="534615474" ref="version-1"/>
-    <file name="shoe_windows-crop-u30515.jpg" crc="122049014" seo="true" ref="version-1">
+    <file name="shoe_windows-crop-u30515.jpg" crc="3835689591" seo="true" ref="version-1">
       <caption webpage="version-1" alt=""/>
     </file>
     <file name="shoe_right2139x139.jpg" crc="121933631" seo="true" ref="version-1">
@@ -570,7 +563,7 @@
     </file>
     <file name="u6848-8.png" crc="3797129032" ref="version-1"/>
     <file name="u3044-46.png" crc="256390300" ref="version-1"/>
-    <file name="shoe_windows-crop-u30516.jpg" crc="128280906" seo="true" ref="version-1">
+    <file name="shoe_windows-crop-u30516.jpg" crc="3956701529" seo="true" ref="version-1">
       <caption webpage="version-1" alt=""/>
     </file>
     <file name="shoe_right2161x161.jpg" crc="4179438021" seo="true" ref="version-1">
@@ -611,7 +604,7 @@
     <file name="u2024-4.png" crc="531264987" ref="version-1:version-2:index:version-3:version-4"/>
     <file name="u13019-8.png" crc="3896607462" ref="version-1"/>
     <file name="u13040-4.png" crc="4105398972" ref="version-1"/>
-    <file name="shoe_windows-crop-u30517.jpg" crc="4229616222" seo="true" ref="version-1">
+    <file name="shoe_windows-crop-u30517.jpg" crc="479193786" seo="true" ref="version-1">
       <caption webpage="version-1" alt=""/>
     </file>
     <file name="shoe_right2159x160.jpg" crc="4260489986" seo="true" ref="version-1">
@@ -661,7 +654,7 @@
     <file name="u2362-4.png" crc="511508447" ref="version-1:version-2:index:version-3:version-4"/>
     <file name="u2363-4.png" crc="3889596608" ref="version-1:version-2:index:version-3:version-4"/>
     <file name="u13040-42.png" crc="309976155" ref="version-1"/>
-    <file name="shoe_windows-crop-u30518.jpg" crc="4188176514" seo="true" ref="version-1">
+    <file name="shoe_windows-crop-u30518.jpg" crc="3919672453" seo="true" ref="version-1">
       <caption webpage="version-1" alt=""/>
     </file>
     <file name="shoe_right2142x142.jpg" crc="4158094538" seo="true" ref="version-1">
@@ -749,7 +742,6 @@
       <caption webpage="version-4" alt=""/>
       <caption webpage="version-4" alt=""/>
       <caption webpage="version-4" alt=""/>
-      <caption webpage="version-4" alt=""/>
       <caption webpage="version-2" alt=""/>
       <caption webpage="version-2" alt=""/>
     </file>
@@ -819,6 +811,7 @@
     <file name="heel_on_black_poster_u24224.png" crc="3894570613" ref="version-2:version-3:version-4"/>
     <file name="ab_frame1_olive.jpg" crc="60864310" ref="version-2:version-3:version-4">
       <caption webpage="version-3" alt=""/>
+      <caption webpage="version-4" alt=""/>
       <caption webpage="version-4" alt=""/>
       <caption webpage="version-2" alt=""/>
     </file>
@@ -927,9 +920,8 @@
     <file name="running_ss18_edgelux_women_cq1239_ftw_1-crop-u168372.jpg" crc="4175767527" seo="true" ref="version-2">
       <caption webpage="version-2" alt=""/>
     </file>
-    <file name="ab_frame1_mobile_olive.jpg" crc="3924068720" ref="version-2:version-3:version-4">
+    <file name="ab_frame1_mobile_olive.jpg" crc="3924068720" ref="version-2:version-3">
       <caption webpage="version-3" alt=""/>
-      <caption webpage="version-4" alt=""/>
       <caption webpage="version-2" alt=""/>
     </file>
     <file name="u17584-7.png" crc="3763764364" ref="version-2"/>
@@ -1121,6 +1113,8 @@
     <file name="u44554-r.png" crc="4061905754" ref="index"/>
     <file name="u53813.png" crc="360747604" ref="index"/>
     <file name="u53813-r.png" crc="360747604" ref="index"/>
+    <file name="u118881.png" crc="145410960" ref="index"/>
+    <file name="u118881-r.png" crc="145410960" ref="index"/>
     <file name="shoepile.jpg" crc="3842135486" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -1131,6 +1125,8 @@
     <file name="u44554-r2.png" crc="122694533" ref="index"/>
     <file name="u538132.png" crc="183119541" ref="index"/>
     <file name="u53813-r2.png" crc="183119541" ref="index"/>
+    <file name="u1188812.png" crc="4292353322" ref="index"/>
+    <file name="u118881-r2.png" crc="4292353322" ref="index"/>
     <file name="u44535-42.png" crc="402970991" ref="index"/>
     <file name="u445453.png" crc="32582606" ref="index"/>
     <file name="u44545-r3.png" crc="32582606" ref="index"/>
@@ -1138,6 +1134,8 @@
     <file name="u44554-r3.png" crc="4068769478" ref="index"/>
     <file name="u538133.png" crc="399100344" ref="index"/>
     <file name="u53813-r3.png" crc="399100344" ref="index"/>
+    <file name="u1188813.png" crc="3809618257" ref="index"/>
+    <file name="u118881-r3.png" crc="3809618257" ref="index"/>
     <file name="shoepile-u44538-fr.jpg" crc="166173378" ref="index"/>
     <file name="u44535-43.png" crc="153379432" ref="index"/>
     <file name="u445454.png" crc="350623018" ref="index"/>
@@ -1146,6 +1144,8 @@
     <file name="u44554-r4.png" crc="4156381397" ref="index"/>
     <file name="u538134.png" crc="328061651" ref="index"/>
     <file name="u53813-r4.png" crc="328061651" ref="index"/>
+    <file name="u1188814.png" crc="4047613527" ref="index"/>
+    <file name="u118881-r4.png" crc="4047613527" ref="index"/>
     <file name="shoepile-u44538-fr2.jpg" crc="4001479997" ref="index"/>
     <file name="u44535-44.png" crc="4101303122" ref="index"/>
     <file name="u45116.png" crc="4209051958" ref="index"/>
@@ -1154,12 +1154,16 @@
     <file name="u45118-r.png" crc="3828252944" ref="index"/>
     <file name="u56169.png" crc="4015778053" ref="index"/>
     <file name="u56169-r.png" crc="4015778053" ref="index"/>
+    <file name="u122770.png" crc="4013813761" ref="index"/>
+    <file name="u122770-r.png" crc="4013813761" ref="index"/>
     <file name="shoepile-u44538-fr3.jpg" crc="4011868001" ref="index"/>
     <file name="u44535-45.png" crc="4214386041" ref="index"/>
     <file name="u451182.png" crc="305362563" ref="index"/>
     <file name="u45118-r2.png" crc="305362563" ref="index"/>
     <file name="u561692.png" crc="331461317" ref="index"/>
     <file name="u56169-r2.png" crc="331461317" ref="index"/>
+    <file name="u1227702.png" crc="4132341613" ref="index"/>
+    <file name="u122770-r2.png" crc="4132341613" ref="index"/>
     <file name="shoepile-u44538-fr4.jpg" crc="4018308188" ref="index"/>
     <file name="u44535-46.png" crc="175052518" ref="index"/>
     <file name="u451162.png" crc="373676967" ref="index"/>
@@ -1193,7 +1197,7 @@
       <caption webpage="version-3" alt=""/>
     </file>
     <file name="u51926-7.png" crc="3763764364" ref="version-3"/>
-    <file name="doublebanner-100-u56195-fr.jpg" crc="382958215" ref="version-3:version-4"/>
+    <file name="doublebanner-100-u56195-fr.jpg" crc="382958215" ref="version-3"/>
     <file name="shoe_windows-crop-u501113.jpg" crc="4119659087" seo="true" ref="version-3">
       <caption webpage="version-3" alt=""/>
     </file>
@@ -1309,7 +1313,7 @@
       <caption webpage="version-4" alt=""/>
     </file>
     <file name="u60496-7.png" crc="3782468148" ref="version-4"/>
-    <file name="ultraboost_header.jpg" crc="342218624" seo="true" ref="version-4">
+    <file name="ultraboost_header.jpg" crc="3808208029" seo="true" ref="version-4">
       <caption webpage="version-4" alt=""/>
       <caption webpage="version-4" alt=""/>
       <caption webpage="version-4" alt=""/>
@@ -1319,17 +1323,23 @@
       <caption webpage="version-4" alt=""/>
       <caption webpage="version-4" alt=""/>
     </file>
-    <file name="ub_m_inactive.jpg" crc="3338352" ref="version-4">
+    <file name="ub_m_inactive.jpg" crc="4036748241" ref="version-4">
+      <caption webpage="version-4" alt=""/>
       <caption webpage="version-4" alt=""/>
     </file>
-    <file name="ub_m_active.jpg" crc="239860083" ref="version-4">
+    <file name="ub_m_active.jpg" crc="224262669" ref="version-4">
+      <caption webpage="version-4" alt=""/>
+      <caption webpage="version-4" alt=""/>
       <caption webpage="version-4" alt=""/>
       <caption webpage="version-4" alt=""/>
     </file>
     <file name="ub_m_active_1.jpg" crc="4092737766" ref="version-4">
       <caption webpage="version-4" alt=""/>
+      <caption webpage="version-4" alt=""/>
     </file>
     <file name="ub_w_active.jpg" crc="3914595447" ref="version-4">
+      <caption webpage="version-4" alt=""/>
+      <caption webpage="version-4" alt=""/>
       <caption webpage="version-4" alt=""/>
       <caption webpage="version-4" alt=""/>
     </file>
@@ -1604,6 +1614,9 @@
     <file name="u66889-7.png" crc="400103887" ref="version-4"/>
     <file name="el_header.svg" crc="40196791" ref="version-4"/>
     <file name="el_header_poster_u102755.png" crc="4133131651" ref="version-4"/>
+    <file name="el_flowerrotationgif-crop-u119247.png" crc="3787785055" seo="true" ref="version-4">
+      <caption webpage="version-4" alt=""/>
+    </file>
     <file name="u104020-7.png" crc="411474259" ref="version-4"/>
     <file name="el_frame1_mobile_grey.jpg" crc="3959186428" ref="version-4">
       <caption webpage="version-4" alt=""/>
@@ -1681,25 +1694,25 @@
     <file name="pink swatch inactive_w_pink_poster_u108317.png" crc="4286894381" ref="version-4"/>
     <file name="pink swatch active_w_pink2.svg" crc="4020656900" ref="version-4"/>
     <file name="pink swatch active_w_pink_poster_u108301.png" crc="4036158354" ref="version-4"/>
-    <file name="shoe_windows-crop-u659732.jpg" crc="4168585187" seo="true" ref="version-4">
+    <file name="shoe_windows-crop-u659732.jpg" crc="478037485" seo="true" ref="version-4">
       <caption webpage="version-4" alt=""/>
     </file>
-    <file name="single-crop-u659642.jpg" crc="4230880719" seo="true" ref="version-4">
+    <file name="single-crop-u659642.jpg" crc="4276363810" seo="true" ref="version-4">
       <caption webpage="version-4" alt=""/>
     </file>
-    <file name="ubwomen_icon-crop-u659602.jpg" crc="216197599" seo="true" ref="version-4">
+    <file name="ubwomen_icon-crop-u659602.jpg" crc="4071356743" seo="true" ref="version-4">
       <caption webpage="version-4" alt=""/>
     </file>
-    <file name="running_ss18_edgelux_women_cq1239_ftw_1-crop-u659552.jpg" crc="4175767527" seo="true" ref="version-4">
+    <file name="running_ss18_edgelux_women_cq1239_ftw_1-crop-u659552.jpg" crc="44904016" seo="true" ref="version-4">
       <caption webpage="version-4" alt=""/>
     </file>
-    <file name="u60495-7.png" crc="3763764364" ref="version-4"/>
-    <file name="ub_m_inactive-u74973-fr.jpg" crc="372254213" ref="version-4"/>
-    <file name="ub_m_active-u74973-r-fr.jpg" crc="4159802814" ref="version-4"/>
-    <file name="ub_m_active_1-u74972-fr.jpg" crc="406130381" ref="version-4"/>
-    <file name="ub_w_active-u74972-r-fr.jpg" crc="189938775" ref="version-4"/>
-    <file name="u66889-72.png" crc="3884313573" ref="version-4"/>
-    <file name="u104020-72.png" crc="288615539" ref="version-4"/>
+    <file name="u60496-72.png" crc="107177486" ref="version-4"/>
+    <file name="u66889-72.png" crc="217082147" ref="version-4"/>
+    <file name="el_flowerrotationgif-crop-u1192472.png" crc="82060823" seo="true" ref="version-4">
+      <caption webpage="version-4" alt=""/>
+    </file>
+    <file name="u104020-72.png" crc="3986340540" ref="version-4"/>
+    <file name="doublebanner-100-u65775-fr.jpg" crc="4154528057" ref="version-4"/>
     <file name="shoe_windows-crop-u659733.jpg" crc="4119659087" seo="true" ref="version-4">
       <caption webpage="version-4" alt=""/>
     </file>
@@ -1712,10 +1725,10 @@
     <file name="running_ss18_edgelux_women_cq1239_ftw_1-crop-u659553.jpg" crc="32594754" seo="true" ref="version-4">
       <caption webpage="version-4" alt=""/>
     </file>
-    <file name="u60495-72.png" crc="4054709028" ref="version-4"/>
+    <file name="u60495-7.png" crc="4054709028" ref="version-4"/>
     <file name="u66889-73.png" crc="3823568593" ref="version-4"/>
-    <file name="ub_m_inactive-u78521-fr.jpg" crc="408181365" ref="version-4"/>
-    <file name="ub_m_active-u78521-r-fr.jpg" crc="80110975" ref="version-4"/>
+    <file name="ub_m_inactive-u78521-fr.jpg" crc="473274209" ref="version-4"/>
+    <file name="ub_m_active-u78521-r-fr.jpg" crc="83826723" ref="version-4"/>
     <file name="ub_m_active_1-u78520-fr.jpg" crc="195018415" ref="version-4"/>
     <file name="ub_w_active-u78520-r-fr.jpg" crc="4144889050" ref="version-4"/>
     <file name="ub_frame1_black-u80446-fr.jpg" crc="4278730570" ref="version-4"/>
@@ -1750,6 +1763,9 @@
     <file name="ubw_frame2_blue-u78859-fr.jpg" crc="3939382702" ref="version-4"/>
     <file name="ubw_frame3_blue-u78857-fr.jpg" crc="3931891787" ref="version-4"/>
     <file name="ubw_frame4_blue-u78858-fr.jpg" crc="4190654203" ref="version-4"/>
+    <file name="el_flowerrotationgif-crop-u1192473.png" crc="3869007157" seo="true" ref="version-4">
+      <caption webpage="version-4" alt=""/>
+    </file>
     <file name="u104020-73.png" crc="4194044859" ref="version-4"/>
     <file name="el_frame1_mobile_grey-u111843-fr.jpg" crc="376248513" ref="version-4"/>
     <file name="el_frame2 -mobile_grey-u111841-fr.jpg" crc="37310557" ref="version-4"/>
@@ -1771,10 +1787,10 @@
     <file name="running_ss18_edgelux_women_cq1239_ftw_1-crop-u659554.jpg" crc="3829860968" seo="true" ref="version-4">
       <caption webpage="version-4" alt=""/>
     </file>
-    <file name="u60495-73.png" crc="362257630" ref="version-4"/>
+    <file name="u60495-72.png" crc="362257630" ref="version-4"/>
     <file name="u66889-74.png" crc="3887709926" ref="version-4"/>
-    <file name="ub_m_inactive-u82699-fr.jpg" crc="4001148398" ref="version-4"/>
-    <file name="ub_m_active-u82699-r-fr.jpg" crc="343624019" ref="version-4"/>
+    <file name="ub_m_inactive-u82699-fr.jpg" crc="9984695" ref="version-4"/>
+    <file name="ub_m_active-u82699-r-fr.jpg" crc="295789387" ref="version-4"/>
     <file name="ub_m_active_1-u82698-fr.jpg" crc="4235978469" ref="version-4"/>
     <file name="ub_w_active-u82698-r-fr.jpg" crc="3976812239" ref="version-4"/>
     <file name="ub_frame1_black-u83601-fr.jpg" crc="3811395564" ref="version-4"/>
@@ -1809,6 +1825,9 @@
     <file name="ubw_frame2_blue-u91183-fr.jpg" crc="215087910" ref="version-4"/>
     <file name="ubw_frame3_blue-u91182-fr.jpg" crc="4206872599" ref="version-4"/>
     <file name="ubw_frame4_blue-u91185-fr.jpg" crc="28782379" ref="version-4"/>
+    <file name="el_flowerrotationgif-crop-u1192474.png" crc="3825930150" seo="true" ref="version-4">
+      <caption webpage="version-4" alt=""/>
+    </file>
     <file name="u104020-74.png" crc="3817238366" ref="version-4"/>
     <file name="el_frame1_mobile_grey-u111037-fr.jpg" crc="4134806296" ref="version-4"/>
     <file name="el_frame2 -mobile_grey-u111035-fr.jpg" crc="3793059274" ref="version-4"/>
@@ -1830,9 +1849,9 @@
     <file name="running_ss18_edgelux_women_cq1239_ftw_1-crop-u659555.jpg" crc="182892030" seo="true" ref="version-4">
       <caption webpage="version-4" alt=""/>
     </file>
-    <file name="u60495-74.png" crc="50266184" ref="version-4"/>
-    <file name="ub_m_inactive-u82549-fr.jpg" crc="4294142584" ref="version-4"/>
-    <file name="ub_m_active-u82549-r-fr.jpg" crc="305968277" ref="version-4"/>
+    <file name="u60495-73.png" crc="50266184" ref="version-4"/>
+    <file name="ub_m_inactive-u82549-fr.jpg" crc="3789114035" ref="version-4"/>
+    <file name="ub_m_active-u82549-r-fr.jpg" crc="4283106290" ref="version-4"/>
     <file name="ub_m_active_1-u82548-fr.jpg" crc="186064756" ref="version-4"/>
     <file name="ub_w_active-u82548-r-fr.jpg" crc="389479545" ref="version-4"/>
     <file name="ub_frame1_black-u85053-fr.jpg" crc="356945816" ref="version-4"/>
@@ -1868,6 +1887,9 @@
     <file name="ubw_frame3_blue-u92916-fr.jpg" crc="403033710" ref="version-4"/>
     <file name="ubw_frame4_blue-u92919-fr.jpg" crc="4237015543" ref="version-4"/>
     <file name="u66889-75.png" crc="284894102" ref="version-4"/>
+    <file name="el_flowerrotationgif-crop-u1192475.png" crc="465636175" seo="true" ref="version-4">
+      <caption webpage="version-4" alt=""/>
+    </file>
     <file name="u104020-75.png" crc="248166881" ref="version-4"/>
     <file name="el_frame1_mobile_grey-u110231-fr.jpg" crc="4034038893" ref="version-4"/>
     <file name="el_frame2 -mobile_grey-u110229-fr.jpg" crc="410607127" ref="version-4"/>
@@ -1892,8 +1914,8 @@
     </file>
     <file name="u60492-7.png" crc="50510637" ref="version-4"/>
     <file name="u66889-76.png" crc="126425255" ref="version-4"/>
-    <file name="ub_m_inactive-u82849-fr.jpg" crc="4290483236" ref="version-4"/>
-    <file name="ub_m_active-u82849-r-fr.jpg" crc="4006764734" ref="version-4"/>
+    <file name="ub_m_inactive-u82849-fr.jpg" crc="469720284" ref="version-4"/>
+    <file name="ub_m_active-u82849-r-fr.jpg" crc="3774413054" ref="version-4"/>
     <file name="ub_m_active_1-u82848-fr.jpg" crc="3829570290" ref="version-4"/>
     <file name="ub_w_active-u82848-r-fr.jpg" crc="4292921347" ref="version-4"/>
     <file name="ub_frame1_mobile_black-u86505-fr.jpg" crc="120239043" ref="version-4"/>
@@ -1928,6 +1950,9 @@
     <file name="ubw_frame2 -mobile_blue-u94369-fr.jpg" crc="354860982" ref="version-4"/>
     <file name="ubw_frame3-mobile_blue-u94368-fr.jpg" crc="3825955286" ref="version-4"/>
     <file name="ubw_frame4-mobile_blue-u94371-fr.jpg" crc="4146934198" ref="version-4"/>
+    <file name="el_flowerrotationgif-crop-u1192476.png" crc="3869979552" seo="true" ref="version-4">
+      <caption webpage="version-4" alt=""/>
+    </file>
     <file name="u104020-76.png" crc="3805651987" ref="version-4"/>
     <file name="el_frame1_mobile_grey-u109284-fr.jpg" crc="4006834703" ref="version-4"/>
     <file name="el_frame2 -mobile_grey-u109282-fr.jpg" crc="3843053448" ref="version-4"/>
@@ -1950,8 +1975,8 @@
     <file name="running_ss18_edgelux_women_cq1239_ftw_1-crop-u659557.jpg" crc="368507546" seo="true" ref="version-4">
       <caption webpage="version-4" alt=""/>
     </file>
-    <file name="ub_m_inactive-u82999-fr.jpg" crc="387847362" ref="version-4"/>
-    <file name="ub_m_active-u82999-r-fr.jpg" crc="232269969" ref="version-4"/>
+    <file name="ub_m_inactive-u82999-fr.jpg" crc="31420874" ref="version-4"/>
+    <file name="ub_m_active-u82999-r-fr.jpg" crc="4237485875" ref="version-4"/>
     <file name="ub_m_active_1-u82998-fr.jpg" crc="536543347" ref="version-4"/>
     <file name="ub_w_active-u82998-r-fr.jpg" crc="4074463755" ref="version-4"/>
     <file name="ub_frame1_mobile_black-u87957-fr.jpg" crc="4220704926" ref="version-4"/>
@@ -1994,6 +2019,9 @@
       <caption webpage="version-4" alt=""/>
       <caption webpage="version-4" alt=""/>
     </file>
+    <file name="el_flowerrotationgif-crop-u1192477.png" crc="167088858" seo="true" ref="version-4">
+      <caption webpage="version-4" alt=""/>
+    </file>
     <file name="el_frame1_mobile_grey-u106757-fr.jpg" crc="84168545" ref="version-4"/>
     <file name="el_frame2 -mobile_grey-u106760-fr.jpg" crc="330982165" ref="version-4"/>
     <file name="el_frame3-mobile_grey-u106758-fr.jpg" crc="195846144" ref="version-4"/>
@@ -2015,8 +2043,8 @@
     <file name="running_ss18_edgelux_women_cq1239_ftw_1-crop-u659558.jpg" crc="233835383" seo="true" ref="version-4">
       <caption webpage="version-4" alt=""/>
     </file>
-    <file name="ub_m_inactive-u83149-fr.jpg" crc="4090477985" ref="version-4"/>
-    <file name="ub_m_active-u83149-r-fr.jpg" crc="3995538810" ref="version-4"/>
+    <file name="ub_m_inactive-u83149-fr.jpg" crc="331431556" ref="version-4"/>
+    <file name="ub_m_active-u83149-r-fr.jpg" crc="3921035949" ref="version-4"/>
     <file name="ub_m_active_1-u83148-fr.jpg" crc="3799750900" ref="version-4"/>
     <file name="ub_w_active-u83148-r-fr.jpg" crc="107167737" ref="version-4"/>
     <file name="ub_frame1_mobile_black-u89409-fr.jpg" crc="314333616" ref="version-4"/>
@@ -2051,6 +2079,9 @@
     <file name="ubw_frame2_blue-u97273-fr.jpg" crc="3980573327" ref="version-4"/>
     <file name="ubw_frame3_blue-u97272-fr.jpg" crc="434303663" ref="version-4"/>
     <file name="ubw_frame4_blue-u97275-fr.jpg" crc="4079903716" ref="version-4"/>
+    <file name="el_flowerrotationgif-crop-u1192478.png" crc="165613022" seo="true" ref="version-4">
+      <caption webpage="version-4" alt=""/>
+    </file>
     <file name="el_frame1_mobile_grey-u108478-fr.jpg" crc="536167181" ref="version-4"/>
     <file name="el_frame2 -mobile_grey-u108476-fr.jpg" crc="503711400" ref="version-4"/>
     <file name="el_frame3-mobile_grey-u108475-fr.jpg" crc="459202154" ref="version-4"/>
@@ -2060,9 +2091,9 @@
     <file name="el_frame3-mobile_pink-u108462-fr.jpg" crc="3786466478" ref="version-4"/>
     <file name="el_frame4-mobile_pink-u108465-fr.jpg" crc="444240166" ref="version-4"/>
   </folder>
-  <file name="version-1.html" crc="264006720" seo="true" mt="1521674512321" redirect="true"/>
+  <file name="version-1.html" crc="24800921" seo="true" mt="1521674512321" redirect="true"/>
   <file name="version-2.html" crc="3793892274" seo="true" mt="1521670814893" redirect="true"/>
-  <file name="index.html" crc="4103281644" seo="true" mt="1521484702600" redirect="true"/>
+  <file name="index.html" crc="4093456785" seo="true" mt="1521688060678" redirect="true"/>
   <file name="version-3.html" crc="92607012" seo="true" mt="1521677456585" redirect="true"/>
-  <file name="version-4.html" crc="4294850749" seo="true" mt="1521677522988" redirect="true"/>
+  <file name="version-4.html" crc="235467602" seo="true" mt="1521687743906" redirect="true"/>
 </manifest>
