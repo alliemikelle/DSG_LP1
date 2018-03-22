@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://alliemikelle.github.io/DSG_LP1" resolutions="1x" timestamp="1521688238975">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://alliemikelle.github.io/DSG_LP1" resolutions="1x" timestamp="1521689668291">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="4173786265" ref="version-1:version-2:version-3:index:version-4"/>
@@ -11,8 +11,8 @@
     <file name="nomq_version-3.css" crc="4057964634" ref="version-3"/>
     <file name="index.css" crc="3912119002" ref="index"/>
     <file name="nomq_index.css" crc="485879047" ref="index"/>
-    <file name="version-4.css" crc="248472425" ref="version-4"/>
-    <file name="nomq_version-4.css" crc="178458609" ref="version-4"/>
+    <file name="version-4.css" crc="3873877595" ref="version-4"/>
+    <file name="nomq_version-4.css" crc="3801004748" ref="version-4"/>
   </folder>
   <folder name="fonts">
     <file name="din-medi.woff" crc="3978543979"/>
@@ -1614,7 +1614,7 @@
     <file name="u66889-7.png" crc="400103887" ref="version-4"/>
     <file name="el_header.svg" crc="40196791" ref="version-4"/>
     <file name="el_header_poster_u102755.png" crc="4133131651" ref="version-4"/>
-    <file name="el_flowerrotationgif-crop-u119247.png" crc="3787785055" seo="true" ref="version-4">
+    <file name="el_flowerrotationgif.gif" crc="280690342" ref="version-4">
       <caption webpage="version-4" alt=""/>
     </file>
     <file name="u104020-7.png" crc="411474259" ref="version-4"/>
@@ -1708,9 +1708,6 @@
     </file>
     <file name="u60496-72.png" crc="107177486" ref="version-4"/>
     <file name="u66889-72.png" crc="217082147" ref="version-4"/>
-    <file name="el_flowerrotationgif-crop-u1192472.png" crc="82060823" seo="true" ref="version-4">
-      <caption webpage="version-4" alt=""/>
-    </file>
     <file name="u104020-72.png" crc="3986340540" ref="version-4"/>
     <file name="doublebanner-100-u65775-fr.jpg" crc="4154528057" ref="version-4"/>
     <file name="shoe_windows-crop-u659733.jpg" crc="4119659087" seo="true" ref="version-4">
@@ -1763,9 +1760,6 @@
     <file name="ubw_frame2_blue-u78859-fr.jpg" crc="3939382702" ref="version-4"/>
     <file name="ubw_frame3_blue-u78857-fr.jpg" crc="3931891787" ref="version-4"/>
     <file name="ubw_frame4_blue-u78858-fr.jpg" crc="4190654203" ref="version-4"/>
-    <file name="el_flowerrotationgif-crop-u1192473.png" crc="3869007157" seo="true" ref="version-4">
-      <caption webpage="version-4" alt=""/>
-    </file>
     <file name="u104020-73.png" crc="4194044859" ref="version-4"/>
     <file name="el_frame1_mobile_grey-u111843-fr.jpg" crc="376248513" ref="version-4"/>
     <file name="el_frame2 -mobile_grey-u111841-fr.jpg" crc="37310557" ref="version-4"/>
@@ -1825,9 +1819,6 @@
     <file name="ubw_frame2_blue-u91183-fr.jpg" crc="215087910" ref="version-4"/>
     <file name="ubw_frame3_blue-u91182-fr.jpg" crc="4206872599" ref="version-4"/>
     <file name="ubw_frame4_blue-u91185-fr.jpg" crc="28782379" ref="version-4"/>
-    <file name="el_flowerrotationgif-crop-u1192474.png" crc="3825930150" seo="true" ref="version-4">
-      <caption webpage="version-4" alt=""/>
-    </file>
     <file name="u104020-74.png" crc="3817238366" ref="version-4"/>
     <file name="el_frame1_mobile_grey-u111037-fr.jpg" crc="4134806296" ref="version-4"/>
     <file name="el_frame2 -mobile_grey-u111035-fr.jpg" crc="3793059274" ref="version-4"/>
@@ -1887,9 +1878,6 @@
     <file name="ubw_frame3_blue-u92916-fr.jpg" crc="403033710" ref="version-4"/>
     <file name="ubw_frame4_blue-u92919-fr.jpg" crc="4237015543" ref="version-4"/>
     <file name="u66889-75.png" crc="284894102" ref="version-4"/>
-    <file name="el_flowerrotationgif-crop-u1192475.png" crc="465636175" seo="true" ref="version-4">
-      <caption webpage="version-4" alt=""/>
-    </file>
     <file name="u104020-75.png" crc="248166881" ref="version-4"/>
     <file name="el_frame1_mobile_grey-u110231-fr.jpg" crc="4034038893" ref="version-4"/>
     <file name="el_frame2 -mobile_grey-u110229-fr.jpg" crc="410607127" ref="version-4"/>
@@ -1950,9 +1938,6 @@
     <file name="ubw_frame2 -mobile_blue-u94369-fr.jpg" crc="354860982" ref="version-4"/>
     <file name="ubw_frame3-mobile_blue-u94368-fr.jpg" crc="3825955286" ref="version-4"/>
     <file name="ubw_frame4-mobile_blue-u94371-fr.jpg" crc="4146934198" ref="version-4"/>
-    <file name="el_flowerrotationgif-crop-u1192476.png" crc="3869979552" seo="true" ref="version-4">
-      <caption webpage="version-4" alt=""/>
-    </file>
     <file name="u104020-76.png" crc="3805651987" ref="version-4"/>
     <file name="el_frame1_mobile_grey-u109284-fr.jpg" crc="4006834703" ref="version-4"/>
     <file name="el_frame2 -mobile_grey-u109282-fr.jpg" crc="3843053448" ref="version-4"/>
@@ -2019,9 +2004,6 @@
       <caption webpage="version-4" alt=""/>
       <caption webpage="version-4" alt=""/>
     </file>
-    <file name="el_flowerrotationgif-crop-u1192477.png" crc="167088858" seo="true" ref="version-4">
-      <caption webpage="version-4" alt=""/>
-    </file>
     <file name="el_frame1_mobile_grey-u106757-fr.jpg" crc="84168545" ref="version-4"/>
     <file name="el_frame2 -mobile_grey-u106760-fr.jpg" crc="330982165" ref="version-4"/>
     <file name="el_frame3-mobile_grey-u106758-fr.jpg" crc="195846144" ref="version-4"/>
@@ -2079,9 +2061,6 @@
     <file name="ubw_frame2_blue-u97273-fr.jpg" crc="3980573327" ref="version-4"/>
     <file name="ubw_frame3_blue-u97272-fr.jpg" crc="434303663" ref="version-4"/>
     <file name="ubw_frame4_blue-u97275-fr.jpg" crc="4079903716" ref="version-4"/>
-    <file name="el_flowerrotationgif-crop-u1192478.png" crc="165613022" seo="true" ref="version-4">
-      <caption webpage="version-4" alt=""/>
-    </file>
     <file name="el_frame1_mobile_grey-u108478-fr.jpg" crc="536167181" ref="version-4"/>
     <file name="el_frame2 -mobile_grey-u108476-fr.jpg" crc="503711400" ref="version-4"/>
     <file name="el_frame3-mobile_grey-u108475-fr.jpg" crc="459202154" ref="version-4"/>
@@ -2093,7 +2072,7 @@
   </folder>
   <file name="version-1.html" crc="24800921" seo="true" mt="1521674512321" redirect="true"/>
   <file name="version-2.html" crc="3793892274" seo="true" mt="1521670814893" redirect="true"/>
-  <file name="index.html" crc="4093456785" seo="true" mt="1521688060678" redirect="true"/>
+  <file name="index.html" crc="436608964" seo="true" mt="1521688060678" redirect="true"/>
   <file name="version-3.html" crc="92607012" seo="true" mt="1521677456585" redirect="true"/>
-  <file name="version-4.html" crc="235467602" seo="true" mt="1521687743906" redirect="true"/>
+  <file name="version-4.html" crc="3881788747" seo="true" mt="1521689273267" redirect="true"/>
 </manifest>
