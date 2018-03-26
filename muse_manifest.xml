@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://alliemikelle.github.io/DSG_LP1" resolutions="1x" timestamp="1522033114660">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://alliemikelle.github.io/DSG_LP1" resolutions="1x" timestamp="1522034701760">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="4173786265" ref="version-3:version-2:version-1:index:version-4:parley-teaser"/>
+    <file name="master_a-master.css" crc="4270346901" ref="version-3:version-2:version-1:index:version-4:parley-teaser"/>
     <file name="nomq_preview_master_a-master.css" crc="4171088771" ref="version-3:version-2:version-1:index:version-4:parley-teaser"/>
     <file name="version-3.css" crc="4109805982" ref="version-3"/>
     <file name="nomq_version-3.css" crc="3776415050" ref="version-3"/>
@@ -11,9 +11,9 @@
     <file name="nomq_version-1.css" crc="264766125" ref="version-1"/>
     <file name="index.css" crc="4220621990" ref="index"/>
     <file name="nomq_index.css" crc="485879047" ref="index"/>
-    <file name="version-4.css" crc="3894150636" ref="version-4"/>
-    <file name="nomq_version-4.css" crc="453447401" ref="version-4"/>
-    <file name="parley-teaser.css" crc="4007466660" ref="parley-teaser"/>
+    <file name="version-4.css" crc="260025410" ref="version-4"/>
+    <file name="nomq_version-4.css" crc="305877273" ref="version-4"/>
+    <file name="parley-teaser.css" crc="4076815572" ref="parley-teaser"/>
     <file name="nomq_parley-teaser.css" crc="68925013" ref="parley-teaser"/>
   </folder>
   <folder name="fonts">
@@ -46,14 +46,19 @@
   </folder>
   <folder name="images">
     <file name="dsgolympics.png" crc="290549742" seo="true" ref="version-1:version-2:index:version-3:version-4:parley-teaser">
-      <caption webpage="version-2" alt=""/>
-      <caption webpage="version-2" alt=""/>
-      <caption webpage="version-2" alt=""/>
-      <caption webpage="version-2" alt=""/>
-      <caption webpage="version-2" alt=""/>
+      <caption webpage="version-1" alt=""/>
+      <caption webpage="version-1" alt=""/>
+      <caption webpage="version-1" alt=""/>
+      <caption webpage="version-1" alt=""/>
+      <caption webpage="version-1" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="version-2" alt=""/>
+      <caption webpage="version-2" alt=""/>
+      <caption webpage="version-2" alt=""/>
+      <caption webpage="version-2" alt=""/>
+      <caption webpage="version-2" alt=""/>
       <caption webpage="version-4" alt=""/>
       <caption webpage="version-4" alt=""/>
       <caption webpage="version-4" alt=""/>
@@ -64,11 +69,6 @@
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
-      <caption webpage="version-1" alt=""/>
-      <caption webpage="version-1" alt=""/>
-      <caption webpage="version-1" alt=""/>
-      <caption webpage="version-1" alt=""/>
-      <caption webpage="version-1" alt=""/>
       <caption webpage="version-3" alt=""/>
       <caption webpage="version-3" alt=""/>
       <caption webpage="version-3" alt=""/>
@@ -76,14 +76,19 @@
       <caption webpage="version-3" alt=""/>
     </file>
     <file name="menu_desktop.png" crc="43139248" seo="true" ref="version-1:version-2:index:version-3:version-4:parley-teaser">
-      <caption webpage="version-2" alt=""/>
-      <caption webpage="version-2" alt=""/>
-      <caption webpage="version-2" alt=""/>
-      <caption webpage="version-2" alt=""/>
-      <caption webpage="version-2" alt=""/>
+      <caption webpage="version-1" alt=""/>
+      <caption webpage="version-1" alt=""/>
+      <caption webpage="version-1" alt=""/>
+      <caption webpage="version-1" alt=""/>
+      <caption webpage="version-1" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="version-2" alt=""/>
+      <caption webpage="version-2" alt=""/>
+      <caption webpage="version-2" alt=""/>
+      <caption webpage="version-2" alt=""/>
+      <caption webpage="version-2" alt=""/>
       <caption webpage="version-4" alt=""/>
       <caption webpage="version-4" alt=""/>
       <caption webpage="version-4" alt=""/>
@@ -94,11 +99,6 @@
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
-      <caption webpage="version-1" alt=""/>
-      <caption webpage="version-1" alt=""/>
-      <caption webpage="version-1" alt=""/>
-      <caption webpage="version-1" alt=""/>
-      <caption webpage="version-1" alt=""/>
       <caption webpage="version-3" alt=""/>
       <caption webpage="version-3" alt=""/>
       <caption webpage="version-3" alt=""/>
@@ -109,14 +109,19 @@
     <file name="u309-4.png" crc="3842823417" ref="version-1:version-2:index:version-3:version-4:parley-teaser"/>
     <file name="u548-4.png" crc="3909045019" ref="version-1:version-2:index:version-3:version-4:parley-teaser"/>
     <file name="search.png" crc="3923079032" seo="true" ref="version-1:version-2:index:version-3:version-4:parley-teaser">
-      <caption webpage="version-2" alt=""/>
-      <caption webpage="version-2" alt=""/>
-      <caption webpage="version-2" alt=""/>
-      <caption webpage="version-2" alt=""/>
-      <caption webpage="version-2" alt=""/>
+      <caption webpage="version-1" alt=""/>
+      <caption webpage="version-1" alt=""/>
+      <caption webpage="version-1" alt=""/>
+      <caption webpage="version-1" alt=""/>
+      <caption webpage="version-1" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="version-2" alt=""/>
+      <caption webpage="version-2" alt=""/>
+      <caption webpage="version-2" alt=""/>
+      <caption webpage="version-2" alt=""/>
+      <caption webpage="version-2" alt=""/>
       <caption webpage="version-4" alt=""/>
       <caption webpage="version-4" alt=""/>
       <caption webpage="version-4" alt=""/>
@@ -127,11 +132,6 @@
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
-      <caption webpage="version-1" alt=""/>
-      <caption webpage="version-1" alt=""/>
-      <caption webpage="version-1" alt=""/>
-      <caption webpage="version-1" alt=""/>
-      <caption webpage="version-1" alt=""/>
       <caption webpage="version-3" alt=""/>
       <caption webpage="version-3" alt=""/>
       <caption webpage="version-3" alt=""/>
@@ -142,14 +142,19 @@
     <file name="u364-4.png" crc="149310511" ref="version-1:version-2:index:version-3:version-4:parley-teaser"/>
     <file name="u382-4.png" crc="240178569" ref="version-1:version-2:index:version-3:version-4:parley-teaser"/>
     <file name="cart_desktop.png" crc="3995768359" seo="true" ref="version-1:version-2:index:version-3:version-4:parley-teaser">
-      <caption webpage="version-2" alt=""/>
-      <caption webpage="version-2" alt=""/>
-      <caption webpage="version-2" alt=""/>
-      <caption webpage="version-2" alt=""/>
-      <caption webpage="version-2" alt=""/>
+      <caption webpage="version-1" alt=""/>
+      <caption webpage="version-1" alt=""/>
+      <caption webpage="version-1" alt=""/>
+      <caption webpage="version-1" alt=""/>
+      <caption webpage="version-1" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="version-2" alt=""/>
+      <caption webpage="version-2" alt=""/>
+      <caption webpage="version-2" alt=""/>
+      <caption webpage="version-2" alt=""/>
+      <caption webpage="version-2" alt=""/>
       <caption webpage="version-4" alt=""/>
       <caption webpage="version-4" alt=""/>
       <caption webpage="version-4" alt=""/>
@@ -160,11 +165,6 @@
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
-      <caption webpage="version-1" alt=""/>
-      <caption webpage="version-1" alt=""/>
-      <caption webpage="version-1" alt=""/>
-      <caption webpage="version-1" alt=""/>
-      <caption webpage="version-1" alt=""/>
       <caption webpage="version-3" alt=""/>
       <caption webpage="version-3" alt=""/>
       <caption webpage="version-3" alt=""/>
@@ -172,7 +172,7 @@
       <caption webpage="version-3" alt=""/>
     </file>
     <file name="u3044-4.png" crc="3876006808" ref="version-1"/>
-    <file name="shoe_windows-crop-u3051.jpg" crc="353492089" seo="true" ref="version-1">
+    <file name="shoe_windows-crop-u3051.jpg" crc="3938686802" seo="true" ref="version-1">
       <caption webpage="version-1" alt=""/>
     </file>
     <file name="shoe_right2250x250.jpg" crc="332294426" seo="true" ref="version-1">
@@ -206,6 +206,16 @@
     <file name="learn_on_poster_u102787.png" crc="17855247" ref="version-1:version-2:version-3:version-4:parley-teaser"/>
     <file name="u4839-4.png" crc="255055002" ref="version-1"/>
     <file name="ab_frame1.jpg" crc="4169391694" ref="version-1:version-2:version-3:version-4:parley-teaser">
+      <caption webpage="version-1" alt=""/>
+      <caption webpage="version-1" alt=""/>
+      <caption webpage="version-1" alt=""/>
+      <caption webpage="version-1" alt=""/>
+      <caption webpage="version-1" alt=""/>
+      <caption webpage="version-1" alt=""/>
+      <caption webpage="version-1" alt=""/>
+      <caption webpage="version-1" alt=""/>
+      <caption webpage="version-1" alt=""/>
+      <caption webpage="version-1" alt=""/>
       <caption webpage="version-2" alt=""/>
       <caption webpage="version-2" alt=""/>
       <caption webpage="version-2" alt=""/>
@@ -236,16 +246,6 @@
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
-      <caption webpage="version-1" alt=""/>
-      <caption webpage="version-1" alt=""/>
-      <caption webpage="version-1" alt=""/>
-      <caption webpage="version-1" alt=""/>
-      <caption webpage="version-1" alt=""/>
-      <caption webpage="version-1" alt=""/>
-      <caption webpage="version-1" alt=""/>
-      <caption webpage="version-1" alt=""/>
-      <caption webpage="version-1" alt=""/>
-      <caption webpage="version-1" alt=""/>
       <caption webpage="version-3" alt=""/>
       <caption webpage="version-3" alt=""/>
       <caption webpage="version-3" alt=""/>
@@ -258,38 +258,38 @@
       <caption webpage="version-3" alt=""/>
     </file>
     <file name="ab_frame2.jpg" crc="3901233875" ref="version-1:version-2:version-3:version-4:parley-teaser">
+      <caption webpage="version-1" alt=""/>
+      <caption webpage="version-1" alt=""/>
       <caption webpage="version-2" alt=""/>
       <caption webpage="version-2" alt=""/>
       <caption webpage="version-4" alt=""/>
       <caption webpage="version-4" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
-      <caption webpage="version-1" alt=""/>
-      <caption webpage="version-1" alt=""/>
       <caption webpage="version-3" alt=""/>
       <caption webpage="version-3" alt=""/>
     </file>
     <file name="ab_frame3.jpg" crc="403780543" ref="version-1:version-2:version-3:version-4:parley-teaser">
+      <caption webpage="version-1" alt=""/>
+      <caption webpage="version-1" alt=""/>
       <caption webpage="version-2" alt=""/>
       <caption webpage="version-2" alt=""/>
       <caption webpage="version-4" alt=""/>
       <caption webpage="version-4" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
-      <caption webpage="version-1" alt=""/>
-      <caption webpage="version-1" alt=""/>
       <caption webpage="version-3" alt=""/>
       <caption webpage="version-3" alt=""/>
     </file>
     <file name="ab_frame4.jpg" crc="4263245034" ref="version-1:version-2:version-3:version-4:parley-teaser">
+      <caption webpage="version-1" alt=""/>
+      <caption webpage="version-1" alt=""/>
       <caption webpage="version-2" alt=""/>
       <caption webpage="version-2" alt=""/>
       <caption webpage="version-4" alt=""/>
       <caption webpage="version-4" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
-      <caption webpage="version-1" alt=""/>
-      <caption webpage="version-1" alt=""/>
       <caption webpage="version-3" alt=""/>
       <caption webpage="version-3" alt=""/>
     </file>
@@ -317,14 +317,19 @@
     <file name="alphabounce_header_poster_u7096.png" crc="3802448110" ref="version-1:version-2:version-3:version-4:parley-teaser"/>
     <file name="u400-7.png" crc="322240908" ref="version-1:version-2:index:version-3:version-4:parley-teaser"/>
     <file name="bubbles.png" crc="3934849744" seo="true" ref="version-1:version-2:index:version-3:version-4:parley-teaser">
-      <caption webpage="version-2" alt=""/>
-      <caption webpage="version-2" alt=""/>
-      <caption webpage="version-2" alt=""/>
-      <caption webpage="version-2" alt=""/>
-      <caption webpage="version-2" alt=""/>
+      <caption webpage="version-1" alt=""/>
+      <caption webpage="version-1" alt=""/>
+      <caption webpage="version-1" alt=""/>
+      <caption webpage="version-1" alt=""/>
+      <caption webpage="version-1" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="version-2" alt=""/>
+      <caption webpage="version-2" alt=""/>
+      <caption webpage="version-2" alt=""/>
+      <caption webpage="version-2" alt=""/>
+      <caption webpage="version-2" alt=""/>
       <caption webpage="version-4" alt=""/>
       <caption webpage="version-4" alt=""/>
       <caption webpage="version-4" alt=""/>
@@ -335,11 +340,6 @@
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
-      <caption webpage="version-1" alt=""/>
-      <caption webpage="version-1" alt=""/>
-      <caption webpage="version-1" alt=""/>
-      <caption webpage="version-1" alt=""/>
-      <caption webpage="version-1" alt=""/>
       <caption webpage="version-3" alt=""/>
       <caption webpage="version-3" alt=""/>
       <caption webpage="version-3" alt=""/>
@@ -366,7 +366,7 @@
       <caption webpage="version-1" alt=""/>
     </file>
     <file name="u3044-42.png" crc="3937415288" ref="version-1"/>
-    <file name="shoe_windows-crop-u30512.jpg" crc="505652548" seo="true" ref="version-1">
+    <file name="shoe_windows-crop-u30512.jpg" crc="114772755" seo="true" ref="version-1">
       <caption webpage="version-1" alt=""/>
     </file>
     <file name="shoe_right2213x213.jpg" crc="348236879" seo="true" ref="version-1">
@@ -397,7 +397,7 @@
       <caption webpage="version-1" alt=""/>
     </file>
     <file name="u3044-43.png" crc="104389670" ref="version-1"/>
-    <file name="shoe_windows-crop-u30513.jpg" crc="4267418213" seo="true" ref="version-1">
+    <file name="shoe_windows-crop-u30513.jpg" crc="443109253" seo="true" ref="version-1">
       <caption webpage="version-1" alt=""/>
     </file>
     <file name="shoe_right2178x178.jpg" crc="3979787405" seo="true" ref="version-1">
@@ -433,7 +433,7 @@
       <caption webpage="version-1" alt=""/>
     </file>
     <file name="u3044-44.png" crc="3833717496" ref="version-1"/>
-    <file name="shoe_windows-crop-u30514.jpg" crc="3823369455" seo="true" ref="version-1">
+    <file name="shoe_windows-crop-u30514.jpg" crc="4016068374" seo="true" ref="version-1">
       <caption webpage="version-1" alt=""/>
     </file>
     <file name="shoe_right2165x165.jpg" crc="40966067" seo="true" ref="version-1">
@@ -468,7 +468,7 @@
       <caption webpage="version-1" alt=""/>
     </file>
     <file name="u3044-45.png" crc="534615474" ref="version-1"/>
-    <file name="shoe_windows-crop-u30515.jpg" crc="122049014" seo="true" ref="version-1">
+    <file name="shoe_windows-crop-u30515.jpg" crc="3835689591" seo="true" ref="version-1">
       <caption webpage="version-1" alt=""/>
     </file>
     <file name="shoe_right2139x139.jpg" crc="121933631" seo="true" ref="version-1">
@@ -484,10 +484,10 @@
       <caption webpage="version-1" alt=""/>
     </file>
     <file name="u6739-43.png" crc="209029063" ref="version-1"/>
-    <file name="ab_frame1-u4338-fr3.jpg" crc="4071527016" ref="version-1:version-2:version-3:version-4:parley-teaser"/>
-    <file name="ab_frame2-u4340-fr3.jpg" crc="483150311" ref="version-1:version-2:version-3:version-4:parley-teaser"/>
-    <file name="ab_frame3-u4339-fr3.jpg" crc="4289598616" ref="version-1:version-2:version-3:version-4:parley-teaser"/>
-    <file name="ab_frame4-u4477-fr3.jpg" crc="3938530394" ref="version-1:version-2:version-3:version-4:parley-teaser"/>
+    <file name="ab_frame1-u4338-fr3.jpg" crc="4071527016" ref="version-1:version-2:version-3:parley-teaser"/>
+    <file name="ab_frame2-u4340-fr3.jpg" crc="483150311" ref="version-1:version-2:version-3:parley-teaser"/>
+    <file name="ab_frame3-u4339-fr3.jpg" crc="4289598616" ref="version-1:version-2:version-3:parley-teaser"/>
+    <file name="ab_frame4-u4477-fr3.jpg" crc="3938530394" ref="version-1:version-2:version-3:parley-teaser"/>
     <file name="u44142-85.png" crc="10385363" ref="version-1"/>
     <file name="u6134-84.png" crc="439638611" ref="version-1"/>
     <file name="shoes_stadium-crop-u55605.jpg" crc="4057507274" seo="true" ref="version-1">
@@ -511,41 +511,41 @@
     <file name="u1277-4.png" crc="138688299" ref="version-1:version-2:index:version-3:version-4:parley-teaser"/>
     <file name="u1313-4.png" crc="207183727" ref="version-1:version-2:index:version-3:version-4:parley-teaser"/>
     <file name="dick-s_sporting_goods_logo.png" crc="4047831415" seo="true" ref="version-1:version-2:index:version-3:version-4:parley-teaser">
-      <caption webpage="version-2" alt=""/>
-      <caption webpage="version-2" alt=""/>
-      <caption webpage="version-2" alt=""/>
+      <caption webpage="version-1" alt=""/>
+      <caption webpage="version-1" alt=""/>
+      <caption webpage="version-1" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="version-2" alt=""/>
+      <caption webpage="version-2" alt=""/>
+      <caption webpage="version-2" alt=""/>
       <caption webpage="version-4" alt=""/>
       <caption webpage="version-4" alt=""/>
       <caption webpage="version-4" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
-      <caption webpage="version-1" alt=""/>
-      <caption webpage="version-1" alt=""/>
-      <caption webpage="version-1" alt=""/>
       <caption webpage="version-3" alt=""/>
       <caption webpage="version-3" alt=""/>
       <caption webpage="version-3" alt=""/>
     </file>
     <file name="search-tablet.png" crc="3888704939" seo="true" ref="version-1:version-2:index:version-3:version-4:parley-teaser">
-      <caption webpage="version-2" alt=""/>
-      <caption webpage="version-2" alt=""/>
-      <caption webpage="version-2" alt=""/>
+      <caption webpage="version-1" alt=""/>
+      <caption webpage="version-1" alt=""/>
+      <caption webpage="version-1" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="version-2" alt=""/>
+      <caption webpage="version-2" alt=""/>
+      <caption webpage="version-2" alt=""/>
       <caption webpage="version-4" alt=""/>
       <caption webpage="version-4" alt=""/>
       <caption webpage="version-4" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
-      <caption webpage="version-1" alt=""/>
-      <caption webpage="version-1" alt=""/>
-      <caption webpage="version-1" alt=""/>
       <caption webpage="version-3" alt=""/>
       <caption webpage="version-3" alt=""/>
       <caption webpage="version-3" alt=""/>
@@ -553,63 +553,63 @@
     <file name="u1395-4.png" crc="3785014924" ref="version-1:version-2:index:version-3:version-4:parley-teaser"/>
     <file name="u1403-4.png" crc="4014642397" ref="version-1:version-2:index:version-3:version-4:parley-teaser"/>
     <file name="map.png" crc="372465025" seo="true" ref="version-1:version-2:index:version-3:version-4:parley-teaser">
-      <caption webpage="version-2" alt=""/>
-      <caption webpage="version-2" alt=""/>
-      <caption webpage="version-2" alt=""/>
+      <caption webpage="version-1" alt=""/>
+      <caption webpage="version-1" alt=""/>
+      <caption webpage="version-1" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="version-2" alt=""/>
+      <caption webpage="version-2" alt=""/>
+      <caption webpage="version-2" alt=""/>
       <caption webpage="version-4" alt=""/>
       <caption webpage="version-4" alt=""/>
       <caption webpage="version-4" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
-      <caption webpage="version-1" alt=""/>
-      <caption webpage="version-1" alt=""/>
-      <caption webpage="version-1" alt=""/>
       <caption webpage="version-3" alt=""/>
       <caption webpage="version-3" alt=""/>
       <caption webpage="version-3" alt=""/>
     </file>
     <file name="u1421-4.png" crc="3933901625" ref="version-1:version-2:index:version-3:version-4:parley-teaser"/>
     <file name="sale.png" crc="4025139782" seo="true" ref="version-1:version-2:index:version-3:version-4:parley-teaser">
-      <caption webpage="version-2" alt=""/>
-      <caption webpage="version-2" alt=""/>
-      <caption webpage="version-2" alt=""/>
+      <caption webpage="version-1" alt=""/>
+      <caption webpage="version-1" alt=""/>
+      <caption webpage="version-1" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="version-2" alt=""/>
+      <caption webpage="version-2" alt=""/>
+      <caption webpage="version-2" alt=""/>
       <caption webpage="version-4" alt=""/>
       <caption webpage="version-4" alt=""/>
       <caption webpage="version-4" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
-      <caption webpage="version-1" alt=""/>
-      <caption webpage="version-1" alt=""/>
-      <caption webpage="version-1" alt=""/>
       <caption webpage="version-3" alt=""/>
       <caption webpage="version-3" alt=""/>
       <caption webpage="version-3" alt=""/>
     </file>
     <file name="u1439-4.png" crc="56410081" ref="version-1:version-2:index:version-3:version-4:parley-teaser"/>
     <file name="cart_tablet-mobile.png" crc="3825537137" seo="true" ref="version-1:version-2:index:version-3:version-4:parley-teaser">
-      <caption webpage="version-2" alt=""/>
-      <caption webpage="version-2" alt=""/>
-      <caption webpage="version-2" alt=""/>
+      <caption webpage="version-1" alt=""/>
+      <caption webpage="version-1" alt=""/>
+      <caption webpage="version-1" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="version-2" alt=""/>
+      <caption webpage="version-2" alt=""/>
+      <caption webpage="version-2" alt=""/>
       <caption webpage="version-4" alt=""/>
       <caption webpage="version-4" alt=""/>
       <caption webpage="version-4" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
-      <caption webpage="version-1" alt=""/>
-      <caption webpage="version-1" alt=""/>
-      <caption webpage="version-1" alt=""/>
       <caption webpage="version-3" alt=""/>
       <caption webpage="version-3" alt=""/>
       <caption webpage="version-3" alt=""/>
@@ -621,7 +621,7 @@
     </file>
     <file name="u6848-8.png" crc="3797129032" ref="version-1"/>
     <file name="u3044-46.png" crc="256390300" ref="version-1"/>
-    <file name="shoe_windows-crop-u30516.jpg" crc="128280906" seo="true" ref="version-1">
+    <file name="shoe_windows-crop-u30516.jpg" crc="3956701529" seo="true" ref="version-1">
       <caption webpage="version-1" alt=""/>
     </file>
     <file name="shoe_right2161x161.jpg" crc="4179438021" seo="true" ref="version-1">
@@ -662,7 +662,7 @@
     <file name="u2024-4.png" crc="531264987" ref="version-1:version-2:index:version-3:version-4:parley-teaser"/>
     <file name="u13019-8.png" crc="3896607462" ref="version-1"/>
     <file name="u13040-4.png" crc="4105398972" ref="version-1"/>
-    <file name="shoe_windows-crop-u30517.jpg" crc="4229616222" seo="true" ref="version-1">
+    <file name="shoe_windows-crop-u30517.jpg" crc="479193786" seo="true" ref="version-1">
       <caption webpage="version-1" alt=""/>
     </file>
     <file name="shoe_right2159x160.jpg" crc="4260489986" seo="true" ref="version-1">
@@ -699,11 +699,11 @@
     <file name="u13019-82.png" crc="60089271" ref="version-1"/>
     <file name="u2355-7.png" crc="3870356100" ref="version-1:version-2:index:version-3:version-4:parley-teaser"/>
     <file name="menu_tablet-mobile.png" crc="3951720400" seo="true" ref="version-1:version-2:index:version-3:version-4:parley-teaser">
-      <caption webpage="version-2" alt=""/>
+      <caption webpage="version-1" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="version-2" alt=""/>
       <caption webpage="version-4" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
-      <caption webpage="version-1" alt=""/>
       <caption webpage="version-3" alt=""/>
     </file>
     <file name="u2624-4.png" crc="249290530" ref="version-1:version-2:index:version-3:version-4:parley-teaser"/>
@@ -713,7 +713,7 @@
     <file name="u2362-4.png" crc="511508447" ref="version-1:version-2:index:version-3:version-4:parley-teaser"/>
     <file name="u2363-4.png" crc="3889596608" ref="version-1:version-2:index:version-3:version-4:parley-teaser"/>
     <file name="u13040-42.png" crc="309976155" ref="version-1"/>
-    <file name="shoe_windows-crop-u30518.jpg" crc="4188176514" seo="true" ref="version-1">
+    <file name="shoe_windows-crop-u30518.jpg" crc="3919672453" seo="true" ref="version-1">
       <caption webpage="version-1" alt=""/>
     </file>
     <file name="shoe_right2142x142.jpg" crc="4158094538" seo="true" ref="version-1">
@@ -771,42 +771,42 @@
       <caption webpage="version-3" alt=""/>
     </file>
     <file name="ab_frame1_blue.jpg" crc="3946324421" ref="version-2:version-3:version-4:parley-teaser">
-      <caption webpage="version-2" alt=""/>
-      <caption webpage="version-2" alt=""/>
       <caption webpage="version-4" alt=""/>
       <caption webpage="version-4" alt=""/>
+      <caption webpage="version-2" alt=""/>
+      <caption webpage="version-2" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="version-3" alt=""/>
       <caption webpage="version-3" alt=""/>
     </file>
     <file name="ab_frame2_blue.jpg" crc="529707087" ref="version-2:version-3:version-4:parley-teaser">
-      <caption webpage="version-2" alt=""/>
-      <caption webpage="version-2" alt=""/>
       <caption webpage="version-4" alt=""/>
       <caption webpage="version-4" alt=""/>
+      <caption webpage="version-2" alt=""/>
+      <caption webpage="version-2" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="version-3" alt=""/>
       <caption webpage="version-3" alt=""/>
     </file>
     <file name="ab_frame3_blue.jpg" crc="4218578937" ref="version-2:version-3:version-4:parley-teaser">
-      <caption webpage="version-2" alt=""/>
-      <caption webpage="version-2" alt=""/>
       <caption webpage="version-4" alt=""/>
       <caption webpage="version-4" alt=""/>
+      <caption webpage="version-2" alt=""/>
+      <caption webpage="version-2" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="version-3" alt=""/>
       <caption webpage="version-3" alt=""/>
     </file>
     <file name="ab_frame4_blue.jpg" crc="3764741124" ref="version-2:version-3:version-4:parley-teaser">
+      <caption webpage="version-4" alt=""/>
+      <caption webpage="version-4" alt=""/>
+      <caption webpage="version-4" alt=""/>
+      <caption webpage="version-4" alt=""/>
       <caption webpage="version-2" alt=""/>
       <caption webpage="version-2" alt=""/>
-      <caption webpage="version-4" alt=""/>
-      <caption webpage="version-4" alt=""/>
-      <caption webpage="version-4" alt=""/>
-      <caption webpage="version-4" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
@@ -831,40 +831,40 @@
     <file name="heel_on_blue.svg" crc="9794307" ref="version-2:version-3:version-4:parley-teaser"/>
     <file name="heel_on_blue_poster_u23768.png" crc="3925508865" ref="version-2:version-3:version-4:parley-teaser"/>
     <file name="ab_frame1_black.jpg" crc="163599942" ref="version-2:version-3:version-4:parley-teaser">
-      <caption webpage="version-2" alt=""/>
-      <caption webpage="version-2" alt=""/>
       <caption webpage="version-4" alt=""/>
       <caption webpage="version-4" alt=""/>
+      <caption webpage="version-2" alt=""/>
+      <caption webpage="version-2" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="version-3" alt=""/>
       <caption webpage="version-3" alt=""/>
     </file>
     <file name="ab_frame2_black.jpg" crc="43693761" ref="version-2:version-3:version-4:parley-teaser">
-      <caption webpage="version-2" alt=""/>
-      <caption webpage="version-2" alt=""/>
       <caption webpage="version-4" alt=""/>
       <caption webpage="version-4" alt=""/>
+      <caption webpage="version-2" alt=""/>
+      <caption webpage="version-2" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="version-3" alt=""/>
       <caption webpage="version-3" alt=""/>
     </file>
     <file name="ab_frame3_black.jpg" crc="4142443289" ref="version-2:version-3:version-4:parley-teaser">
-      <caption webpage="version-2" alt=""/>
-      <caption webpage="version-2" alt=""/>
       <caption webpage="version-4" alt=""/>
       <caption webpage="version-4" alt=""/>
+      <caption webpage="version-2" alt=""/>
+      <caption webpage="version-2" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="version-3" alt=""/>
       <caption webpage="version-3" alt=""/>
     </file>
     <file name="ab_frame4_black.jpg" crc="186940547" ref="version-2:version-3:version-4:parley-teaser">
-      <caption webpage="version-2" alt=""/>
-      <caption webpage="version-2" alt=""/>
       <caption webpage="version-4" alt=""/>
       <caption webpage="version-4" alt=""/>
+      <caption webpage="version-2" alt=""/>
+      <caption webpage="version-2" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="version-3" alt=""/>
@@ -887,38 +887,38 @@
     <file name="heel_on_black.svg" crc="164404685" ref="version-2:version-3:version-4:parley-teaser"/>
     <file name="heel_on_black_poster_u24224.png" crc="3894570613" ref="version-2:version-3:version-4:parley-teaser"/>
     <file name="ab_frame1_olive.jpg" crc="4271002999" ref="version-2:version-3:version-4:parley-teaser">
+      <caption webpage="version-4" alt=""/>
+      <caption webpage="version-4" alt=""/>
       <caption webpage="version-2" alt=""/>
-      <caption webpage="version-4" alt=""/>
-      <caption webpage="version-4" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="version-3" alt=""/>
     </file>
     <file name="ab_frame2_olive.jpg" crc="4187586442" ref="version-2:version-3:version-4:parley-teaser">
-      <caption webpage="version-2" alt=""/>
-      <caption webpage="version-2" alt=""/>
       <caption webpage="version-4" alt=""/>
       <caption webpage="version-4" alt=""/>
+      <caption webpage="version-2" alt=""/>
+      <caption webpage="version-2" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="version-3" alt=""/>
       <caption webpage="version-3" alt=""/>
     </file>
     <file name="ab_frame3_olive.jpg" crc="4121958176" ref="version-2:version-3:version-4:parley-teaser">
-      <caption webpage="version-2" alt=""/>
-      <caption webpage="version-2" alt=""/>
       <caption webpage="version-4" alt=""/>
       <caption webpage="version-4" alt=""/>
+      <caption webpage="version-2" alt=""/>
+      <caption webpage="version-2" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="version-3" alt=""/>
       <caption webpage="version-3" alt=""/>
     </file>
     <file name="ab_frame4_olive.jpg" crc="4220382050" ref="version-2:version-3:version-4:parley-teaser">
-      <caption webpage="version-2" alt=""/>
-      <caption webpage="version-2" alt=""/>
       <caption webpage="version-4" alt=""/>
       <caption webpage="version-4" alt=""/>
+      <caption webpage="version-2" alt=""/>
+      <caption webpage="version-2" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="version-3" alt=""/>
@@ -1075,18 +1075,18 @@
     <file name="running_ss18_edgelux_women_cq1239_ftw_1-crop-u168375.jpg" crc="182892030" seo="true" ref="version-2">
       <caption webpage="version-2" alt=""/>
     </file>
-    <file name="ab_frame1_blue-u33243-fr.jpg" crc="378674549" ref="version-2:version-3:version-4:parley-teaser"/>
-    <file name="ab_frame2_blue-u33242-fr.jpg" crc="4076097013" ref="version-2:version-3:version-4:parley-teaser"/>
-    <file name="ab_frame3_blue-u33241-fr.jpg" crc="3904043625" ref="version-2:version-3:version-4:parley-teaser"/>
-    <file name="ab_frame4_blue-u33244-fr.jpg" crc="3804169714" ref="version-2:version-3:version-4:parley-teaser"/>
-    <file name="ab_frame1_black-u33204-fr.jpg" crc="4914461" ref="version-2:version-3:version-4:parley-teaser"/>
-    <file name="ab_frame2_black-u33203-fr.jpg" crc="150243275" ref="version-2:version-3:version-4:parley-teaser"/>
-    <file name="ab_frame3_black-u33205-fr.jpg" crc="143248755" ref="version-2:version-3:version-4:parley-teaser"/>
-    <file name="ab_frame4_black-u33206-fr.jpg" crc="154810085" ref="version-2:version-3:version-4:parley-teaser"/>
-    <file name="ab_frame1_olive-u33199-fr.jpg" crc="497658264" ref="version-2:version-3:version-4:parley-teaser"/>
-    <file name="ab_frame2_olive-u33197-fr.jpg" crc="3970186781" ref="version-2:version-3:version-4:parley-teaser"/>
-    <file name="ab_frame3_olive-u33196-fr.jpg" crc="3975625071" ref="version-2:version-3:version-4:parley-teaser"/>
-    <file name="ab_frame4_olive-u33198-fr.jpg" crc="3758837677" ref="version-2:version-3:version-4:parley-teaser"/>
+    <file name="ab_frame1_blue-u33243-fr.jpg" crc="378674549" ref="version-2:version-3:parley-teaser"/>
+    <file name="ab_frame2_blue-u33242-fr.jpg" crc="4076097013" ref="version-2:version-3:parley-teaser"/>
+    <file name="ab_frame3_blue-u33241-fr.jpg" crc="3904043625" ref="version-2:version-3:parley-teaser"/>
+    <file name="ab_frame4_blue-u33244-fr.jpg" crc="3804169714" ref="version-2:version-3:parley-teaser"/>
+    <file name="ab_frame1_black-u33204-fr.jpg" crc="4914461" ref="version-2:version-3:parley-teaser"/>
+    <file name="ab_frame2_black-u33203-fr.jpg" crc="150243275" ref="version-2:version-3:parley-teaser"/>
+    <file name="ab_frame3_black-u33205-fr.jpg" crc="143248755" ref="version-2:version-3:parley-teaser"/>
+    <file name="ab_frame4_black-u33206-fr.jpg" crc="154810085" ref="version-2:version-3:parley-teaser"/>
+    <file name="ab_frame1_olive-u33199-fr.jpg" crc="497658264" ref="version-2:version-3:parley-teaser"/>
+    <file name="ab_frame2_olive-u33197-fr.jpg" crc="3970186781" ref="version-2:version-3:parley-teaser"/>
+    <file name="ab_frame3_olive-u33196-fr.jpg" crc="3975625071" ref="version-2:version-3:parley-teaser"/>
+    <file name="ab_frame4_olive-u33198-fr.jpg" crc="3758837677" ref="version-2:version-3:parley-teaser"/>
     <file name="u17584-74.png" crc="50266184" ref="version-2"/>
     <file name="u45454-45.png" crc="4238937634" ref="version-2"/>
     <file name="u16832-8.png" crc="3797129032" ref="version-2"/>
@@ -1358,10 +1358,10 @@
       <caption webpage="version-3" alt=""/>
     </file>
     <file name="shoespin.gif" crc="241445705" ref="version-3:version-4:parley-teaser">
-      <caption webpage="version-4" alt=""/>
-      <caption webpage="version-4" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
+      <caption webpage="version-4" alt=""/>
+      <caption webpage="version-4" alt=""/>
       <caption webpage="version-3" alt=""/>
       <caption webpage="version-3" alt=""/>
     </file>
@@ -1386,7 +1386,7 @@
       <caption webpage="version-3" alt=""/>
     </file>
     <file name="2_men_banner-u56397-fr.jpg" crc="503006242" ref="version-3:version-4:parley-teaser"/>
-    <file name="2_women_banner-u56398-fr.jpg" crc="81229744" ref="version-3:version-4"/>
+    <file name="2_women_banner-u56398-fr.jpg" crc="81229744" ref="version-3:version-4:parley-teaser"/>
     <file name="shoe_windows-crop-u65973.jpg" crc="261258482" seo="true" ref="version-4">
       <caption webpage="version-4" alt=""/>
     </file>
@@ -1401,14 +1401,6 @@
     </file>
     <file name="u60496-7.png" crc="3782468148" ref="version-4"/>
     <file name="ultraboost_header.jpg" crc="3808208029" seo="true" ref="version-4:parley-teaser">
-      <caption webpage="version-4" alt=""/>
-      <caption webpage="version-4" alt=""/>
-      <caption webpage="version-4" alt=""/>
-      <caption webpage="version-4" alt=""/>
-      <caption webpage="version-4" alt=""/>
-      <caption webpage="version-4" alt=""/>
-      <caption webpage="version-4" alt=""/>
-      <caption webpage="version-4" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
@@ -1417,62 +1409,70 @@
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
+      <caption webpage="version-4" alt=""/>
+      <caption webpage="version-4" alt=""/>
+      <caption webpage="version-4" alt=""/>
+      <caption webpage="version-4" alt=""/>
+      <caption webpage="version-4" alt=""/>
+      <caption webpage="version-4" alt=""/>
+      <caption webpage="version-4" alt=""/>
+      <caption webpage="version-4" alt=""/>
     </file>
     <file name="ub_m_inactive.jpg" crc="4036748241" ref="version-4:parley-teaser">
-      <caption webpage="version-4" alt=""/>
-      <caption webpage="version-4" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
+      <caption webpage="version-4" alt=""/>
+      <caption webpage="version-4" alt=""/>
     </file>
     <file name="ub_m_active.jpg" crc="224262669" ref="version-4:parley-teaser">
-      <caption webpage="version-4" alt=""/>
-      <caption webpage="version-4" alt=""/>
-      <caption webpage="version-4" alt=""/>
-      <caption webpage="version-4" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
+      <caption webpage="version-4" alt=""/>
+      <caption webpage="version-4" alt=""/>
+      <caption webpage="version-4" alt=""/>
+      <caption webpage="version-4" alt=""/>
     </file>
     <file name="ub_m_active_1.jpg" crc="4092737766" ref="version-4:parley-teaser">
-      <caption webpage="version-4" alt=""/>
-      <caption webpage="version-4" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
+      <caption webpage="version-4" alt=""/>
+      <caption webpage="version-4" alt=""/>
     </file>
     <file name="ub_w_active.jpg" crc="3914595447" ref="version-4:parley-teaser">
-      <caption webpage="version-4" alt=""/>
-      <caption webpage="version-4" alt=""/>
-      <caption webpage="version-4" alt=""/>
-      <caption webpage="version-4" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
+      <caption webpage="version-4" alt=""/>
+      <caption webpage="version-4" alt=""/>
+      <caption webpage="version-4" alt=""/>
+      <caption webpage="version-4" alt=""/>
     </file>
     <file name="ub_frame1_black.jpg" crc="315312887" ref="version-4:parley-teaser">
-      <caption webpage="version-4" alt=""/>
-      <caption webpage="version-4" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
+      <caption webpage="version-4" alt=""/>
+      <caption webpage="version-4" alt=""/>
     </file>
     <file name="ub_frame2_black.jpg" crc="3775064060" ref="version-4:parley-teaser">
-      <caption webpage="version-4" alt=""/>
-      <caption webpage="version-4" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
+      <caption webpage="version-4" alt=""/>
+      <caption webpage="version-4" alt=""/>
     </file>
     <file name="ub_frame3_black.jpg" crc="4206558842" ref="version-4:parley-teaser">
-      <caption webpage="version-4" alt=""/>
-      <caption webpage="version-4" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
+      <caption webpage="version-4" alt=""/>
+      <caption webpage="version-4" alt=""/>
     </file>
     <file name="ub_frame4_black.jpg" crc="3885941452" ref="version-4:parley-teaser">
-      <caption webpage="version-4" alt=""/>
-      <caption webpage="version-4" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
+      <caption webpage="version-4" alt=""/>
+      <caption webpage="version-4" alt=""/>
     </file>
     <file name="boost_off_black.svg" crc="4290313003" ref="version-4:parley-teaser"/>
     <file name="boost_off_black_poster_u68551.png" crc="10714401" ref="version-4:parley-teaser"/>
@@ -1491,28 +1491,28 @@
     <file name="heel_on_black2.svg" crc="3970541602" ref="version-4:parley-teaser"/>
     <file name="heel_on_black_poster_u68647.png" crc="3831882238" ref="version-4:parley-teaser"/>
     <file name="ub_frame1_blue.jpg" crc="291723923" ref="version-4:parley-teaser">
-      <caption webpage="version-4" alt=""/>
-      <caption webpage="version-4" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
+      <caption webpage="version-4" alt=""/>
+      <caption webpage="version-4" alt=""/>
     </file>
     <file name="ub_frame2_blue.jpg" crc="4027500800" ref="version-4:parley-teaser">
-      <caption webpage="version-4" alt=""/>
-      <caption webpage="version-4" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
+      <caption webpage="version-4" alt=""/>
+      <caption webpage="version-4" alt=""/>
     </file>
     <file name="ub_frame3_blue.jpg" crc="3991144382" ref="version-4:parley-teaser">
-      <caption webpage="version-4" alt=""/>
-      <caption webpage="version-4" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
+      <caption webpage="version-4" alt=""/>
+      <caption webpage="version-4" alt=""/>
     </file>
     <file name="ub_frame4_blue.jpg" crc="3760093664" ref="version-4:parley-teaser">
-      <caption webpage="version-4" alt=""/>
-      <caption webpage="version-4" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
+      <caption webpage="version-4" alt=""/>
+      <caption webpage="version-4" alt=""/>
     </file>
     <file name="boost_off_blue.svg" crc="94269184" ref="version-4:parley-teaser"/>
     <file name="boost_off_blue_poster_u68703.png" crc="4260069791" ref="version-4:parley-teaser"/>
@@ -1531,28 +1531,28 @@
     <file name="heel_on_blue2.svg" crc="3863819262" ref="version-4:parley-teaser"/>
     <file name="heel_on_blue_poster_u68767.png" crc="4126574319" ref="version-4:parley-teaser"/>
     <file name="ub_frame1_grey.jpg" crc="441850266" ref="version-4:parley-teaser">
-      <caption webpage="version-4" alt=""/>
-      <caption webpage="version-4" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
+      <caption webpage="version-4" alt=""/>
+      <caption webpage="version-4" alt=""/>
     </file>
     <file name="ub_frame2_grey.jpg" crc="410610722" ref="version-4:parley-teaser">
-      <caption webpage="version-4" alt=""/>
-      <caption webpage="version-4" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
+      <caption webpage="version-4" alt=""/>
+      <caption webpage="version-4" alt=""/>
     </file>
     <file name="ub_frame3_grey.jpg" crc="70639581" ref="version-4:parley-teaser">
-      <caption webpage="version-4" alt=""/>
-      <caption webpage="version-4" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
+      <caption webpage="version-4" alt=""/>
+      <caption webpage="version-4" alt=""/>
     </file>
     <file name="ub_frame4_grey.jpg" crc="409573236" ref="version-4:parley-teaser">
-      <caption webpage="version-4" alt=""/>
-      <caption webpage="version-4" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
+      <caption webpage="version-4" alt=""/>
+      <caption webpage="version-4" alt=""/>
     </file>
     <file name="boost_off_grey.svg" crc="532857664" ref="version-4:parley-teaser"/>
     <file name="boost_off_grey_poster_u68855.png" crc="393373809" ref="version-4:parley-teaser"/>
@@ -1571,28 +1571,28 @@
     <file name="heel_on_grey.svg" crc="79529432" ref="version-4:parley-teaser"/>
     <file name="heel_on_grey_poster_u68895.png" crc="4013332639" ref="version-4:parley-teaser"/>
     <file name="ub_frame1_white.jpg" crc="3782962857" ref="version-4:parley-teaser">
-      <caption webpage="version-4" alt=""/>
-      <caption webpage="version-4" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
+      <caption webpage="version-4" alt=""/>
+      <caption webpage="version-4" alt=""/>
     </file>
     <file name="ub_frame2_white.jpg" crc="373650119" ref="version-4:parley-teaser">
-      <caption webpage="version-4" alt=""/>
-      <caption webpage="version-4" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
+      <caption webpage="version-4" alt=""/>
+      <caption webpage="version-4" alt=""/>
     </file>
     <file name="ub_frame3_white.jpg" crc="381473207" ref="version-4:parley-teaser">
-      <caption webpage="version-4" alt=""/>
-      <caption webpage="version-4" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
+      <caption webpage="version-4" alt=""/>
+      <caption webpage="version-4" alt=""/>
     </file>
     <file name="ub_frame4_white.jpg" crc="260951144" ref="version-4:parley-teaser">
-      <caption webpage="version-4" alt=""/>
-      <caption webpage="version-4" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
+      <caption webpage="version-4" alt=""/>
+      <caption webpage="version-4" alt=""/>
     </file>
     <file name="boost_off_white.svg" crc="3771559821" ref="version-4:parley-teaser"/>
     <file name="boost_off_white_poster_u68967.png" crc="4105963550" ref="version-4:parley-teaser"/>
@@ -1629,52 +1629,52 @@
     <file name="white swatch inactive_white.svg" crc="183828047" ref="version-4:parley-teaser"/>
     <file name="white swatch inactive_white_poster_u68919.png" crc="16977106" ref="version-4:parley-teaser"/>
     <file name="ubw_frame1_black.jpg" crc="3782429814" ref="version-4:parley-teaser">
-      <caption webpage="version-4" alt=""/>
-      <caption webpage="version-4" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
+      <caption webpage="version-4" alt=""/>
+      <caption webpage="version-4" alt=""/>
     </file>
     <file name="ubw_frame2_black.jpg" crc="4135635876" ref="version-4:parley-teaser">
-      <caption webpage="version-4" alt=""/>
-      <caption webpage="version-4" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
+      <caption webpage="version-4" alt=""/>
+      <caption webpage="version-4" alt=""/>
     </file>
     <file name="ubw_frame3_black.jpg" crc="3992270208" ref="version-4:parley-teaser">
-      <caption webpage="version-4" alt=""/>
-      <caption webpage="version-4" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
+      <caption webpage="version-4" alt=""/>
+      <caption webpage="version-4" alt=""/>
     </file>
     <file name="ubw_frame4_black.jpg" crc="222699672" ref="version-4:parley-teaser">
-      <caption webpage="version-4" alt=""/>
-      <caption webpage="version-4" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
+      <caption webpage="version-4" alt=""/>
+      <caption webpage="version-4" alt=""/>
     </file>
     <file name="ubw_frame1_pink.jpg" crc="60468999" ref="version-4:parley-teaser">
-      <caption webpage="version-4" alt=""/>
-      <caption webpage="version-4" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
+      <caption webpage="version-4" alt=""/>
+      <caption webpage="version-4" alt=""/>
     </file>
     <file name="ubw_frame2_pink.jpg" crc="4240276467" ref="version-4:parley-teaser">
-      <caption webpage="version-4" alt=""/>
-      <caption webpage="version-4" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
+      <caption webpage="version-4" alt=""/>
+      <caption webpage="version-4" alt=""/>
     </file>
     <file name="ubw_frame3_pink.jpg" crc="3808425429" ref="version-4:parley-teaser">
-      <caption webpage="version-4" alt=""/>
-      <caption webpage="version-4" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
+      <caption webpage="version-4" alt=""/>
+      <caption webpage="version-4" alt=""/>
     </file>
     <file name="ubw_frame4_pink.jpg" crc="4222793957" ref="version-4:parley-teaser">
-      <caption webpage="version-4" alt=""/>
-      <caption webpage="version-4" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
+      <caption webpage="version-4" alt=""/>
+      <caption webpage="version-4" alt=""/>
     </file>
     <file name="boost_off_w_pink.svg" crc="4166717976" ref="version-4:parley-teaser"/>
     <file name="boost_off_w_pink_poster_u74073.png" crc="210272562" ref="version-4:parley-teaser"/>
@@ -1693,28 +1693,28 @@
     <file name="heel_on_w_pink.svg" crc="158735799" ref="version-4:parley-teaser"/>
     <file name="heel_on_w_pink_poster_u74113.png" crc="465736076" ref="version-4:parley-teaser"/>
     <file name="ubw_frame1_grey.jpg" crc="363066516" ref="version-4:parley-teaser">
-      <caption webpage="version-4" alt=""/>
-      <caption webpage="version-4" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
+      <caption webpage="version-4" alt=""/>
+      <caption webpage="version-4" alt=""/>
     </file>
     <file name="ubw_frame2_grey.jpg" crc="4028906715" ref="version-4:parley-teaser">
-      <caption webpage="version-4" alt=""/>
-      <caption webpage="version-4" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
+      <caption webpage="version-4" alt=""/>
+      <caption webpage="version-4" alt=""/>
     </file>
     <file name="ubw_frame3_grey.jpg" crc="348367885" ref="version-4:parley-teaser">
-      <caption webpage="version-4" alt=""/>
-      <caption webpage="version-4" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
+      <caption webpage="version-4" alt=""/>
+      <caption webpage="version-4" alt=""/>
     </file>
     <file name="ubw_frame4_grey.jpg" crc="435417581" ref="version-4:parley-teaser">
-      <caption webpage="version-4" alt=""/>
-      <caption webpage="version-4" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
+      <caption webpage="version-4" alt=""/>
+      <caption webpage="version-4" alt=""/>
     </file>
     <file name="boost_on_w_grey.svg" crc="4255662166" ref="version-4:parley-teaser"/>
     <file name="boost_on_w_grey_poster_u74153.png" crc="3911252107" ref="version-4:parley-teaser"/>
@@ -1725,28 +1725,28 @@
     <file name="heel_on_w_grey.svg" crc="305229034" ref="version-4:parley-teaser"/>
     <file name="heel_on_w_grey_poster_u74177.png" crc="4013332639" ref="version-4:parley-teaser"/>
     <file name="ubw_frame1_blue.jpg" crc="4220677368" ref="version-4:parley-teaser">
-      <caption webpage="version-4" alt=""/>
-      <caption webpage="version-4" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
+      <caption webpage="version-4" alt=""/>
+      <caption webpage="version-4" alt=""/>
     </file>
     <file name="ubw_frame2_blue.jpg" crc="311095246" ref="version-4:parley-teaser">
-      <caption webpage="version-4" alt=""/>
-      <caption webpage="version-4" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
+      <caption webpage="version-4" alt=""/>
+      <caption webpage="version-4" alt=""/>
     </file>
     <file name="ubw_frame3_blue.jpg" crc="4259864007" ref="version-4:parley-teaser">
-      <caption webpage="version-4" alt=""/>
-      <caption webpage="version-4" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
+      <caption webpage="version-4" alt=""/>
+      <caption webpage="version-4" alt=""/>
     </file>
     <file name="ubw_frame4_blue.jpg" crc="481127089" ref="version-4:parley-teaser">
-      <caption webpage="version-4" alt=""/>
-      <caption webpage="version-4" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
+      <caption webpage="version-4" alt=""/>
+      <caption webpage="version-4" alt=""/>
     </file>
     <file name="boost_off_blue2.svg" crc="3838994308" ref="version-4:parley-teaser"/>
     <file name="boost_off_blue_poster_u74289.png" crc="3784068361" ref="version-4:parley-teaser"/>
@@ -1790,28 +1790,28 @@
     </file>
     <file name="u104020-7.png" crc="411474259" ref="version-4"/>
     <file name="el_frame1_mobile_grey.jpg" crc="3959186428" ref="version-4:parley-teaser">
-      <caption webpage="version-4" alt=""/>
-      <caption webpage="version-4" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
+      <caption webpage="version-4" alt=""/>
+      <caption webpage="version-4" alt=""/>
     </file>
     <file name="el_frame2 -mobile_grey.jpg" crc="176077908" ref="version-4:parley-teaser">
-      <caption webpage="version-4" alt=""/>
-      <caption webpage="version-4" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
+      <caption webpage="version-4" alt=""/>
+      <caption webpage="version-4" alt=""/>
     </file>
     <file name="el_frame3-mobile_grey.jpg" crc="4096613535" ref="version-4:parley-teaser">
-      <caption webpage="version-4" alt=""/>
-      <caption webpage="version-4" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
+      <caption webpage="version-4" alt=""/>
+      <caption webpage="version-4" alt=""/>
     </file>
     <file name="el_frame4-mobile_grey.jpg" crc="3916654818" ref="version-4:parley-teaser">
-      <caption webpage="version-4" alt=""/>
-      <caption webpage="version-4" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
+      <caption webpage="version-4" alt=""/>
+      <caption webpage="version-4" alt=""/>
     </file>
     <file name="boost_off_l_grey.svg" crc="3929716669" ref="version-4:parley-teaser"/>
     <file name="boost_off_l_grey_poster_u108245.png" crc="10714401" ref="version-4:parley-teaser"/>
@@ -1830,28 +1830,28 @@
     <file name="heel_on_l_grey.svg" crc="275719480" ref="version-4:parley-teaser"/>
     <file name="heel_on_l_grey_poster_u108285.png" crc="428704379" ref="version-4:parley-teaser"/>
     <file name="el_frame1_mobile_pink.jpg" crc="15782372" ref="version-4:parley-teaser">
-      <caption webpage="version-4" alt=""/>
-      <caption webpage="version-4" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
+      <caption webpage="version-4" alt=""/>
+      <caption webpage="version-4" alt=""/>
     </file>
     <file name="el_frame2 -mobile_pink.jpg" crc="4282780947" ref="version-4:parley-teaser">
-      <caption webpage="version-4" alt=""/>
-      <caption webpage="version-4" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
+      <caption webpage="version-4" alt=""/>
+      <caption webpage="version-4" alt=""/>
     </file>
     <file name="el_frame3-mobile_pink.jpg" crc="4161723009" ref="version-4:parley-teaser">
-      <caption webpage="version-4" alt=""/>
-      <caption webpage="version-4" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
+      <caption webpage="version-4" alt=""/>
+      <caption webpage="version-4" alt=""/>
     </file>
     <file name="el_frame4-mobile_pink.jpg" crc="4109211581" ref="version-4:parley-teaser">
-      <caption webpage="version-4" alt=""/>
-      <caption webpage="version-4" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
+      <caption webpage="version-4" alt=""/>
+      <caption webpage="version-4" alt=""/>
     </file>
     <file name="boost_off_l_pink.svg" crc="3976186981" ref="version-4:parley-teaser"/>
     <file name="boost_off_l_pink_poster_u108365.png" crc="3981137390" ref="version-4:parley-teaser"/>
@@ -2015,65 +2015,84 @@
     <file name="el_frame2 -mobile_pink-u111023-fr.jpg" crc="3780987587" ref="version-4:parley-teaser"/>
     <file name="el_frame3-mobile_pink-u111021-fr.jpg" crc="408585884" ref="version-4:parley-teaser"/>
     <file name="el_frame4-mobile_pink-u111024-fr.jpg" crc="4036055720" ref="version-4:parley-teaser"/>
-    <file name="shoe_windows-crop-u659735.jpg" crc="3794676242" seo="true" ref="version-4">
+    <file name="shoe_windows-crop-u659735.jpg" crc="4078930544" seo="true" ref="version-4">
       <caption webpage="version-4" alt=""/>
     </file>
-    <file name="single-crop-u659645.jpg" crc="4097192214" seo="true" ref="version-4">
+    <file name="single-crop-u659645.jpg" crc="240831008" seo="true" ref="version-4">
       <caption webpage="version-4" alt=""/>
     </file>
-    <file name="ubwomen_icon-crop-u659605.jpg" crc="3815039425" seo="true" ref="version-4">
+    <file name="ubwomen_icon-crop-u659605.jpg" crc="233578317" seo="true" ref="version-4">
       <caption webpage="version-4" alt=""/>
     </file>
-    <file name="running_ss18_edgelux_women_cq1239_ftw_1-crop-u659555.jpg" crc="182892030" seo="true" ref="version-4">
+    <file name="running_ss18_edgelux_women_cq1239_ftw_1-crop-u659555.jpg" crc="151247495" seo="true" ref="version-4">
       <caption webpage="version-4" alt=""/>
     </file>
-    <file name="u60495-73.png" crc="50266184" ref="version-4"/>
+    <file name="shoe_butterfly390x292.png" crc="250138286" seo="true" ref="version-4">
+      <caption webpage="version-4" alt=""/>
+    </file>
+    <file name="ab_frame1-u64889-fr.jpg" crc="3998028270" ref="version-4"/>
+    <file name="ab_frame2-u64887-fr.jpg" crc="191215165" ref="version-4"/>
+    <file name="ab_frame3-u64888-fr.jpg" crc="94419170" ref="version-4"/>
+    <file name="ab_frame4-u64886-fr.jpg" crc="482403752" ref="version-4"/>
+    <file name="ab_frame1_blue-u64922-fr.jpg" crc="84120687" ref="version-4"/>
+    <file name="ab_frame2_blue-u64923-fr.jpg" crc="3810858703" ref="version-4"/>
+    <file name="ab_frame3_blue-u64925-fr.jpg" crc="4224622826" ref="version-4"/>
+    <file name="ab_frame4_blue-u64924-fr.jpg" crc="136577158" ref="version-4"/>
+    <file name="ab_frame1_black-u64953-fr.jpg" crc="4259300500" ref="version-4"/>
+    <file name="ab_frame2_black-u64952-fr.jpg" crc="4114954555" ref="version-4"/>
+    <file name="ab_frame3_black-u64954-fr.jpg" crc="3782238261" ref="version-4"/>
+    <file name="ab_frame4_black-u64951-fr.jpg" crc="3781378010" ref="version-4"/>
+    <file name="ab_frame1_olive-u64906-fr.jpg" crc="62386658" ref="version-4"/>
+    <file name="ab_frame2_olive-u64904-fr.jpg" crc="4089281356" ref="version-4"/>
+    <file name="ab_frame3_olive-u64907-fr.jpg" crc="154905722" ref="version-4"/>
+    <file name="ab_frame4_olive-u64905-fr.jpg" crc="97210648" ref="version-4"/>
+    <file name="u60495-73.png" crc="4197580202" ref="version-4"/>
     <file name="ub_m_inactive-u82549-fr.jpg" crc="3789114035" ref="version-4:parley-teaser"/>
     <file name="ub_m_active-u82549-r-fr.jpg" crc="4283106290" ref="version-4:parley-teaser"/>
     <file name="ub_m_active_1-u82548-fr.jpg" crc="186064756" ref="version-4:parley-teaser"/>
     <file name="ub_w_active-u82548-r-fr.jpg" crc="389479545" ref="version-4:parley-teaser"/>
-    <file name="ub_frame1_black-u85053-fr.jpg" crc="3929248239" ref="version-4:parley-teaser"/>
-    <file name="ub_frame2_black-u85052-fr.jpg" crc="4192699363" ref="version-4:parley-teaser"/>
-    <file name="ub_frame3_black-u85054-fr.jpg" crc="122808124" ref="version-4:parley-teaser"/>
-    <file name="ub_frame4_black-u85051-fr.jpg" crc="240921711" ref="version-4:parley-teaser"/>
-    <file name="ub_frame1_blue-u85033-fr.jpg" crc="477774034" ref="version-4:parley-teaser"/>
-    <file name="ub_frame2_blue-u85032-fr.jpg" crc="232871910" ref="version-4:parley-teaser"/>
-    <file name="ub_frame3_blue-u85031-fr.jpg" crc="4173451099" ref="version-4:parley-teaser"/>
-    <file name="ub_frame4_blue-u85034-fr.jpg" crc="4088586437" ref="version-4:parley-teaser"/>
-    <file name="ub_frame1_grey-u85073-fr.jpg" crc="4221650249" ref="version-4:parley-teaser"/>
-    <file name="ub_frame2_grey-u85075-fr.jpg" crc="4289166523" ref="version-4:parley-teaser"/>
-    <file name="ub_frame3_grey-u85074-fr.jpg" crc="69624117" ref="version-4:parley-teaser"/>
-    <file name="ub_frame4_grey-u85076-fr.jpg" crc="4290562344" ref="version-4:parley-teaser"/>
-    <file name="ub_frame1_white-u85091-fr.jpg" crc="3845035707" ref="version-4:parley-teaser"/>
-    <file name="ub_frame2_white-u85092-fr.jpg" crc="3784242089" ref="version-4:parley-teaser"/>
-    <file name="ub_frame3_white-u85094-fr.jpg" crc="283999441" ref="version-4:parley-teaser"/>
-    <file name="ub_frame4_white-u85093-fr.jpg" crc="4215690560" ref="version-4:parley-teaser"/>
-    <file name="ubw_frame1_black-u92894-fr.jpg" crc="423914994" ref="version-4:parley-teaser"/>
-    <file name="ubw_frame2_black-u92892-fr.jpg" crc="449282139" ref="version-4:parley-teaser"/>
-    <file name="ubw_frame3_black-u92891-fr.jpg" crc="3824323622" ref="version-4:parley-teaser"/>
-    <file name="ubw_frame4_black-u92893-fr.jpg" crc="3951005854" ref="version-4:parley-teaser"/>
-    <file name="ubw_frame1_pink-u92881-fr.jpg" crc="133925606" ref="version-4:parley-teaser"/>
-    <file name="ubw_frame2_pink-u92880-fr.jpg" crc="4222666987" ref="version-4:parley-teaser"/>
-    <file name="ubw_frame3_pink-u92882-fr.jpg" crc="3989076410" ref="version-4:parley-teaser"/>
-    <file name="ubw_frame4_pink-u92883-fr.jpg" crc="3829374070" ref="version-4:parley-teaser"/>
-    <file name="ubw_frame1_grey-u92856-fr.jpg" crc="473768797" ref="version-4:parley-teaser"/>
-    <file name="ubw_frame2_grey-u92855-fr.jpg" crc="3994591129" ref="version-4:parley-teaser"/>
-    <file name="ubw_frame3_grey-u92858-fr.jpg" crc="9834248" ref="version-4:parley-teaser"/>
-    <file name="ubw_frame4_grey-u92857-fr.jpg" crc="530573633" ref="version-4:parley-teaser"/>
-    <file name="ubw_frame1_blue-u92918-fr.jpg" crc="3768944551" ref="version-4:parley-teaser"/>
-    <file name="ubw_frame2_blue-u92917-fr.jpg" crc="412465421" ref="version-4:parley-teaser"/>
-    <file name="ubw_frame3_blue-u92916-fr.jpg" crc="4267038740" ref="version-4:parley-teaser"/>
-    <file name="ubw_frame4_blue-u92919-fr.jpg" crc="118151447" ref="version-4:parley-teaser"/>
-    <file name="u66889-75.png" crc="284894102" ref="version-4"/>
-    <file name="u104020-75.png" crc="248166881" ref="version-4"/>
-    <file name="el_frame1_mobile_grey-u110231-fr.jpg" crc="4034038893" ref="version-4:parley-teaser"/>
-    <file name="el_frame2 -mobile_grey-u110229-fr.jpg" crc="410607127" ref="version-4:parley-teaser"/>
-    <file name="el_frame3-mobile_grey-u110228-fr.jpg" crc="3829508220" ref="version-4:parley-teaser"/>
-    <file name="el_frame4-mobile_grey-u110230-fr.jpg" crc="4022522936" ref="version-4:parley-teaser"/>
-    <file name="el_frame1_mobile_pink-u110216-fr.jpg" crc="4233971012" ref="version-4:parley-teaser"/>
-    <file name="el_frame2 -mobile_pink-u110217-fr.jpg" crc="103419860" ref="version-4:parley-teaser"/>
-    <file name="el_frame3-mobile_pink-u110215-fr.jpg" crc="297498415" ref="version-4:parley-teaser"/>
-    <file name="el_frame4-mobile_pink-u110218-fr.jpg" crc="504763977" ref="version-4:parley-teaser"/>
+    <file name="ub_frame1_black-u85053-fr.jpg" crc="4113311311" ref="version-4"/>
+    <file name="ub_frame2_black-u85052-fr.jpg" crc="4151583520" ref="version-4"/>
+    <file name="ub_frame3_black-u85054-fr.jpg" crc="122384855" ref="version-4"/>
+    <file name="ub_frame4_black-u85051-fr.jpg" crc="4259208834" ref="version-4"/>
+    <file name="ub_frame1_blue-u85033-fr.jpg" crc="481493560" ref="version-4"/>
+    <file name="ub_frame2_blue-u85032-fr.jpg" crc="4289293863" ref="version-4"/>
+    <file name="ub_frame3_blue-u85031-fr.jpg" crc="358713001" ref="version-4"/>
+    <file name="ub_frame4_blue-u85034-fr.jpg" crc="4040169758" ref="version-4"/>
+    <file name="ub_frame1_grey-u85073-fr.jpg" crc="299703177" ref="version-4"/>
+    <file name="ub_frame2_grey-u85075-fr.jpg" crc="296184463" ref="version-4"/>
+    <file name="ub_frame3_grey-u85074-fr.jpg" crc="401133294" ref="version-4"/>
+    <file name="ub_frame4_grey-u85076-fr.jpg" crc="4080357357" ref="version-4"/>
+    <file name="ub_frame1_white-u85091-fr.jpg" crc="3935085042" ref="version-4"/>
+    <file name="ub_frame2_white-u85092-fr.jpg" crc="51976468" ref="version-4"/>
+    <file name="ub_frame3_white-u85094-fr.jpg" crc="3786907938" ref="version-4"/>
+    <file name="ub_frame4_white-u85093-fr.jpg" crc="3917833317" ref="version-4"/>
+    <file name="ubw_frame1_black-u92894-fr.jpg" crc="59914111" ref="version-4"/>
+    <file name="ubw_frame2_black-u92892-fr.jpg" crc="3798519449" ref="version-4"/>
+    <file name="ubw_frame3_black-u92891-fr.jpg" crc="4227604415" ref="version-4"/>
+    <file name="ubw_frame4_black-u92893-fr.jpg" crc="3931095807" ref="version-4"/>
+    <file name="ubw_frame1_pink-u92881-fr.jpg" crc="362546675" ref="version-4"/>
+    <file name="ubw_frame2_pink-u92880-fr.jpg" crc="4145328405" ref="version-4"/>
+    <file name="ubw_frame3_pink-u92882-fr.jpg" crc="4286078648" ref="version-4"/>
+    <file name="ubw_frame4_pink-u92883-fr.jpg" crc="53039675" ref="version-4"/>
+    <file name="ubw_frame1_grey-u92856-fr.jpg" crc="3851223053" ref="version-4"/>
+    <file name="ubw_frame2_grey-u92855-fr.jpg" crc="16997905" ref="version-4"/>
+    <file name="ubw_frame3_grey-u92858-fr.jpg" crc="477661965" ref="version-4"/>
+    <file name="ubw_frame4_grey-u92857-fr.jpg" crc="188565586" ref="version-4"/>
+    <file name="ubw_frame1_blue-u92918-fr.jpg" crc="273742157" ref="version-4"/>
+    <file name="ubw_frame2_blue-u92917-fr.jpg" crc="4020337205" ref="version-4"/>
+    <file name="ubw_frame3_blue-u92916-fr.jpg" crc="510119962" ref="version-4"/>
+    <file name="ubw_frame4_blue-u92919-fr.jpg" crc="35334881" ref="version-4"/>
+    <file name="u66889-75.png" crc="3949441303" ref="version-4"/>
+    <file name="u104020-75.png" crc="74887003" ref="version-4"/>
+    <file name="el_frame1_mobile_grey-u110231-fr.jpg" crc="4221549792" ref="version-4"/>
+    <file name="el_frame2 -mobile_grey-u110229-fr.jpg" crc="472271417" ref="version-4"/>
+    <file name="el_frame3-mobile_grey-u110228-fr.jpg" crc="3807323865" ref="version-4"/>
+    <file name="el_frame4-mobile_grey-u110230-fr.jpg" crc="371394082" ref="version-4"/>
+    <file name="el_frame1_mobile_pink-u110216-fr.jpg" crc="3835702851" ref="version-4"/>
+    <file name="el_frame2 -mobile_pink-u110217-fr.jpg" crc="4246196190" ref="version-4"/>
+    <file name="el_frame3-mobile_pink-u110215-fr.jpg" crc="4002239854" ref="version-4"/>
+    <file name="el_frame4-mobile_pink-u110218-fr.jpg" crc="4227014418" ref="version-4"/>
     <file name="u63891-8.png" crc="3797129032" ref="version-4"/>
     <file name="shoe_windows-crop-u659736.jpg" crc="251303117" seo="true" ref="version-4">
       <caption webpage="version-4" alt=""/>
@@ -2168,9 +2187,9 @@
     <file name="ub_frame3-mobile_white-u87998-fr.jpg" crc="3803628818" ref="version-4:parley-teaser"/>
     <file name="ub_frame4-mobile_white-u87997-fr.jpg" crc="3833451278" ref="version-4:parley-teaser"/>
     <file name="ubmgif.gif" crc="3802521859" ref="version-4:parley-teaser">
-      <caption webpage="version-4" alt=""/>
-      <caption webpage="version-4" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
+      <caption webpage="version-4" alt=""/>
+      <caption webpage="version-4" alt=""/>
     </file>
     <file name="ubw_frame1_black-u95798-fr.jpg" crc="303475258" ref="version-4:parley-teaser"/>
     <file name="ubw_frame2_black-u95796-fr.jpg" crc="220172682" ref="version-4:parley-teaser"/>
@@ -2189,9 +2208,9 @@
     <file name="ubw_frame3_blue-u95820-fr.jpg" crc="4270904107" ref="version-4:parley-teaser"/>
     <file name="ubw_frame4_blue-u95823-fr.jpg" crc="381211886" ref="version-4:parley-teaser"/>
     <file name="ubwgif.gif" crc="4281875937" ref="version-4:parley-teaser">
-      <caption webpage="version-4" alt=""/>
-      <caption webpage="version-4" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
+      <caption webpage="version-4" alt=""/>
+      <caption webpage="version-4" alt=""/>
     </file>
     <file name="el_frame1_mobile_grey-u106757-fr.jpg" crc="84168545" ref="version-4:parley-teaser"/>
     <file name="el_frame2 -mobile_grey-u106760-fr.jpg" crc="330982165" ref="version-4:parley-teaser"/>
@@ -2331,8 +2350,48 @@
       <caption webpage="parley-teaser" alt=""/>
     </file>
     <file name="u163000-73.png" crc="50266184" ref="parley-teaser"/>
+    <file name="ub_frame1_black-u163303-fr.jpg" crc="3929248239" ref="parley-teaser"/>
+    <file name="ub_frame2_black-u163306-fr.jpg" crc="4192699363" ref="parley-teaser"/>
+    <file name="ub_frame3_black-u163304-fr.jpg" crc="122808124" ref="parley-teaser"/>
+    <file name="ub_frame4_black-u163305-fr.jpg" crc="240921711" ref="parley-teaser"/>
+    <file name="ub_frame1_blue-u163289-fr.jpg" crc="477774034" ref="parley-teaser"/>
+    <file name="ub_frame2_blue-u163290-fr.jpg" crc="232871910" ref="parley-teaser"/>
+    <file name="ub_frame3_blue-u163292-fr.jpg" crc="4173451099" ref="parley-teaser"/>
+    <file name="ub_frame4_blue-u163291-fr.jpg" crc="4088586437" ref="parley-teaser"/>
+    <file name="ub_frame1_grey-u163341-fr.jpg" crc="4221650249" ref="parley-teaser"/>
+    <file name="ub_frame2_grey-u163339-fr.jpg" crc="4289166523" ref="parley-teaser"/>
+    <file name="ub_frame3_grey-u163340-fr.jpg" crc="69624117" ref="parley-teaser"/>
+    <file name="ub_frame4_grey-u163342-fr.jpg" crc="4290562344" ref="parley-teaser"/>
+    <file name="ub_frame1_white-u163326-fr.jpg" crc="3845035707" ref="parley-teaser"/>
+    <file name="ub_frame2_white-u163327-fr.jpg" crc="3784242089" ref="parley-teaser"/>
+    <file name="ub_frame3_white-u163325-fr.jpg" crc="283999441" ref="parley-teaser"/>
+    <file name="ub_frame4_white-u163328-fr.jpg" crc="4215690560" ref="parley-teaser"/>
+    <file name="ubw_frame1_black-u163249-fr.jpg" crc="423914994" ref="parley-teaser"/>
+    <file name="ubw_frame2_black-u163246-fr.jpg" crc="449282139" ref="parley-teaser"/>
+    <file name="ubw_frame3_black-u163247-fr.jpg" crc="3824323622" ref="parley-teaser"/>
+    <file name="ubw_frame4_black-u163248-fr.jpg" crc="3951005854" ref="parley-teaser"/>
+    <file name="ubw_frame1_pink-u163205-fr.jpg" crc="133925606" ref="parley-teaser"/>
+    <file name="ubw_frame2_pink-u163207-fr.jpg" crc="4222666987" ref="parley-teaser"/>
+    <file name="ubw_frame3_pink-u163208-fr.jpg" crc="3989076410" ref="parley-teaser"/>
+    <file name="ubw_frame4_pink-u163206-fr.jpg" crc="3829374070" ref="parley-teaser"/>
+    <file name="ubw_frame1_grey-u163270-fr.jpg" crc="473768797" ref="parley-teaser"/>
+    <file name="ubw_frame2_grey-u163271-fr.jpg" crc="3994591129" ref="parley-teaser"/>
+    <file name="ubw_frame3_grey-u163268-fr.jpg" crc="9834248" ref="parley-teaser"/>
+    <file name="ubw_frame4_grey-u163269-fr.jpg" crc="530573633" ref="parley-teaser"/>
+    <file name="ubw_frame1_blue-u163227-fr.jpg" crc="3768944551" ref="parley-teaser"/>
+    <file name="ubw_frame2_blue-u163228-fr.jpg" crc="412465421" ref="parley-teaser"/>
+    <file name="ubw_frame3_blue-u163229-fr.jpg" crc="4267038740" ref="parley-teaser"/>
+    <file name="ubw_frame4_blue-u163230-fr.jpg" crc="118151447" ref="parley-teaser"/>
     <file name="u162810-75.png" crc="284894102" ref="parley-teaser"/>
     <file name="u163558-75.png" crc="248166881" ref="parley-teaser"/>
+    <file name="el_frame1_mobile_grey-u163484-fr.jpg" crc="4034038893" ref="parley-teaser"/>
+    <file name="el_frame2 -mobile_grey-u163487-fr.jpg" crc="410607127" ref="parley-teaser"/>
+    <file name="el_frame3-mobile_grey-u163485-fr.jpg" crc="3829508220" ref="parley-teaser"/>
+    <file name="el_frame4-mobile_grey-u163486-fr.jpg" crc="4022522936" ref="parley-teaser"/>
+    <file name="el_frame1_mobile_pink-u163470-fr.jpg" crc="4233971012" ref="parley-teaser"/>
+    <file name="el_frame2 -mobile_pink-u163471-fr.jpg" crc="103419860" ref="parley-teaser"/>
+    <file name="el_frame3-mobile_pink-u163472-fr.jpg" crc="297498415" ref="parley-teaser"/>
+    <file name="el_frame4-mobile_pink-u163469-fr.jpg" crc="504763977" ref="parley-teaser"/>
     <file name="u159189-8.png" crc="3797129032" ref="parley-teaser"/>
     <file name="shoe_windows-crop-u1506656.jpg" crc="251303117" seo="true" ref="parley-teaser">
       <caption webpage="parley-teaser" alt=""/>
@@ -2362,7 +2421,6 @@
     <file name="running_ss18_edgelux_women_cq1239_ftw_1-crop-u1506697.jpg" crc="368507546" seo="true" ref="parley-teaser">
       <caption webpage="parley-teaser" alt=""/>
     </file>
-    <file name="2_women_banner-u163750-fr.jpg" crc="4004326786" ref="parley-teaser"/>
     <file name="u159188-82.png" crc="60089271" ref="parley-teaser"/>
     <file name="shoe_windows-crop-u1506658.jpg" crc="4290255155" seo="true" ref="parley-teaser">
       <caption webpage="parley-teaser" alt=""/>
@@ -2377,10 +2435,10 @@
       <caption webpage="parley-teaser" alt=""/>
     </file>
   </folder>
-  <file name="version-1.html" crc="4135892876" seo="true" mt="1522028437571" redirect="true"/>
-  <file name="version-2.html" crc="3889196574" seo="true" mt="1522028437830" redirect="true"/>
-  <file name="index.html" crc="25910414" seo="true" mt="1522032228513" redirect="true"/>
-  <file name="version-3.html" crc="4283240014" seo="true" mt="1522028437823" redirect="true"/>
-  <file name="version-4.html" crc="4292972637" seo="true" mt="1522032169432" redirect="true"/>
-  <file name="parley-teaser.html" crc="181380798" seo="true" mt="1522032063302" redirect="true"/>
+  <file name="version-1.html" crc="453734371" seo="true" mt="1522028437571" redirect="true"/>
+  <file name="version-2.html" crc="394016774" seo="true" mt="1522028437830" redirect="true"/>
+  <file name="index.html" crc="4215465543" seo="true" mt="1522032228513" redirect="true"/>
+  <file name="version-3.html" crc="4072751083" seo="true" mt="1522028437823" redirect="true"/>
+  <file name="version-4.html" crc="3911242839" seo="true" mt="1522034060800" redirect="true"/>
+  <file name="parley-teaser.html" crc="3762029946" seo="true" mt="1522034202934" redirect="true"/>
 </manifest>
