@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://alliemikelle.github.io/DSG_LP1/index.html</loc>
-    <lastmod>2018-03-25</lastmod>
+    <lastmod>2018-03-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -40,8 +40,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://alliemikelle.github.io/DSG_LP1/version-2.html</loc>
-    <lastmod>2018-03-25</lastmod>
+    <loc>https://alliemikelle.github.io/DSG_LP1/final-version.html</loc>
+    <lastmod>2018-03-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -76,570 +76,6 @@
     </image:image>
     <image:image>
       <image:loc>https://alliemikelle.github.io/DSG_LP1/images/menu_tablet-mobile.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_windows-crop-u16839.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/single-crop-u16845.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/single-w-crop-u16849.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/running_ss18_edgelux_women_cq1239_ftw_1-crop-u16837.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/window_anim.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/parleyteaser.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_windows-crop-u168392.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/single-crop-u168452.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/single-w-crop-u168492.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/running_ss18_edgelux_women_cq1239_ftw_1-crop-u168372.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_windows-crop-u168393.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/single-crop-u168453.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/single-w-crop-u168493.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/running_ss18_edgelux_women_cq1239_ftw_1-crop-u168373.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_windows-crop-u168394.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/single-crop-u168454.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/single-w-crop-u168494.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/running_ss18_edgelux_women_cq1239_ftw_1-crop-u168374.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_windows-crop-u168395.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/single-crop-u168455.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/single-w-crop-u168495.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/running_ss18_edgelux_women_cq1239_ftw_1-crop-u168375.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_windows-crop-u168396.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/single-crop-u168456.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/single-w-crop-u168496.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/running_ss18_edgelux_women_cq1239_ftw_1-crop-u168376.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/parleyteaser768x453.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_windows-crop-u168397.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/single-w-crop-u168497.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/single-crop-u168457.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/running_ss18_edgelux_women_cq1239_ftw_1-crop-u168377.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/parleyteaser480x283.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_windows-crop-u168398.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/single-w-crop-u168498.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/single-crop-u168458.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/running_ss18_edgelux_women_cq1239_ftw_1-crop-u168378.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/parleyteaser320x189.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://alliemikelle.github.io/DSG_LP1/version-3.html</loc>
-    <lastmod>2018-03-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/dsgolympics.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/menu_desktop.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/search.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/cart_desktop.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/bubbles.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/dick-s_sporting_goods_logo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/search-tablet.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/map.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/sale.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/cart_tablet-mobile.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/menu_tablet-mobile.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/window_anim.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_windows-crop-u50111.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/single-crop-u50119.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/single-w-crop-u50123.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/running_ss18_edgelux_women_cq1239_ftw_1-crop-u50116.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_windows-crop-u501112.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/single-crop-u501192.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/single-w-crop-u501232.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/running_ss18_edgelux_women_cq1239_ftw_1-crop-u501162.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_windows-crop-u501113.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/single-crop-u501193.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/single-w-crop-u501233.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/running_ss18_edgelux_women_cq1239_ftw_1-crop-u501163.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_windows-crop-u501114.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/single-crop-u501194.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/single-w-crop-u501234.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/running_ss18_edgelux_women_cq1239_ftw_1-crop-u501164.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_windows-crop-u501115.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/single-crop-u501195.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/single-w-crop-u501235.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/running_ss18_edgelux_women_cq1239_ftw_1-crop-u501165.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_windows-crop-u501116.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/single-crop-u501196.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/single-w-crop-u501236.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/running_ss18_edgelux_women_cq1239_ftw_1-crop-u501166.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_windows-crop-u501117.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/single-w-crop-u501237.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/single-crop-u501197.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/running_ss18_edgelux_women_cq1239_ftw_1-crop-u501167.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_windows-crop-u501118.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/single-w-crop-u501238.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/single-crop-u501198.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/running_ss18_edgelux_women_cq1239_ftw_1-crop-u501168.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://alliemikelle.github.io/DSG_LP1/version-1.html</loc>
-    <lastmod>2018-03-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/dsgolympics.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/menu_desktop.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/search.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/cart_desktop.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_windows-crop-u3051.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_right2250x250.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/woshoe_front250x250.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/running_ss18_edgelux_women_cq1239_ftw_1-crop-u3057.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_butterfly708x531.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/bubbles.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoes_stadium-crop-u5560.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/model_shoehold-crop-u5573.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_concrete-crop-u5587.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoes_floor-crop-u5594.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_windows-crop-u30512.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_right2213x213.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/woshoe_front213x213.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/running_ss18_edgelux_women_cq1239_ftw_1-crop-u30572.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_butterfly602x451.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoes_stadium-crop-u55602.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/model_shoehold-crop-u55732.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_concrete-crop-u55872.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoes_floor-crop-u55942.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_windows-crop-u30513.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_right2178x178.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/woshoe_front178x178.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/running_ss18_edgelux_women_cq1239_ftw_1-crop-u30573.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_butterfly504x377.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoes_stadium-crop-u55603.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/model_shoehold-crop-u55733.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_concrete-crop-u55873.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoes_floor-crop-u55943.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_windows-crop-u30514.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_right2165x165.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/woshoe_front165x165.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/running_ss18_edgelux_women_cq1239_ftw_1-crop-u30574.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_butterfly467x350.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoes_stadium-crop-u55604.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/model_shoehold-crop-u55734.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_concrete-crop-u55874.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoes_floor-crop-u55944.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_windows-crop-u30515.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_right2139x139.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/woshoe_front139x139.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/running_ss18_edgelux_women_cq1239_ftw_1-crop-u30575.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_butterfly394x295.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoes_stadium-crop-u55605.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/model_shoehold-crop-u55735.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_concrete-crop-u55875.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoes_floor-crop-u55945.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/dick-s_sporting_goods_logo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/search-tablet.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/map.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/sale.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/cart_tablet-mobile.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_windows-crop-u30516.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_right2161x161.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/woshoe_front161x161.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/running_ss18_edgelux_women_cq1239_ftw_1-crop-u30576.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_butterfly378x283.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoes_stadium-crop-u55606.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/model_shoehold-crop-u55736.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_concrete-crop-u55876.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoes_floor-crop-u55946.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_windows-crop-u30517.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_right2159x160.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/woshoe_front160x160.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/running_ss18_edgelux_women_cq1239_ftw_1-crop-u30577.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_butterfly381x286.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoes_stadium-crop-u55607.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/model_shoehold-crop-u55737.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_concrete-crop-u55877.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoes_floor-crop-u55947.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/menu_tablet-mobile.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_windows-crop-u30518.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_right2142x142.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/woshoe_front142x142.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/running_ss18_edgelux_women_cq1239_ftw_1-crop-u30578.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_butterfly280x210.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoes_stadium-crop-u14481.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/model_shoehold-crop-u14483.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_concrete-crop-u14485.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoes_floor-crop-u14487.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://alliemikelle.github.io/DSG_LP1/version-4.html</loc>
-    <lastmod>2018-03-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/dsgolympics.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/menu_desktop.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/search.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/cart_desktop.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_butterfly708x531.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/bubbles.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_butterfly602x451.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_butterfly504x377.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_butterfly467x350.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/dick-s_sporting_goods_logo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/search-tablet.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/map.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/sale.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/cart_tablet-mobile.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_butterfly378x283.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_butterfly381x286.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/menu_tablet-mobile.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_butterfly280x210.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_windows-crop-u65973.jpg</image:loc>
@@ -652,6 +88,9 @@
     </image:image>
     <image:image>
       <image:loc>https://alliemikelle.github.io/DSG_LP1/images/running_ss18_edgelux_women_cq1239_ftw_1-crop-u65955.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_butterfly708x531.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://alliemikelle.github.io/DSG_LP1/images/ultraboost_header.jpg</image:loc>
@@ -669,6 +108,9 @@
       <image:loc>https://alliemikelle.github.io/DSG_LP1/images/running_ss18_edgelux_women_cq1239_ftw_1-crop-u659552.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_butterfly602x451.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_windows-crop-u659733.jpg</image:loc>
     </image:image>
     <image:image>
@@ -681,6 +123,9 @@
       <image:loc>https://alliemikelle.github.io/DSG_LP1/images/running_ss18_edgelux_women_cq1239_ftw_1-crop-u659553.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_butterfly504x377.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_windows-crop-u659734.jpg</image:loc>
     </image:image>
     <image:image>
@@ -691,6 +136,9 @@
     </image:image>
     <image:image>
       <image:loc>https://alliemikelle.github.io/DSG_LP1/images/running_ss18_edgelux_women_cq1239_ftw_1-crop-u659554.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_butterfly467x350.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_windows-crop-u659735.jpg</image:loc>
@@ -720,6 +168,9 @@
       <image:loc>https://alliemikelle.github.io/DSG_LP1/images/running_ss18_edgelux_women_cq1239_ftw_1-crop-u659556.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_butterfly378x283.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_windows-crop-u659737.jpg</image:loc>
     </image:image>
     <image:image>
@@ -730,6 +181,9 @@
     </image:image>
     <image:image>
       <image:loc>https://alliemikelle.github.io/DSG_LP1/images/running_ss18_edgelux_women_cq1239_ftw_1-crop-u659557.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_butterfly381x286.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_windows-crop-u659738.jpg</image:loc>
@@ -743,10 +197,13 @@
     <image:image>
       <image:loc>https://alliemikelle.github.io/DSG_LP1/images/running_ss18_edgelux_women_cq1239_ftw_1-crop-u659558.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_butterfly280x210.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://alliemikelle.github.io/DSG_LP1/parley-teaser.html</loc>
-    <lastmod>2018-03-25</lastmod>
+    <lastmod>2018-03-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -844,6 +301,9 @@
     </image:image>
     <image:image>
       <image:loc>https://alliemikelle.github.io/DSG_LP1/images/running_ss18_edgelux_women_cq1239_ftw_1-crop-u1506695.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_butterfly394x295.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_windows-crop-u1506656.jpg</image:loc>
