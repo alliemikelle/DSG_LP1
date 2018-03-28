@@ -584,7 +584,7 @@
   </url>
   <url>
     <loc>https://alliemikelle.github.io/DSG_LP1/version-4.html</loc>
-    <lastmod>2018-03-25</lastmod>
+    <lastmod>2018-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -600,7 +600,19 @@
       <image:loc>https://alliemikelle.github.io/DSG_LP1/images/cart_desktop.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_butterfly708x531.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://alliemikelle.github.io/DSG_LP1/images/bubbles.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_butterfly602x451.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_butterfly504x377.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_butterfly467x350.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://alliemikelle.github.io/DSG_LP1/images/dick-s_sporting_goods_logo.png</image:loc>
@@ -618,7 +630,16 @@
       <image:loc>https://alliemikelle.github.io/DSG_LP1/images/cart_tablet-mobile.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_butterfly378x283.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_butterfly381x286.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://alliemikelle.github.io/DSG_LP1/images/menu_tablet-mobile.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_butterfly280x210.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://alliemikelle.github.io/DSG_LP1/images/shoe_windows-crop-u65973.jpg</image:loc>
