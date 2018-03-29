@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://alliemikelle.github.io/DSG_LP1/index.html</loc>
-    <lastmod>2018-03-28</lastmod>
+    <lastmod>2018-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -41,7 +41,7 @@
   </url>
   <url>
     <loc>https://alliemikelle.github.io/DSG_LP1/final-version.html</loc>
-    <lastmod>2018-03-28</lastmod>
+    <lastmod>2018-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -341,5 +341,23 @@
     <image:image>
       <image:loc>https://alliemikelle.github.io/DSG_LP1/images/running_ss18_edgelux_women_cq1239_ftw_1-crop-u1506698.jpg</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>https://alliemikelle.github.io/DSG_LP1/assets/genericrunningloop_midbitrate.mp4</loc>
+    <lastmod>2018-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://alliemikelle.github.io/DSG_LP1/assets/9d147068.png</loc>
+    <lastmod>2018-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://alliemikelle.github.io/DSG_LP1/assets/grl_screencap.jpg</loc>
+    <lastmod>2018-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>

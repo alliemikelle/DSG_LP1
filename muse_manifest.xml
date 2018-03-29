@@ -1,14 +1,14 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://alliemikelle.github.io/DSG_LP1" resolutions="1x" timestamp="1522275351226">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://alliemikelle.github.io/DSG_LP1" resolutions="1x" timestamp="1522343659182">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="478680364" ref="index:parley-teaser:final-version"/>
+    <file name="master_a-master.css" crc="4121025570" ref="index:parley-teaser:final-version"/>
     <file name="nomq_preview_master_a-master.css" crc="4171088771" ref="index:parley-teaser:final-version"/>
-    <file name="index.css" crc="20689883" ref="index"/>
+    <file name="index.css" crc="3763001546" ref="index"/>
     <file name="nomq_index.css" crc="66514267" ref="index"/>
     <file name="parley-teaser.css" crc="4218635065" ref="parley-teaser"/>
     <file name="nomq_parley-teaser.css" crc="100256793" ref="parley-teaser"/>
-    <file name="final-version.css" crc="3968698414" ref="final-version"/>
-    <file name="nomq_final-version.css" crc="3886795135" ref="final-version"/>
+    <file name="final-version.css" crc="425532715" ref="final-version"/>
+    <file name="nomq_final-version.css" crc="4055381214" ref="final-version"/>
   </folder>
   <folder name="fonts">
     <file name="din-medi.woff" crc="3978543979"/>
@@ -23,6 +23,9 @@
       <file name="window_anim.js" crc="4123758576" mt="1521499099000"/>
       <file name="window_anim.html" crc="3800850038" mt="1521499099000"/>
     </folder>
+    <file name="grl_screencap.jpg" crc="96763543" seo="true" mt="1522336099000"/>
+    <file name="9d147068.png" crc="371178442" seo="true" mt="1522337392000"/>
+    <file name="genericrunningloop_midbitrate.mp4" crc="4074953126" seo="true" mt="1522340301000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:final-version:parley-teaser"/>
@@ -689,26 +692,26 @@
     <file name="outsole_on_white_poster_u182338.png" crc="445011136" ref="final-version:parley-teaser"/>
     <file name="heel_on_white.svg" crc="125201426" ref="final-version:parley-teaser"/>
     <file name="heel_on_white_poster_u182322.png" crc="327491219" ref="final-version:parley-teaser"/>
-    <file name="black swatch_black.svg" crc="303250359" ref="final-version:parley-teaser"/>
-    <file name="black swatch_black_poster_u68567.png" crc="4281413239" ref="final-version:parley-teaser"/>
-    <file name="black swatch inactive_black.svg" crc="148380734" ref="final-version:parley-teaser"/>
-    <file name="black swatch inactive_black_poster_u68575.png" crc="3844075113" ref="final-version:parley-teaser"/>
-    <file name="black swatch active_black.svg" crc="280468867" ref="final-version:parley-teaser"/>
-    <file name="black swatch active_black_poster_u68559.png" crc="500046792" ref="final-version:parley-teaser"/>
-    <file name="blue swatch_blue.svg" crc="3906157110" ref="final-version:parley-teaser"/>
-    <file name="blue swatch_blue_poster_u68671.png" crc="429151873" ref="final-version:parley-teaser"/>
-    <file name="blue swatch inactive_blue.svg" crc="339482073" ref="final-version:parley-teaser"/>
-    <file name="blue swatch inactive_blue_poster_u68679.png" crc="4068733084" ref="final-version:parley-teaser"/>
-    <file name="blue swatch active_blue.svg" crc="3950540359" ref="final-version:parley-teaser"/>
-    <file name="blue swatch active_blue_poster_u68663.png" crc="3861265543" ref="final-version:parley-teaser"/>
-    <file name="grey swatch inactive_grey.svg" crc="76986867" ref="final-version:parley-teaser"/>
-    <file name="grey swatch inactive_grey_poster_u68791.png" crc="145095185" ref="final-version:parley-teaser"/>
-    <file name="grey swatch active_grey.svg" crc="180193014" ref="final-version:parley-teaser"/>
-    <file name="grey swatch active_grey_poster_u68783.png" crc="27027751" ref="final-version:parley-teaser"/>
+    <file name="black swatch_black.svg" crc="303250359" ref="parley-teaser"/>
+    <file name="black swatch_black_poster_u68567.png" crc="4281413239" ref="parley-teaser"/>
+    <file name="black swatch inactive_black.svg" crc="148380734" ref="parley-teaser"/>
+    <file name="black swatch inactive_black_poster_u68575.png" crc="3844075113" ref="parley-teaser"/>
+    <file name="black swatch active_black.svg" crc="280468867" ref="parley-teaser"/>
+    <file name="black swatch active_black_poster_u68559.png" crc="500046792" ref="parley-teaser"/>
+    <file name="blue swatch_blue.svg" crc="518942307" ref="final-version:parley-teaser"/>
+    <file name="blue swatch_blue_poster_u68671.png" crc="429151873" ref="parley-teaser"/>
+    <file name="blue swatch inactive_blue.svg" crc="495868661" ref="final-version:parley-teaser"/>
+    <file name="blue swatch inactive_blue_poster_u68679.png" crc="4068733084" ref="parley-teaser"/>
+    <file name="blue swatch active_blue.svg" crc="4124815564" ref="parley-teaser"/>
+    <file name="blue swatch active_blue_poster_u68663.png" crc="3861265543" ref="parley-teaser"/>
+    <file name="grey swatch inactive_grey.svg" crc="76986867" ref="parley-teaser"/>
+    <file name="grey swatch inactive_grey_poster_u68791.png" crc="145095185" ref="parley-teaser"/>
+    <file name="grey swatch active_grey.svg" crc="180193014" ref="parley-teaser"/>
+    <file name="grey swatch active_grey_poster_u68783.png" crc="27027751" ref="parley-teaser"/>
     <file name="white swatch active_white.svg" crc="3810162447" ref="final-version:parley-teaser"/>
     <file name="white swatch active_white_poster_u68911.png" crc="484042926" ref="final-version:parley-teaser"/>
-    <file name="white swatch inactive_white.svg" crc="183828047" ref="final-version:parley-teaser"/>
-    <file name="white swatch inactive_white_poster_u68919.png" crc="16977106" ref="final-version:parley-teaser"/>
+    <file name="white swatch inactive_white.svg" crc="183828047" ref="parley-teaser"/>
+    <file name="white swatch inactive_white_poster_u68919.png" crc="16977106" ref="parley-teaser"/>
     <file name="ubw_frame1_black.jpg" crc="3782429814" ref="final-version:parley-teaser">
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
@@ -846,23 +849,23 @@
     <file name="heel_on_blue3.svg" crc="4268229111" ref="final-version:parley-teaser"/>
     <file name="heel_on_blue_poster_u182170.png" crc="3983698000" ref="final-version:parley-teaser"/>
     <file name="pink swatch_w_pink.svg" crc="4266089088" ref="final-version:parley-teaser"/>
-    <file name="pink swatch_w_pink_poster_u74009.png" crc="4067129867" ref="final-version:parley-teaser"/>
+    <file name="pink swatch_w_pink_poster_u74009.png" crc="4067129867" ref="parley-teaser"/>
     <file name="pink swatch inactive_w_pink.svg" crc="253902163" ref="final-version:parley-teaser"/>
-    <file name="pink swatch inactive_w_pink_poster_u74017.png" crc="4286894381" ref="final-version:parley-teaser"/>
+    <file name="pink swatch inactive_w_pink_poster_u74017.png" crc="4286894381" ref="parley-teaser"/>
     <file name="pink swatch active_w_pink.svg" crc="4020656900" ref="final-version:parley-teaser"/>
-    <file name="pink swatch active_w_pink_poster_u74001.png" crc="4036158354" ref="final-version:parley-teaser"/>
+    <file name="pink swatch active_w_pink_poster_u74001.png" crc="4036158354" ref="parley-teaser"/>
     <file name="grey swatch_w_grey.svg" crc="4069782743" ref="final-version:parley-teaser"/>
-    <file name="grey swatch_w_grey_poster_u74137.png" crc="4161149579" ref="final-version:parley-teaser"/>
+    <file name="grey swatch_w_grey_poster_u74137.png" crc="4161149579" ref="parley-teaser"/>
     <file name="grey swatch inactive_w_grey.svg" crc="4281820051" ref="final-version:parley-teaser"/>
-    <file name="grey swatch inactive_w_grey_poster_u74145.png" crc="4103981078" ref="final-version:parley-teaser"/>
+    <file name="grey swatch inactive_w_grey_poster_u74145.png" crc="4103981078" ref="parley-teaser"/>
     <file name="grey swatch active_w_grey.svg" crc="470533859" ref="final-version:parley-teaser"/>
-    <file name="grey swatch active_w_grey_poster_u74129.png" crc="23203984" ref="final-version:parley-teaser"/>
-    <file name="blue swatch_blue2.svg" crc="518942307" ref="final-version:parley-teaser"/>
+    <file name="grey swatch active_w_grey_poster_u74129.png" crc="23203984" ref="parley-teaser"/>
+    <file name="blue swatch_blue2.svg" crc="518942307" ref="parley-teaser"/>
     <file name="blue swatch_blue_poster_u74225.png" crc="3901532444" ref="final-version:parley-teaser"/>
-    <file name="blue swatch inactive_blue2.svg" crc="495868661" ref="final-version:parley-teaser"/>
+    <file name="blue swatch inactive_blue2.svg" crc="495868661" ref="parley-teaser"/>
     <file name="blue swatch inactive_blue_poster_u74233.png" crc="512279451" ref="final-version:parley-teaser"/>
-    <file name="blue swatch active_blue2.svg" crc="4124815564" ref="final-version:parley-teaser"/>
-    <file name="blue swatch active_blue_poster_u74217.png" crc="4255933226" ref="final-version:parley-teaser"/>
+    <file name="blue swatch active_blue2.svg" crc="4124815564" ref="parley-teaser"/>
+    <file name="blue swatch active_blue_poster_u74217.png" crc="4255933226" ref="parley-teaser"/>
     <file name="el_header.svg" crc="40196791" ref="final-version:parley-teaser"/>
     <file name="el_header_poster_u102755.png" crc="4133131651" ref="final-version:parley-teaser"/>
     <file name="el_circle.png" crc="4255215952" ref="final-version">
@@ -948,17 +951,17 @@
     <file name="heel_off_l_pink_poster_u182034.png" crc="4258891562" ref="final-version:parley-teaser"/>
     <file name="heel_on_l_pink.svg" crc="316438093" ref="final-version:parley-teaser"/>
     <file name="heel_on_l_pink_poster_u182042.png" crc="292952957" ref="final-version:parley-teaser"/>
-    <file name="grey swatch_w_grey2.svg" crc="4069782743" ref="final-version:parley-teaser"/>
+    <file name="grey swatch_w_grey2.svg" crc="4069782743" ref="parley-teaser"/>
     <file name="grey swatch_w_grey_poster_u108181.png" crc="4161149579" ref="final-version:parley-teaser"/>
-    <file name="grey swatch inactive_w_grey2.svg" crc="4281820051" ref="final-version:parley-teaser"/>
+    <file name="grey swatch inactive_w_grey2.svg" crc="4281820051" ref="parley-teaser"/>
     <file name="grey swatch inactive_w_grey_poster_u108189.png" crc="4103981078" ref="final-version:parley-teaser"/>
-    <file name="grey swatch active_w_grey2.svg" crc="470533859" ref="final-version:parley-teaser"/>
+    <file name="grey swatch active_w_grey2.svg" crc="470533859" ref="parley-teaser"/>
     <file name="grey swatch active_w_grey_poster_u108173.png" crc="23203984" ref="final-version:parley-teaser"/>
-    <file name="pink swatch_w_pink2.svg" crc="4266089088" ref="final-version:parley-teaser"/>
+    <file name="pink swatch_w_pink2.svg" crc="4266089088" ref="parley-teaser"/>
     <file name="pink swatch_w_pink_poster_u108309.png" crc="4067129867" ref="final-version:parley-teaser"/>
-    <file name="pink swatch inactive_w_pink2.svg" crc="253902163" ref="final-version:parley-teaser"/>
+    <file name="pink swatch inactive_w_pink2.svg" crc="253902163" ref="parley-teaser"/>
     <file name="pink swatch inactive_w_pink_poster_u108317.png" crc="4286894381" ref="final-version:parley-teaser"/>
-    <file name="pink swatch active_w_pink2.svg" crc="4020656900" ref="final-version:parley-teaser"/>
+    <file name="pink swatch active_w_pink2.svg" crc="4020656900" ref="parley-teaser"/>
     <file name="pink swatch active_w_pink_poster_u108301.png" crc="4036158354" ref="final-version:parley-teaser"/>
     <file name="doublebanner-100.jpg" crc="4177423905" ref="final-version:parley-teaser">
       <caption webpage="final-version" alt=""/>
@@ -1427,10 +1430,10 @@
     <file name="ab_frame2 -mobile_olive-u65882-fr.jpg" crc="4225098759" ref="final-version:parley-teaser"/>
     <file name="ab_frame3-mobile_olive-u65881-fr.jpg" crc="406625066" ref="final-version:parley-teaser"/>
     <file name="ab_frame4-mobile_olive-u65883-fr.jpg" crc="308757364" ref="final-version:parley-teaser"/>
-    <file name="ub_m_inactive-u83149-fr.jpg" crc="331431556" ref="final-version:parley-teaser"/>
-    <file name="ub_m_active-u83149-r-fr.jpg" crc="3921035949" ref="final-version:parley-teaser"/>
-    <file name="ub_m_active_1-u83148-fr.jpg" crc="3799750900" ref="final-version:parley-teaser"/>
-    <file name="ub_w_active-u83148-r-fr.jpg" crc="107167737" ref="final-version:parley-teaser"/>
+    <file name="ub_m_inactive-u83149-fr.jpg" crc="4275278396" ref="final-version:parley-teaser"/>
+    <file name="ub_m_active-u83149-r-fr.jpg" crc="4129003318" ref="final-version:parley-teaser"/>
+    <file name="ub_m_active_1-u83148-fr.jpg" crc="463363413" ref="final-version:parley-teaser"/>
+    <file name="ub_w_active-u83148-r-fr.jpg" crc="230511518" ref="final-version:parley-teaser"/>
     <file name="ub_frame1_mobile_black-u89409-fr.jpg" crc="3806043220" ref="final-version:parley-teaser"/>
     <file name="ub_frame2-mobile_black-u89408-fr.jpg" crc="256323204" ref="final-version:parley-teaser"/>
     <file name="ub_frame3-mobile_black-u89410-fr.jpg" crc="112731111" ref="final-version:parley-teaser"/>
@@ -1657,8 +1660,171 @@
     <file name="running_ss18_edgelux_women_cq1239_ftw_1-crop-u1506698.jpg" crc="233835383" seo="true" ref="parley-teaser">
       <caption webpage="parley-teaser" alt=""/>
     </file>
+    <file name="black swatch_black.png" crc="210089894" ref="final-version">
+      <caption webpage="final-version" alt=""/>
+      <caption webpage="final-version" alt=""/>
+    </file>
+    <file name="black swatch inactive_black.png" crc="437706710" ref="final-version">
+      <caption webpage="final-version" alt=""/>
+      <caption webpage="final-version" alt=""/>
+    </file>
+    <file name="black swatch active_black.png" crc="210815100" ref="final-version">
+      <caption webpage="final-version" alt=""/>
+      <caption webpage="final-version" alt=""/>
+    </file>
+    <file name="blue swatch_blue.png" crc="4184219691" ref="final-version">
+      <caption webpage="final-version" alt=""/>
+    </file>
+    <file name="blue swatch inactive_blue.png" crc="3790836393" ref="final-version">
+      <caption webpage="final-version" alt=""/>
+      <caption webpage="final-version" alt=""/>
+    </file>
+    <file name="blue swatch active_blue.png" crc="3856064320" ref="final-version">
+      <caption webpage="final-version" alt=""/>
+      <caption webpage="final-version" alt=""/>
+    </file>
+    <file name="grey swatch_grey.svg" crc="18990765" ref="final-version"/>
+    <file name="grey swatch_grey_poster_u193131.png" crc="385159151" ref="final-version"/>
+    <file name="grey swatch inactive_grey.png" crc="4156698623" ref="final-version">
+      <caption webpage="final-version" alt=""/>
+      <caption webpage="final-version" alt=""/>
+    </file>
+    <file name="grey swatch active_grey.png" crc="163778011" ref="final-version">
+      <caption webpage="final-version" alt=""/>
+      <caption webpage="final-version" alt=""/>
+    </file>
+    <file name="white swatch_white.png" crc="3776110633" ref="final-version">
+      <caption webpage="final-version" alt=""/>
+      <caption webpage="final-version" alt=""/>
+    </file>
+    <file name="white swatch inactive_white.png" crc="292239284" ref="final-version">
+      <caption webpage="final-version" alt=""/>
+    </file>
+    <file name="blue swatch_blue-u66913-fr.png" crc="123293850" ref="final-version"/>
+    <file name="white swatch inactive_white-u66915-r-fr.png" crc="33853616" ref="final-version"/>
+    <file name="black swatch_black-u80472-fr.png" crc="470442329" ref="final-version"/>
+    <file name="black swatch inactive_black-u80472-r-fr.png" crc="355793660" ref="final-version"/>
+    <file name="black swatch active_black-u80472-a-fr.png" crc="3923560354" ref="final-version"/>
+    <file name="blue swatch_blue-u80473-fr.png" crc="349292950" ref="final-version"/>
+    <file name="blue swatch inactive_blue-u80473-r-fr.png" crc="4227755862" ref="final-version"/>
+    <file name="blue swatch active_blue-u80473-a-fr.png" crc="4020608576" ref="final-version"/>
+    <file name="grey swatch_grey-u80471-fr.png" crc="425569410" ref="final-version"/>
+    <file name="grey swatch inactive_grey-u80471-r-fr.png" crc="4228136707" ref="final-version"/>
+    <file name="grey swatch active_grey-u80471-a-fr.png" crc="59445247" ref="final-version"/>
+    <file name="white swatch_white-u80470-fr.png" crc="401852750" ref="final-version"/>
+    <file name="white swatch inactive_white-u80470-r-fr.png" crc="4218730283" ref="final-version"/>
+    <file name="white swatch active_white-u80470-a-fr.png" crc="3987744475" ref="final-version"/>
+    <file name="black swatch_black-u88004-fr.png" crc="123891960" ref="final-version"/>
+    <file name="black swatch inactive_black-u88004-r-fr.png" crc="3808467642" ref="final-version"/>
+    <file name="black swatch active_black-u88004-a-fr.png" crc="3959639962" ref="final-version"/>
+    <file name="blue swatch_blue-u88006-fr.png" crc="112225673" ref="final-version"/>
+    <file name="blue swatch inactive_blue-u88006-r-fr.png" crc="249383292" ref="final-version"/>
+    <file name="blue swatch active_blue-u88006-a-fr.png" crc="4236379746" ref="final-version"/>
+    <file name="grey swatch_grey-u88007-fr.png" crc="4129871049" ref="final-version"/>
+    <file name="grey swatch inactive_grey-u88007-r-fr.png" crc="4008547090" ref="final-version"/>
+    <file name="grey swatch active_grey-u88007-a-fr.png" crc="306122498" ref="final-version"/>
+    <file name="white swatch_white-u88005-fr.png" crc="3816434335" ref="final-version"/>
+    <file name="white swatch inactive_white-u88005-r-fr.png" crc="4189885897" ref="final-version"/>
+    <file name="white swatch active_white-u88005-a-fr.png" crc="469112439" ref="final-version"/>
+    <file name="black swatch_black-u89456-fr.png" crc="4083184027" ref="final-version"/>
+    <file name="black swatch inactive_black-u89456-r-fr.png" crc="3784733817" ref="final-version"/>
+    <file name="black swatch active_black-u89456-a-fr.png" crc="161483805" ref="final-version"/>
+    <file name="blue swatch_blue-u89458-fr.png" crc="3850707848" ref="final-version"/>
+    <file name="blue swatch inactive_blue-u89458-r-fr.png" crc="4176659614" ref="final-version"/>
+    <file name="blue swatch active_blue-u89458-a-fr.png" crc="315848381" ref="final-version"/>
+    <file name="grey swatch_grey-u89459-fr.png" crc="332623877" ref="final-version"/>
+    <file name="grey swatch inactive_grey-u89459-r-fr.png" crc="361777385" ref="final-version"/>
+    <file name="grey swatch active_grey-u89459-a-fr.png" crc="3919048026" ref="final-version"/>
+    <file name="white swatch_white-u89457-fr.png" crc="3976765455" ref="final-version"/>
+    <file name="white swatch inactive_white-u89457-r-fr.png" crc="64074986" ref="final-version"/>
+    <file name="white swatch active_white-u89457-a-fr.png" crc="245304482" ref="final-version"/>
+    <file name="black swatch_black-u97203-fr.png" crc="149544821" ref="final-version"/>
+    <file name="black swatch inactive_black-u97203-r-fr.png" crc="283925268" ref="final-version"/>
+    <file name="black swatch active_black-u97203-a-fr.png" crc="3821064645" ref="final-version"/>
+    <file name="pink swatch_pink-u97201-fr.png" crc="3798710341" ref="final-version"/>
+    <file name="pink swatch inactive_pink-u97201-r-fr.png" crc="44335571" ref="final-version"/>
+    <file name="pink swatch active_pink-u97201-a-fr.png" crc="29967961" ref="final-version"/>
+    <file name="grey swatch_grey-u97202-fr.png" crc="3931222779" ref="final-version"/>
+    <file name="grey swatch inactive_grey-u97202-r-fr.png" crc="3873993818" ref="final-version"/>
+    <file name="grey swatch active_grey-u97202-a-fr.png" crc="3841673315" ref="final-version"/>
+    <file name="blue swatch_blue-u97204-fr.png" crc="22137548" ref="final-version"/>
+    <file name="blue swatch inactive_blue-u97204-r-fr.png" crc="495637841" ref="final-version"/>
+    <file name="blue swatch active_blue-u97204-a-fr.png" crc="186598458" ref="final-version"/>
+    <file name="black swatch_black2.png" crc="22852409" ref="final-version">
+      <caption webpage="final-version" alt=""/>
+    </file>
+    <file name="black swatch inactive_black2.png" crc="104487896" ref="final-version">
+      <caption webpage="final-version" alt=""/>
+    </file>
+    <file name="black swatch active_black2.png" crc="4124319803" ref="final-version">
+      <caption webpage="final-version" alt=""/>
+    </file>
+    <file name="pink swatch_pink.png" crc="4180345973" ref="final-version">
+      <caption webpage="final-version" alt=""/>
+    </file>
+    <file name="pink swatch inactive_pink.png" crc="4083005489" ref="final-version">
+      <caption webpage="final-version" alt=""/>
+    </file>
+    <file name="pink swatch active_pink.png" crc="363801858" ref="final-version">
+      <caption webpage="final-version" alt=""/>
+    </file>
+    <file name="grey swatch_grey.png" crc="528742954" ref="final-version">
+      <caption webpage="final-version" alt=""/>
+    </file>
+    <file name="grey swatch inactive_grey2.png" crc="278346708" ref="final-version">
+      <caption webpage="final-version" alt=""/>
+    </file>
+    <file name="grey swatch active_grey2.png" crc="188549892" ref="final-version">
+      <caption webpage="final-version" alt=""/>
+    </file>
+    <file name="blue swatch_blue2.png" crc="103542938" ref="final-version">
+      <caption webpage="final-version" alt=""/>
+    </file>
+    <file name="blue swatch inactive_blue2.png" crc="410026378" ref="final-version">
+      <caption webpage="final-version" alt=""/>
+    </file>
+    <file name="blue swatch active_blue2.png" crc="397657653" ref="final-version">
+      <caption webpage="final-version" alt=""/>
+    </file>
+    <file name="black swatch_black-u72498-fr.png" crc="321184228" ref="final-version"/>
+    <file name="black swatch inactive_black-u72498-r-fr.png" crc="3817681134" ref="final-version"/>
+    <file name="black swatch active_black-u72498-a-fr.png" crc="4215862263" ref="final-version"/>
+    <file name="pink swatch_pink-u72500-fr.png" crc="3930301044" ref="final-version"/>
+    <file name="pink swatch inactive_pink-u72500-r-fr.png" crc="3813936669" ref="final-version"/>
+    <file name="pink swatch active_pink-u72500-a-fr.png" crc="193794064" ref="final-version"/>
+    <file name="grey swatch_grey-u72497-fr.png" crc="326550212" ref="final-version"/>
+    <file name="grey swatch inactive_grey-u72497-r-fr.png" crc="4161604457" ref="final-version"/>
+    <file name="grey swatch active_grey-u72497-a-fr.png" crc="6579341" ref="final-version"/>
+    <file name="blue swatch_blue-u72499-fr.png" crc="154347828" ref="final-version"/>
+    <file name="blue swatch inactive_blue-u72499-r-fr.png" crc="3961653991" ref="final-version"/>
+    <file name="blue swatch active_blue-u72499-a-fr.png" crc="239968146" ref="final-version"/>
+    <file name="black swatch_black-u78802-fr.png" crc="4200880225" ref="final-version"/>
+    <file name="black swatch inactive_black-u78802-r-fr.png" crc="350663958" ref="final-version"/>
+    <file name="black swatch active_black-u78802-a-fr.png" crc="4233673732" ref="final-version"/>
+    <file name="pink swatch_pink-u78805-fr.png" crc="4106664929" ref="final-version"/>
+    <file name="pink swatch inactive_pink-u78805-r-fr.png" crc="283136699" ref="final-version"/>
+    <file name="pink swatch active_pink-u78805-a-fr.png" crc="445724579" ref="final-version"/>
+    <file name="grey swatch_grey-u78803-fr.png" crc="423221662" ref="final-version"/>
+    <file name="grey swatch inactive_grey-u78803-r-fr.png" crc="4112691523" ref="final-version"/>
+    <file name="grey swatch active_grey-u78803-a-fr.png" crc="92148350" ref="final-version"/>
+    <file name="blue swatch_blue-u78804-fr.png" crc="4166992717" ref="final-version"/>
+    <file name="blue swatch inactive_blue-u78804-r-fr.png" crc="529683627" ref="final-version"/>
+    <file name="blue swatch active_blue-u78804-a-fr.png" crc="11374492" ref="final-version"/>
+    <file name="black swatch_black-u95751-fr.png" crc="468272943" ref="final-version"/>
+    <file name="black swatch inactive_black-u95751-r-fr.png" crc="425238036" ref="final-version"/>
+    <file name="black swatch active_w_black.svg" crc="422407889" ref="final-version"/>
+    <file name="black swatch active_w_black_poster_u196369.png" crc="500046792" ref="final-version"/>
+    <file name="pink swatch_pink-u95749-fr.png" crc="182839245" ref="final-version"/>
+    <file name="pink swatch inactive_pink-u95749-r-fr.png" crc="4160640879" ref="final-version"/>
+    <file name="pink swatch active_pink-u95749-a-fr.png" crc="498289608" ref="final-version"/>
+    <file name="grey swatch_grey-u95750-fr.png" crc="133531547" ref="final-version"/>
+    <file name="grey swatch inactive_grey-u95750-r-fr.png" crc="4228719715" ref="final-version"/>
+    <file name="grey swatch active_grey-u95750-a-fr.png" crc="260884682" ref="final-version"/>
+    <file name="blue swatch_blue-u95752-fr.png" crc="3866964058" ref="final-version"/>
+    <file name="blue swatch inactive_blue-u95752-r-fr.png" crc="3945233756" ref="final-version"/>
+    <file name="blue swatch active_blue-u95752-a-fr.png" crc="489217828" ref="final-version"/>
   </folder>
-  <file name="index.html" crc="4284599336" seo="true" mt="1522275125959" redirect="true"/>
-  <file name="final-version.html" crc="3938634061" seo="true" mt="1522274976399" redirect="true"/>
+  <file name="index.html" crc="4200344572" seo="true" mt="1522334687378" redirect="true"/>
+  <file name="final-version.html" crc="529682945" seo="true" mt="1522343320178" redirect="true"/>
   <file name="parley-teaser.html" crc="3835892921" seo="true" mt="1522273374409" redirect="true"/>
 </manifest>
