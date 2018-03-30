@@ -1,14 +1,14 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://alliemikelle.github.io/DSG_LP1" resolutions="1x" timestamp="1522343659182">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://alliemikelle.github.io/DSG_LP1" resolutions="1x" timestamp="1522384280735">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="4121025570" ref="index:parley-teaser:final-version"/>
+    <file name="master_a-master.css" crc="3919440574" ref="index:parley-teaser:final-version"/>
     <file name="nomq_preview_master_a-master.css" crc="4171088771" ref="index:parley-teaser:final-version"/>
     <file name="index.css" crc="3763001546" ref="index"/>
     <file name="nomq_index.css" crc="66514267" ref="index"/>
-    <file name="parley-teaser.css" crc="4218635065" ref="parley-teaser"/>
-    <file name="nomq_parley-teaser.css" crc="100256793" ref="parley-teaser"/>
-    <file name="final-version.css" crc="425532715" ref="final-version"/>
-    <file name="nomq_final-version.css" crc="4055381214" ref="final-version"/>
+    <file name="parley-teaser.css" crc="43246756" ref="parley-teaser"/>
+    <file name="nomq_parley-teaser.css" crc="4062445672" ref="parley-teaser"/>
+    <file name="final-version.css" crc="10250830" ref="final-version"/>
+    <file name="nomq_final-version.css" crc="18888632" ref="final-version"/>
   </folder>
   <folder name="fonts">
     <file name="din-medi.woff" crc="3978543979"/>
@@ -26,6 +26,10 @@
     <file name="grl_screencap.jpg" crc="96763543" seo="true" mt="1522336099000"/>
     <file name="9d147068.png" crc="371178442" seo="true" mt="1522337392000"/>
     <file name="genericrunningloop_midbitrate.mp4" crc="4074953126" seo="true" mt="1522340301000"/>
+    <file name="ab_2m.mp4" crc="387958399" seo="true" mt="1522346188000"/>
+    <file name="ab_screencap.jpg" crc="3861076156" seo="true" mt="1522382480000"/>
+    <file name="el_2m.mp4" crc="61685059" seo="true" mt="1522382120000"/>
+    <file name="el_screencap.jpg" crc="4014646394" seo="true" mt="1522383113000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:final-version:parley-teaser"/>
@@ -246,7 +250,7 @@
     <file name="shoe_windows-crop-u65973.jpg" crc="261258482" seo="true" ref="final-version">
       <caption webpage="final-version" alt=""/>
     </file>
-    <file name="single-crop-u65964.jpg" crc="4009046689" seo="true" ref="final-version">
+    <file name="single-crop-u65964.jpg" crc="442473672" seo="true" ref="final-version">
       <caption webpage="final-version" alt=""/>
     </file>
     <file name="ubwomen_icon-crop-u65960.jpg" crc="4113898484" seo="true" ref="final-version">
@@ -502,13 +506,13 @@
       <caption webpage="final-version" alt=""/>
       <caption webpage="final-version" alt=""/>
     </file>
-    <file name="ub_m_inactive.jpg" crc="4036748241" ref="final-version:parley-teaser">
+    <file name="ub_m_inactive.jpg" crc="3813558500" ref="final-version:parley-teaser">
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="final-version" alt=""/>
       <caption webpage="final-version" alt=""/>
     </file>
-    <file name="ub_m_active.jpg" crc="224262669" ref="final-version:parley-teaser">
+    <file name="ub_m_active.jpg" crc="4138195070" ref="final-version:parley-teaser">
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
       <caption webpage="parley-teaser" alt=""/>
@@ -702,7 +706,7 @@
     <file name="blue swatch_blue_poster_u68671.png" crc="429151873" ref="parley-teaser"/>
     <file name="blue swatch inactive_blue.svg" crc="495868661" ref="final-version:parley-teaser"/>
     <file name="blue swatch inactive_blue_poster_u68679.png" crc="4068733084" ref="parley-teaser"/>
-    <file name="blue swatch active_blue.svg" crc="4124815564" ref="parley-teaser"/>
+    <file name="blue swatch active_blue.svg" crc="3950540359" ref="parley-teaser"/>
     <file name="blue swatch active_blue_poster_u68663.png" crc="3861265543" ref="parley-teaser"/>
     <file name="grey swatch inactive_grey.svg" crc="76986867" ref="parley-teaser"/>
     <file name="grey swatch inactive_grey_poster_u68791.png" crc="145095185" ref="parley-teaser"/>
@@ -860,9 +864,9 @@
     <file name="grey swatch inactive_w_grey_poster_u74145.png" crc="4103981078" ref="parley-teaser"/>
     <file name="grey swatch active_w_grey.svg" crc="470533859" ref="final-version:parley-teaser"/>
     <file name="grey swatch active_w_grey_poster_u74129.png" crc="23203984" ref="parley-teaser"/>
-    <file name="blue swatch_blue2.svg" crc="518942307" ref="parley-teaser"/>
+    <file name="blue swatch_blue2.svg" crc="3906157110" ref="parley-teaser"/>
     <file name="blue swatch_blue_poster_u74225.png" crc="3901532444" ref="final-version:parley-teaser"/>
-    <file name="blue swatch inactive_blue2.svg" crc="495868661" ref="parley-teaser"/>
+    <file name="blue swatch inactive_blue2.svg" crc="339482073" ref="parley-teaser"/>
     <file name="blue swatch inactive_blue_poster_u74233.png" crc="512279451" ref="final-version:parley-teaser"/>
     <file name="blue swatch active_blue2.svg" crc="4124815564" ref="parley-teaser"/>
     <file name="blue swatch active_blue_poster_u74217.png" crc="4255933226" ref="parley-teaser"/>
@@ -969,7 +973,7 @@
     <file name="shoe_windows-crop-u659732.jpg" crc="478037485" seo="true" ref="final-version">
       <caption webpage="final-version" alt=""/>
     </file>
-    <file name="single-crop-u659642.jpg" crc="4276363810" seo="true" ref="final-version">
+    <file name="single-crop-u659642.jpg" crc="3786690925" seo="true" ref="final-version">
       <caption webpage="final-version" alt=""/>
     </file>
     <file name="ubwomen_icon-crop-u659602.jpg" crc="4071356743" seo="true" ref="final-version">
@@ -985,7 +989,7 @@
     <file name="shoe_windows-crop-u659733.jpg" crc="4119659087" seo="true" ref="final-version">
       <caption webpage="final-version" alt=""/>
     </file>
-    <file name="single-crop-u659643.jpg" crc="231811568" seo="true" ref="final-version">
+    <file name="single-crop-u659643.jpg" crc="406308719" seo="true" ref="final-version">
       <caption webpage="final-version" alt=""/>
     </file>
     <file name="ubwomen_icon-crop-u659603.jpg" crc="3761755468" seo="true" ref="final-version">
@@ -1013,8 +1017,8 @@
     <file name="ab_frame2_olive-u66011-fr.jpg" crc="318422996" ref="final-version:parley-teaser"/>
     <file name="ab_frame3_olive-u66012-fr.jpg" crc="179709471" ref="final-version:parley-teaser"/>
     <file name="ab_frame4_olive-u66009-fr.jpg" crc="482604738" ref="final-version:parley-teaser"/>
-    <file name="ub_m_inactive-u78521-fr.jpg" crc="473274209" ref="final-version:parley-teaser"/>
-    <file name="ub_m_active-u78521-r-fr.jpg" crc="83826723" ref="final-version:parley-teaser"/>
+    <file name="ub_m_inactive-u78521-fr.jpg" crc="3826430691" ref="final-version:parley-teaser"/>
+    <file name="ub_m_active-u78521-r-fr.jpg" crc="4032828649" ref="final-version:parley-teaser"/>
     <file name="ub_m_active_1-u78520-fr.jpg" crc="195018415" ref="final-version:parley-teaser"/>
     <file name="ub_w_active-u78520-r-fr.jpg" crc="4144889050" ref="final-version:parley-teaser"/>
     <file name="ub_frame1_black-u80446-fr.jpg" crc="3889149948" ref="final-version:parley-teaser"/>
@@ -1061,7 +1065,7 @@
     <file name="shoe_windows-crop-u659734.jpg" crc="297724202" seo="true" ref="final-version">
       <caption webpage="final-version" alt=""/>
     </file>
-    <file name="single-crop-u659644.jpg" crc="3792086379" seo="true" ref="final-version">
+    <file name="single-crop-u659644.jpg" crc="3889541421" seo="true" ref="final-version">
       <caption webpage="final-version" alt=""/>
     </file>
     <file name="ubwomen_icon-crop-u659604.jpg" crc="4084273923" seo="true" ref="final-version">
@@ -1089,8 +1093,8 @@
     <file name="ab_frame2_olive-u64716-fr.jpg" crc="240594666" ref="final-version:parley-teaser"/>
     <file name="ab_frame3_olive-u64717-fr.jpg" crc="4035499877" ref="final-version:parley-teaser"/>
     <file name="ab_frame4_olive-u64718-fr.jpg" crc="381052799" ref="final-version:parley-teaser"/>
-    <file name="ub_m_inactive-u82699-fr.jpg" crc="9984695" ref="final-version:parley-teaser"/>
-    <file name="ub_m_active-u82699-r-fr.jpg" crc="295789387" ref="final-version:parley-teaser"/>
+    <file name="ub_m_inactive-u82699-fr.jpg" crc="86098342" ref="final-version:parley-teaser"/>
+    <file name="ub_m_active-u82699-r-fr.jpg" crc="337181707" ref="final-version:parley-teaser"/>
     <file name="ub_m_active_1-u82698-fr.jpg" crc="4235978469" ref="final-version:parley-teaser"/>
     <file name="ub_w_active-u82698-r-fr.jpg" crc="3976812239" ref="final-version:parley-teaser"/>
     <file name="ub_frame1_black-u83601-fr.jpg" crc="4158991464" ref="final-version:parley-teaser"/>
@@ -1137,7 +1141,7 @@
     <file name="shoe_windows-crop-u659735.jpg" crc="4078930544" seo="true" ref="final-version">
       <caption webpage="final-version" alt=""/>
     </file>
-    <file name="single-crop-u659645.jpg" crc="240831008" seo="true" ref="final-version">
+    <file name="single-crop-u659645.jpg" crc="3820633132" seo="true" ref="final-version">
       <caption webpage="final-version" alt=""/>
     </file>
     <file name="ubwomen_icon-crop-u659605.jpg" crc="233578317" seo="true" ref="final-version">
@@ -1165,8 +1169,8 @@
     <file name="ab_frame2_olive-u64904-fr.jpg" crc="4089281356" ref="final-version"/>
     <file name="ab_frame3_olive-u64907-fr.jpg" crc="154905722" ref="final-version"/>
     <file name="ab_frame4_olive-u64905-fr.jpg" crc="97210648" ref="final-version"/>
-    <file name="ub_m_inactive-u82549-fr.jpg" crc="3789114035" ref="final-version:parley-teaser"/>
-    <file name="ub_m_active-u82549-r-fr.jpg" crc="4283106290" ref="final-version:parley-teaser"/>
+    <file name="ub_m_inactive-u82549-fr.jpg" crc="461036974" ref="final-version:parley-teaser"/>
+    <file name="ub_m_active-u82549-r-fr.jpg" crc="4163229143" ref="final-version:parley-teaser"/>
     <file name="ub_m_active_1-u82548-fr.jpg" crc="186064756" ref="final-version:parley-teaser"/>
     <file name="ub_w_active-u82548-r-fr.jpg" crc="389479545" ref="final-version:parley-teaser"/>
     <file name="ub_frame1_black-u85053-fr.jpg" crc="4113311311" ref="final-version"/>
@@ -1217,7 +1221,7 @@
     <file name="shoe_windows-crop-u659736.jpg" crc="251303117" seo="true" ref="final-version">
       <caption webpage="final-version" alt=""/>
     </file>
-    <file name="single-crop-u659646.jpg" crc="4017829306" seo="true" ref="final-version">
+    <file name="single-crop-u659646.jpg" crc="277455763" seo="true" ref="final-version">
       <caption webpage="final-version" alt=""/>
     </file>
     <file name="ubwomen_icon-crop-u659606.jpg" crc="330183410" seo="true" ref="final-version">
@@ -1247,8 +1251,8 @@
     <file name="ab_frame3-mobile_olive-u61351-fr.jpg" crc="401355231" ref="final-version:parley-teaser"/>
     <file name="ab_frame4-mobile_olive-u61350-fr.jpg" crc="389560774" ref="final-version:parley-teaser"/>
     <file name="u60492-7.png" crc="50510637" ref="final-version"/>
-    <file name="ub_m_inactive-u82849-fr.jpg" crc="469720284" ref="final-version:parley-teaser"/>
-    <file name="ub_m_active-u82849-r-fr.jpg" crc="3774413054" ref="final-version:parley-teaser"/>
+    <file name="ub_m_inactive-u82849-fr.jpg" crc="243886233" ref="final-version:parley-teaser"/>
+    <file name="ub_m_active-u82849-r-fr.jpg" crc="4032884356" ref="final-version:parley-teaser"/>
     <file name="ub_m_active_1-u82848-fr.jpg" crc="3829570290" ref="final-version:parley-teaser"/>
     <file name="ub_w_active-u82848-r-fr.jpg" crc="4292921347" ref="final-version:parley-teaser"/>
     <file name="ub_frame1_mobile_black-u86505-fr.jpg" crc="351403225" ref="final-version:parley-teaser"/>
@@ -1299,7 +1303,7 @@
     <file name="ubwomen_icon-crop-u659607.jpg" crc="3999626976" seo="true" ref="final-version">
       <caption webpage="final-version" alt=""/>
     </file>
-    <file name="single-crop-u659647.jpg" crc="256938876" seo="true" ref="final-version">
+    <file name="single-crop-u659647.jpg" crc="4265512827" seo="true" ref="final-version">
       <caption webpage="final-version" alt=""/>
     </file>
     <file name="running_ss18_edgelux_women_cq1239_ftw_1-crop-u659557.jpg" crc="368507546" seo="true" ref="final-version">
@@ -1329,8 +1333,8 @@
       <caption webpage="final-version" alt=""/>
       <caption webpage="final-version" alt=""/>
     </file>
-    <file name="ub_m_inactive-u82999-fr.jpg" crc="31420874" ref="final-version:parley-teaser"/>
-    <file name="ub_m_active-u82999-r-fr.jpg" crc="4237485875" ref="final-version:parley-teaser"/>
+    <file name="ub_m_inactive-u82999-fr.jpg" crc="397227478" ref="final-version:parley-teaser"/>
+    <file name="ub_m_active-u82999-r-fr.jpg" crc="187448687" ref="final-version:parley-teaser"/>
     <file name="ub_m_active_1-u82998-fr.jpg" crc="536543347" ref="final-version:parley-teaser"/>
     <file name="ub_w_active-u82998-r-fr.jpg" crc="4074463755" ref="final-version:parley-teaser"/>
     <file name="ub_frame1_mobile_black-u87957-fr.jpg" crc="209499123" ref="final-version:parley-teaser"/>
@@ -1404,7 +1408,7 @@
     <file name="ubwomen_icon-crop-u659608.jpg" crc="3882836507" seo="true" ref="final-version">
       <caption webpage="final-version" alt=""/>
     </file>
-    <file name="single-crop-u659648.jpg" crc="3969236578" seo="true" ref="final-version">
+    <file name="single-crop-u659648.jpg" crc="114297333" seo="true" ref="final-version">
       <caption webpage="final-version" alt=""/>
     </file>
     <file name="running_ss18_edgelux_women_cq1239_ftw_1-crop-u659558.jpg" crc="233835383" seo="true" ref="final-version">
@@ -1430,10 +1434,10 @@
     <file name="ab_frame2 -mobile_olive-u65882-fr.jpg" crc="4225098759" ref="final-version:parley-teaser"/>
     <file name="ab_frame3-mobile_olive-u65881-fr.jpg" crc="406625066" ref="final-version:parley-teaser"/>
     <file name="ab_frame4-mobile_olive-u65883-fr.jpg" crc="308757364" ref="final-version:parley-teaser"/>
-    <file name="ub_m_inactive-u83149-fr.jpg" crc="4275278396" ref="final-version:parley-teaser"/>
-    <file name="ub_m_active-u83149-r-fr.jpg" crc="4129003318" ref="final-version:parley-teaser"/>
-    <file name="ub_m_active_1-u83148-fr.jpg" crc="463363413" ref="final-version:parley-teaser"/>
-    <file name="ub_w_active-u83148-r-fr.jpg" crc="230511518" ref="final-version:parley-teaser"/>
+    <file name="ub_m_inactive-u83149-fr.jpg" crc="3923641525" ref="final-version"/>
+    <file name="ub_m_active-u83149-r-fr.jpg" crc="204415815" ref="final-version"/>
+    <file name="ub_m_active_1-u83148-fr.jpg" crc="463363413" ref="final-version"/>
+    <file name="ub_w_active-u83148-r-fr.jpg" crc="230511518" ref="final-version"/>
     <file name="ub_frame1_mobile_black-u89409-fr.jpg" crc="3806043220" ref="final-version:parley-teaser"/>
     <file name="ub_frame2-mobile_black-u89408-fr.jpg" crc="256323204" ref="final-version:parley-teaser"/>
     <file name="ub_frame3-mobile_black-u89410-fr.jpg" crc="112731111" ref="final-version:parley-teaser"/>
@@ -1478,7 +1482,7 @@
     <file name="shoe_windows-crop-u150665.jpg" crc="261258482" seo="true" ref="parley-teaser">
       <caption webpage="parley-teaser" alt=""/>
     </file>
-    <file name="single-crop-u150681.jpg" crc="4009046689" seo="true" ref="parley-teaser">
+    <file name="single-crop-u150681.jpg" crc="442473672" seo="true" ref="parley-teaser">
       <caption webpage="parley-teaser" alt=""/>
     </file>
     <file name="ubwomen_icon-crop-u150663.jpg" crc="4113898484" seo="true" ref="parley-teaser">
@@ -1496,7 +1500,7 @@
     <file name="shoe_windows-crop-u1506652.jpg" crc="478037485" seo="true" ref="parley-teaser">
       <caption webpage="parley-teaser" alt=""/>
     </file>
-    <file name="single-crop-u1506812.jpg" crc="4276363810" seo="true" ref="parley-teaser">
+    <file name="single-crop-u1506812.jpg" crc="3786690925" seo="true" ref="parley-teaser">
       <caption webpage="parley-teaser" alt=""/>
     </file>
     <file name="ubwomen_icon-crop-u1506632.jpg" crc="4071356743" seo="true" ref="parley-teaser">
@@ -1511,7 +1515,7 @@
     <file name="shoe_windows-crop-u1506653.jpg" crc="4119659087" seo="true" ref="parley-teaser">
       <caption webpage="parley-teaser" alt=""/>
     </file>
-    <file name="single-crop-u1506813.jpg" crc="231811568" seo="true" ref="parley-teaser">
+    <file name="single-crop-u1506813.jpg" crc="406308719" seo="true" ref="parley-teaser">
       <caption webpage="parley-teaser" alt=""/>
     </file>
     <file name="ubwomen_icon-crop-u1506633.jpg" crc="3761755468" seo="true" ref="parley-teaser">
@@ -1526,7 +1530,7 @@
     <file name="shoe_windows-crop-u1506654.jpg" crc="297724202" seo="true" ref="parley-teaser">
       <caption webpage="parley-teaser" alt=""/>
     </file>
-    <file name="single-crop-u1506814.jpg" crc="3792086379" seo="true" ref="parley-teaser">
+    <file name="single-crop-u1506814.jpg" crc="3889541421" seo="true" ref="parley-teaser">
       <caption webpage="parley-teaser" alt=""/>
     </file>
     <file name="ubwomen_icon-crop-u1506634.jpg" crc="4084273923" seo="true" ref="parley-teaser">
@@ -1541,7 +1545,7 @@
     <file name="shoe_windows-crop-u1506655.jpg" crc="3794676242" seo="true" ref="parley-teaser">
       <caption webpage="parley-teaser" alt=""/>
     </file>
-    <file name="single-crop-u1506815.jpg" crc="4097192214" seo="true" ref="parley-teaser">
+    <file name="single-crop-u1506815.jpg" crc="3884350000" seo="true" ref="parley-teaser">
       <caption webpage="parley-teaser" alt=""/>
     </file>
     <file name="ubwomen_icon-crop-u1506635.jpg" crc="3815039425" seo="true" ref="parley-teaser">
@@ -1615,7 +1619,7 @@
     <file name="shoe_windows-crop-u1506656.jpg" crc="251303117" seo="true" ref="parley-teaser">
       <caption webpage="parley-teaser" alt=""/>
     </file>
-    <file name="single-crop-u1506816.jpg" crc="4017829306" seo="true" ref="parley-teaser">
+    <file name="single-crop-u1506816.jpg" crc="277455763" seo="true" ref="parley-teaser">
       <caption webpage="parley-teaser" alt=""/>
     </file>
     <file name="ubwomen_icon-crop-u1506636.jpg" crc="330183410" seo="true" ref="parley-teaser">
@@ -1633,7 +1637,7 @@
     <file name="ubwomen_icon-crop-u1506637.jpg" crc="3999626976" seo="true" ref="parley-teaser">
       <caption webpage="parley-teaser" alt=""/>
     </file>
-    <file name="single-crop-u1506817.jpg" crc="256938876" seo="true" ref="parley-teaser">
+    <file name="single-crop-u1506817.jpg" crc="4265512827" seo="true" ref="parley-teaser">
       <caption webpage="parley-teaser" alt=""/>
     </file>
     <file name="running_ss18_edgelux_women_cq1239_ftw_1-crop-u1506697.jpg" crc="368507546" seo="true" ref="parley-teaser">
@@ -1654,7 +1658,7 @@
     <file name="ubwomen_icon-crop-u1506638.jpg" crc="3882836507" seo="true" ref="parley-teaser">
       <caption webpage="parley-teaser" alt=""/>
     </file>
-    <file name="single-crop-u1506818.jpg" crc="3969236578" seo="true" ref="parley-teaser">
+    <file name="single-crop-u1506818.jpg" crc="114297333" seo="true" ref="parley-teaser">
       <caption webpage="parley-teaser" alt=""/>
     </file>
     <file name="running_ss18_edgelux_women_cq1239_ftw_1-crop-u1506698.jpg" crc="233835383" seo="true" ref="parley-teaser">
@@ -1823,8 +1827,12 @@
     <file name="blue swatch_blue-u95752-fr.png" crc="3866964058" ref="final-version"/>
     <file name="blue swatch inactive_blue-u95752-r-fr.png" crc="3945233756" ref="final-version"/>
     <file name="blue swatch active_blue-u95752-a-fr.png" crc="489217828" ref="final-version"/>
+    <file name="ub_m_inactive-u159635-fr.jpg" crc="3988898840" ref="parley-teaser"/>
+    <file name="ub_m_active-u159635-r-fr.jpg" crc="202555831" ref="parley-teaser"/>
+    <file name="ub_m_active_1-u159634-fr.jpg" crc="3799750900" ref="parley-teaser"/>
+    <file name="ub_w_active-u159634-r-fr.jpg" crc="107167737" ref="parley-teaser"/>
   </folder>
   <file name="index.html" crc="4200344572" seo="true" mt="1522334687378" redirect="true"/>
-  <file name="final-version.html" crc="529682945" seo="true" mt="1522343320178" redirect="true"/>
-  <file name="parley-teaser.html" crc="3835892921" seo="true" mt="1522273374409" redirect="true"/>
+  <file name="final-version.html" crc="206470616" seo="true" mt="1522383976891" redirect="true"/>
+  <file name="parley-teaser.html" crc="4201191530" seo="true" mt="1522383976893" redirect="true"/>
 </manifest>
