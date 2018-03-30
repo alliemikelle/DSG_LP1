@@ -1,14 +1,14 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://alliemikelle.github.io/DSG_LP1" resolutions="1x" timestamp="1522384280735">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://alliemikelle.github.io/DSG_LP1" resolutions="1x" timestamp="1522428443377">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="3919440574" ref="index:parley-teaser:final-version"/>
+    <file name="master_a-master.css" crc="132398623" ref="index:parley-teaser:final-version"/>
     <file name="nomq_preview_master_a-master.css" crc="4171088771" ref="index:parley-teaser:final-version"/>
     <file name="index.css" crc="3763001546" ref="index"/>
     <file name="nomq_index.css" crc="66514267" ref="index"/>
     <file name="parley-teaser.css" crc="43246756" ref="parley-teaser"/>
     <file name="nomq_parley-teaser.css" crc="4062445672" ref="parley-teaser"/>
-    <file name="final-version.css" crc="10250830" ref="final-version"/>
-    <file name="nomq_final-version.css" crc="18888632" ref="final-version"/>
+    <file name="final-version.css" crc="4023629958" ref="final-version"/>
+    <file name="nomq_final-version.css" crc="3984521886" ref="final-version"/>
   </folder>
   <folder name="fonts">
     <file name="din-medi.woff" crc="3978543979"/>
@@ -26,10 +26,6 @@
     <file name="grl_screencap.jpg" crc="96763543" seo="true" mt="1522336099000"/>
     <file name="9d147068.png" crc="371178442" seo="true" mt="1522337392000"/>
     <file name="genericrunningloop_midbitrate.mp4" crc="4074953126" seo="true" mt="1522340301000"/>
-    <file name="ab_2m.mp4" crc="387958399" seo="true" mt="1522346188000"/>
-    <file name="ab_screencap.jpg" crc="3861076156" seo="true" mt="1522382480000"/>
-    <file name="el_2m.mp4" crc="61685059" seo="true" mt="1522382120000"/>
-    <file name="el_screencap.jpg" crc="4014646394" seo="true" mt="1522383113000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:final-version:parley-teaser"/>
@@ -1833,6 +1829,6 @@
     <file name="ub_w_active-u159634-r-fr.jpg" crc="107167737" ref="parley-teaser"/>
   </folder>
   <file name="index.html" crc="4200344572" seo="true" mt="1522334687378" redirect="true"/>
-  <file name="final-version.html" crc="206470616" seo="true" mt="1522383976891" redirect="true"/>
+  <file name="final-version.html" crc="402970522" seo="true" mt="1522428221196" redirect="true"/>
   <file name="parley-teaser.html" crc="4201191530" seo="true" mt="1522383976893" redirect="true"/>
 </manifest>
