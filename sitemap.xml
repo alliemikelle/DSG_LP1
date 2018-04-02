@@ -157,20 +157,20 @@
     </image:image>
   </url>
   <url>
-    <loc>https://alliemikelle.github.io/DSG_LP1/assets/9d147068.png</loc>
-    <lastmod>2018-03-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://alliemikelle.github.io/DSG_LP1/assets/grl_screencap.jpg</loc>
-    <lastmod>2018-03-29</lastmod>
+    <loc>https://alliemikelle.github.io/DSG_LP1/assets/genericrunningloop_midbitrate.webm</loc>
+    <lastmod>2018-04-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://alliemikelle.github.io/DSG_LP1/assets/genericrunningloop_midbitrate.mp4</loc>
     <lastmod>2018-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://alliemikelle.github.io/DSG_LP1/assets/genericrunningloop_midbitrate.ogg</loc>
+    <lastmod>2018-04-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
