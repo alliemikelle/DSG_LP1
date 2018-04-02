@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://alliemikelle.github.io/DSG_LP1" resolutions="1x" timestamp="1522627057792">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://alliemikelle.github.io/DSG_LP1" resolutions="1x" timestamp="1522627887257">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="267729103" ref="final-version:index"/>
     <file name="nomq_preview_master_a-master.css" crc="4171088771" ref="final-version:index"/>
-    <file name="final-version.css" crc="63474307" ref="final-version"/>
-    <file name="nomq_final-version.css" crc="3885126197" ref="final-version"/>
+    <file name="final-version.css" crc="468852753" ref="final-version"/>
+    <file name="nomq_final-version.css" crc="154904206" ref="final-version"/>
     <file name="index.css" crc="259170123" ref="index"/>
     <file name="nomq_index.css" crc="66514267" ref="index"/>
   </folder>
@@ -1105,6 +1105,6 @@
     <file name="pink swatch inactive-u113425-r-fr4.png" crc="4217200349" ref="final-version"/>
     <file name="pink swatch active-u113425-a-fr4.png" crc="4174336596" ref="final-version"/>
   </folder>
-  <file name="index.html" crc="61412372" seo="true" mt="1522625612970" redirect="true"/>
-  <file name="final-version.html" crc="3958663674" seo="true" mt="1522626955671" redirect="true"/>
+  <file name="index.html" crc="4199676513" seo="true" mt="1522625612970" redirect="true"/>
+  <file name="final-version.html" crc="279108618" seo="true" mt="1522627757361" redirect="true"/>
 </manifest>
