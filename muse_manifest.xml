@@ -1,20 +1,18 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://alliemikelle.github.io/DSG_LP1" resolutions="1x" timestamp="1522631725267">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://alliemikelle.github.io/DSG_LP1" resolutions="1x" timestamp="1523465195125">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="154021585" ref="final-version:index"/>
-    <file name="nomq_preview_master_a-master.css" crc="4171088771" ref="final-version:index"/>
-    <file name="final-version.css" crc="215036222" ref="final-version"/>
-    <file name="nomq_final-version.css" crc="4209658418" ref="final-version"/>
-    <file name="index.css" crc="259170123" ref="index"/>
-    <file name="nomq_index.css" crc="66514267" ref="index"/>
+    <file name="master_a-master.css" crc="503769296" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="133413869" ref="index"/>
+    <file name="index.css" crc="3828467772" ref="index"/>
+    <file name="nomq_index.css" crc="4102772555" ref="index"/>
   </folder>
   <folder name="fonts">
-    <file name="dsgsans-bold.woff" crc="245600299"/>
-    <file name="dsgsans-bold.eot" crc="3803045370"/>
-    <file name="dsgsans-bold.svg" crc="3762300238"/>
     <file name="din-medi.woff" crc="3978543979"/>
     <file name="din-medi.eot" crc="4211618926"/>
     <file name="din-medi.svg" crc="4101310960"/>
+    <file name="dsgsans-bold.woff" crc="245600299"/>
+    <file name="dsgsans-bold.eot" crc="3803045370"/>
+    <file name="dsgsans-bold.svg" crc="3762300238"/>
   </folder>
   <folder name="assets">
     <folder name="rtg_animation_oam">
@@ -23,1085 +21,1006 @@
     </folder>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:final-version"/>
-    <file name="museutils.js" crc="340535759" ref="index:final-version"/>
-    <file name="whatinput.js" crc="86476730" ref="index:final-version"/>
-    <file name="museconfig.js" crc="310584261" ref="index:final-version"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:final-version"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:final-version"/>
-    <file name="jquery.museresponsive.js" crc="527716135" ref="index:final-version"/>
-    <file name="require.js" crc="7928878" ref="index:final-version"/>
-    <file name="webpro.js" crc="4059564322" ref="final-version"/>
-    <file name="musewpslideshow.js" crc="3862962738" ref="final-version"/>
-    <file name="jquery.museoverlay.js" crc="4147669564" ref="final-version"/>
-    <file name="touchswipe.js" crc="4075097462" ref="final-version"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="310584261" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="dsgolympics.png" crc="290549742" seo="true" ref="index:final-version">
+    <file name="dsgolympics.png" crc="290549742" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="final-version" alt=""/>
-      <caption webpage="final-version" alt=""/>
     </file>
-    <file name="menu_desktop.png" crc="43139248" seo="true" ref="index:final-version">
+    <file name="menu_desktop.png" crc="43139248" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="final-version" alt=""/>
-      <caption webpage="final-version" alt=""/>
     </file>
-    <file name="u300-4.png" crc="349303681" ref="index:final-version"/>
-    <file name="u309-4.png" crc="3842823417" ref="index:final-version"/>
-    <file name="u548-4.png" crc="3909045019" ref="index:final-version"/>
-    <file name="search.png" crc="3923079032" seo="true" ref="index:final-version">
+    <file name="u263053-4.png" crc="349303681" ref="index"/>
+    <file name="u263064-4.png" crc="3842823417" ref="index"/>
+    <file name="u263054-4.png" crc="3909045019" ref="index"/>
+    <file name="search.png" crc="3923079032" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="final-version" alt=""/>
-      <caption webpage="final-version" alt=""/>
     </file>
-    <file name="u346-4.png" crc="4153004555" ref="index:final-version"/>
-    <file name="u364-4.png" crc="149310511" ref="index:final-version"/>
-    <file name="u382-4.png" crc="240178569" ref="index:final-version"/>
-    <file name="cart_desktop.png" crc="3995768359" seo="true" ref="index:final-version">
+    <file name="u263063-4.png" crc="4153004555" ref="index"/>
+    <file name="u263061-4.png" crc="149310511" ref="index"/>
+    <file name="u263062-4.png" crc="240178569" ref="index"/>
+    <file name="cart_desktop.png" crc="3995768359" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="final-version" alt=""/>
-      <caption webpage="final-version" alt=""/>
     </file>
-    <file name="u400-7.png" crc="322240908" ref="index:final-version"/>
-    <file name="bubbles.png" crc="3934849744" seo="true" ref="index:final-version">
+    <file name="u263055-7.png" crc="322240908" ref="index"/>
+    <file name="bubbles.png" crc="3934849744" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="final-version" alt=""/>
-      <caption webpage="final-version" alt=""/>
     </file>
-    <file name="u426-4.png" crc="3949380724" ref="index:final-version"/>
-    <file name="u472-4.png" crc="399122112" ref="index:final-version"/>
-    <file name="u490-4.png" crc="389355601" ref="index:final-version"/>
-    <file name="u508-4.png" crc="478049629" ref="index:final-version"/>
-    <file name="u526-7.png" crc="3788825966" ref="index:final-version"/>
-    <file name="blank.gif" crc="4208392903" ref="index:final-version"/>
-    <file name="u44545.png" crc="301046340" ref="index"/>
-    <file name="u44545-r.png" crc="301046340" ref="index"/>
-    <file name="shoepile.jpg" crc="3842135486" ref="index">
+    <file name="u263057-4.png" crc="3949380724" ref="index"/>
+    <file name="u263058-4.png" crc="399122112" ref="index"/>
+    <file name="u263059-4.png" crc="389355601" ref="index"/>
+    <file name="u263060-4.png" crc="478049629" ref="index"/>
+    <file name="u263056-7.png" crc="3788825966" ref="index"/>
+    <file name="u263402-4.png" crc="349303681" ref="index"/>
+    <file name="u263411-4.png" crc="4153004555" ref="index"/>
+    <file name="u263409-4.png" crc="149310511" ref="index"/>
+    <file name="u263410-4.png" crc="240178569" ref="index"/>
+    <file name="u263403-7.png" crc="322240908" ref="index"/>
+    <file name="u263405-4.png" crc="3949380724" ref="index"/>
+    <file name="u263406-4.png" crc="399122112" ref="index"/>
+    <file name="u263407-4.png" crc="389355601" ref="index"/>
+    <file name="u263408-4.png" crc="478049629" ref="index"/>
+    <file name="u263404-7.png" crc="3788825966" ref="index"/>
+    <file name="shoe_windows-crop-u65973.jpg" crc="261258482" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u44535-4.png" crc="236999867" ref="index"/>
-    <file name="u445452.png" crc="3926480117" ref="index"/>
-    <file name="u44545-r2.png" crc="3926480117" ref="index"/>
-    <file name="u44535-42.png" crc="402970991" ref="index"/>
-    <file name="u566-7.png" crc="108333737" ref="index:final-version"/>
-    <file name="u445453.png" crc="4076539639" ref="index"/>
-    <file name="u44545-r3.png" crc="4076539639" ref="index"/>
-    <file name="shoepile-u44538-fr.jpg" crc="166173378" ref="index"/>
-    <file name="u44535-43.png" crc="153379432" ref="index"/>
-    <file name="u1160-4.png" crc="406655470" ref="index:final-version"/>
-    <file name="u1169-4.png" crc="4245290654" ref="index:final-version"/>
-    <file name="u1187-4.png" crc="4248751277" ref="index:final-version"/>
-    <file name="u1223-4.png" crc="386169084" ref="index:final-version"/>
-    <file name="u1241-4.png" crc="3853497738" ref="index:final-version"/>
-    <file name="u1259-4.png" crc="510850784" ref="index:final-version"/>
-    <file name="u1277-4.png" crc="138688299" ref="index:final-version"/>
-    <file name="u1313-4.png" crc="207183727" ref="index:final-version"/>
-    <file name="dick-s_sporting_goods_logo.png" crc="4047831415" seo="true" ref="index:final-version">
+    <file name="single-crop-u65964.jpg" crc="3989038581" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="final-version" alt=""/>
-      <caption webpage="final-version" alt=""/>
-      <caption webpage="final-version" alt=""/>
     </file>
-    <file name="search-tablet.png" crc="3888704939" seo="true" ref="index:final-version">
+    <file name="ubwomen_icon-crop-u65960.jpg" crc="4113898484" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="final-version" alt=""/>
-      <caption webpage="final-version" alt=""/>
-      <caption webpage="final-version" alt=""/>
     </file>
-    <file name="u1395-4.png" crc="3785014924" ref="index:final-version"/>
-    <file name="u1403-4.png" crc="4014642397" ref="index:final-version"/>
-    <file name="map.png" crc="372465025" seo="true" ref="index:final-version">
+    <file name="running_ss18_edgelux_women_cq1239_ftw_1-crop-u65955.jpg" crc="3895185073" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="final-version" alt=""/>
-      <caption webpage="final-version" alt=""/>
-      <caption webpage="final-version" alt=""/>
     </file>
-    <file name="u1421-4.png" crc="3933901625" ref="index:final-version"/>
-    <file name="sale.png" crc="4025139782" seo="true" ref="index:final-version">
+    <file name="alphabounce_off.svg" crc="3903008131" ref="index"/>
+    <file name="alphabounce_off_poster_u102763.png" crc="242118646" ref="index"/>
+    <file name="alphabounce_on.svg" crc="3807961549" ref="index"/>
+    <file name="alphabounce_on_poster_u102771.png" crc="235973927" ref="index"/>
+    <file name="ub_off.svg" crc="27900688" ref="index"/>
+    <file name="ub_off_poster_u102795.png" crc="4048096918" ref="index"/>
+    <file name="ub_on.svg" crc="328056666" ref="index"/>
+    <file name="ub_on_poster_u102803.png" crc="151030117" ref="index"/>
+    <file name="ub_women_off.svg" crc="410432103" ref="index"/>
+    <file name="ub_women_off_poster_u102811.png" crc="4123108410" ref="index"/>
+    <file name="ub_women_on.svg" crc="506383965" ref="index"/>
+    <file name="ub_women_on_poster_u102819.png" crc="493331035" ref="index"/>
+    <file name="lux_off.svg" crc="3903765929" ref="index"/>
+    <file name="lux_off_poster_u102827.png" crc="528647254" ref="index"/>
+    <file name="lux_off_1.svg" crc="3996215922" ref="index"/>
+    <file name="lux_off_1_poster_u102835.png" crc="507298821" ref="index"/>
+    <file name="learn_off.svg" crc="216654941" ref="index"/>
+    <file name="learn_off_poster_u102779.png" crc="458391982" ref="index"/>
+    <file name="learn_on.svg" crc="417112519" ref="index"/>
+    <file name="learn_on_poster_u102787.png" crc="17855247" ref="index"/>
+    <file name="ab_frame1.jpg" crc="4172446729" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="final-version" alt=""/>
-      <caption webpage="final-version" alt=""/>
-      <caption webpage="final-version" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="u1439-4.png" crc="56410081" ref="index:final-version"/>
-    <file name="cart_tablet-mobile.png" crc="3825537137" seo="true" ref="index:final-version">
+    <file name="ab_frame1-u245881-fr.jpg" crc="311823654" ref="index"/>
+    <file name="ab_frame2-u245884-fr.jpg" crc="3867758558" ref="index"/>
+    <file name="ab_frame3-u245882-fr.jpg" crc="4144824792" ref="index"/>
+    <file name="ab_frame4-u245883-fr.jpg" crc="399143765" ref="index"/>
+    <file name="midsole_off.svg" crc="3931707617" ref="index"/>
+    <file name="midsole_off_poster_u182810.png" crc="4194372301" ref="index"/>
+    <file name="midsole_on.svg" crc="4021631936" ref="index"/>
+    <file name="midsole_on_poster_u182818.png" crc="446847824" ref="index"/>
+    <file name="mesh_off.svg" crc="3979007263" ref="index"/>
+    <file name="mesh_off_poster_u182794.png" crc="491148644" ref="index"/>
+    <file name="mesh_on.svg" crc="349131735" ref="index"/>
+    <file name="mesh_on_poster_u182802.png" crc="347372316" ref="index"/>
+    <file name="outsole_off.svg" crc="8183793" ref="index"/>
+    <file name="outsole_off_poster_u182778.png" crc="375898512" ref="index"/>
+    <file name="outsole_on.svg" crc="120493838" ref="index"/>
+    <file name="outsole_on_poster_u182786.png" crc="4104207105" ref="index"/>
+    <file name="heel_off.svg" crc="68422220" ref="index"/>
+    <file name="heel_off_poster_u182762.png" crc="363643188" ref="index"/>
+    <file name="heel_on.svg" crc="3981443990" ref="index"/>
+    <file name="heel_on_poster_u182770.png" crc="4013096146" ref="index"/>
+    <file name="ab_frame1_blue-u245866-fr.jpg" crc="328030671" ref="index"/>
+    <file name="ab_frame2_blue-u245864-fr.jpg" crc="4181452731" ref="index"/>
+    <file name="ab_frame3_blue-u245865-fr.jpg" crc="4158364336" ref="index"/>
+    <file name="ab_frame4_blue-u245863-fr.jpg" crc="4175626446" ref="index"/>
+    <file name="midsole_off_blue.svg" crc="3997008440" ref="index"/>
+    <file name="midsole_off_blue_poster_u182754.png" crc="3971993093" ref="index"/>
+    <file name="midsole_on_blue.svg" crc="511848172" ref="index"/>
+    <file name="midsole_on_blue_poster_u182746.png" crc="511150657" ref="index"/>
+    <file name="mesh_off_blue.svg" crc="24354228" ref="index"/>
+    <file name="mesh_off_blue_poster_u182738.png" crc="4052266011" ref="index"/>
+    <file name="mesh_on_blue.svg" crc="519775000" ref="index"/>
+    <file name="mesh_on_blue_poster_u182730.png" crc="3838120456" ref="index"/>
+    <file name="outsole_off_blue.svg" crc="3944879291" ref="index"/>
+    <file name="outsole_off_blue_poster_u182722.png" crc="464833932" ref="index"/>
+    <file name="outsole_on_blue.svg" crc="118913539" ref="index"/>
+    <file name="outsole_on_blue_poster_u182714.png" crc="4123487601" ref="index"/>
+    <file name="heel_off_blue.svg" crc="4049628541" ref="index"/>
+    <file name="heel_off_blue_poster_u182706.png" crc="3944623615" ref="index"/>
+    <file name="heel_on_blue.svg" crc="505448748" ref="index"/>
+    <file name="heel_on_blue_poster_u182698.png" crc="4268251581" ref="index"/>
+    <file name="ab_frame1_black-u245843-fr.jpg" crc="241573221" ref="index"/>
+    <file name="ab_frame2_black-u245844-fr.jpg" crc="4126979734" ref="index"/>
+    <file name="ab_frame3_black-u245846-fr.jpg" crc="472761535" ref="index"/>
+    <file name="ab_frame4_black-u245845-fr.jpg" crc="3822256631" ref="index"/>
+    <file name="midsole_off_black.svg" crc="3980979571" ref="index"/>
+    <file name="midsole_off_black_poster_u182690.png" crc="4133071539" ref="index"/>
+    <file name="midsole_on_black.svg" crc="11083059" ref="index"/>
+    <file name="midsole_on_black_poster_u182682.png" crc="4109665855" ref="index"/>
+    <file name="mesh_off_black.svg" crc="4241327400" ref="index"/>
+    <file name="mesh_off_black_poster_u182674.png" crc="265931062" ref="index"/>
+    <file name="mesh_on_black.svg" crc="4023156752" ref="index"/>
+    <file name="mesh_on_black_poster_u182666.png" crc="3914782885" ref="index"/>
+    <file name="outsole_off_black.svg" crc="4218167751" ref="index"/>
+    <file name="outsole_off_black_poster_u182658.png" crc="3839845428" ref="index"/>
+    <file name="outsole_on_black.svg" crc="3989113940" ref="index"/>
+    <file name="outsole_on_black_poster_u182650.png" crc="71257651" ref="index"/>
+    <file name="heel_off_black.svg" crc="3917782842" ref="index"/>
+    <file name="heel_off_black_poster_u182642.png" crc="534740371" ref="index"/>
+    <file name="heel_on_black.svg" crc="492375536" ref="index"/>
+    <file name="heel_on_black_poster_u182634.png" crc="250326778" ref="index"/>
+    <file name="ab_frame1_olive-u245909-fr.jpg" crc="209932242" ref="index"/>
+    <file name="ab_frame2_olive-u245911-fr.jpg" crc="182295857" ref="index"/>
+    <file name="ab_frame3_olive-u245908-fr.jpg" crc="4005952419" ref="index"/>
+    <file name="ab_frame4_olive-u245910-fr.jpg" crc="3953534277" ref="index"/>
+    <file name="midsole_off_olive.svg" crc="4085732218" ref="index"/>
+    <file name="midsole_off_olive_poster_u182626.png" crc="4115136319" ref="index"/>
+    <file name="midsole_on_olive.svg" crc="3881017248" ref="index"/>
+    <file name="midsole_on_olive_poster_u182618.png" crc="4010750702" ref="index"/>
+    <file name="mesh_off_olive.svg" crc="127735428" ref="index"/>
+    <file name="mesh_off_olive_poster_u182610.png" crc="87983579" ref="index"/>
+    <file name="mesh_on_olive.svg" crc="4096632570" ref="index"/>
+    <file name="mesh_on_olive_poster_u182602.png" crc="95423566" ref="index"/>
+    <file name="outsole_off_olive.svg" crc="262114554" ref="index"/>
+    <file name="outsole_off_olive_poster_u182594.png" crc="3926546399" ref="index"/>
+    <file name="outsole_on_olive.svg" crc="376661059" ref="index"/>
+    <file name="outsole_on_olive_poster_u182586.png" crc="3881779475" ref="index"/>
+    <file name="heel_off_olive.svg" crc="4241124622" ref="index"/>
+    <file name="heel_off_olive_poster_u182578.png" crc="321269083" ref="index"/>
+    <file name="heel_on_olive.svg" crc="264874912" ref="index"/>
+    <file name="heel_on_olive_poster_u182570.png" crc="154028942" ref="index"/>
+    <file name="red swatch.png" crc="4195405724" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="red swatch inactive.png" crc="489654261" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="red swatch active.png" crc="94229307" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blue swatch.png" crc="420516005" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blue swatch inactive.png" crc="154272169" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blue swatch active.png" crc="354248400" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="black swatch.png" crc="512142310" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="black swatch inactive.png" crc="75706289" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="black swatch active.png" crc="4058532141" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="olive swatch.png" crc="396051448" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="olive swatch inactive.png" crc="213718072" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="olive swatch active.png" crc="4135569365" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="shoe_butterfly708x531.png" crc="3805405992" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="alphabounce_header.svg" crc="170812216" ref="index"/>
+    <file name="alphabounce_header_poster_u7096.png" crc="3802448110" ref="index"/>
+    <file name="ultraboost_header.jpg" crc="3808208029" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="final-version" alt=""/>
-      <caption webpage="final-version" alt=""/>
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="u1457-4.png" crc="3877115550" ref="index:final-version"/>
-    <file name="u1331-7.png" crc="536015543" ref="index:final-version"/>
-    <file name="u445454.png" crc="82049308" ref="index"/>
-    <file name="u44545-r4.png" crc="82049308" ref="index"/>
-    <file name="shoepile-u44538-fr2.jpg" crc="4001479997" ref="index"/>
-    <file name="u44535-44.png" crc="4101303122" ref="index"/>
-    <file name="u1556-7.png" crc="4078625031" ref="index:final-version"/>
-    <file name="u2014-4.png" crc="313466919" ref="index:final-version"/>
-    <file name="u2015-4.png" crc="3869286911" ref="index:final-version"/>
-    <file name="u2016-4.png" crc="469227240" ref="index:final-version"/>
-    <file name="u2023-4.png" crc="3844769231" ref="index:final-version"/>
-    <file name="u2024-4.png" crc="531264987" ref="index:final-version"/>
-    <file name="u45116.png" crc="295023308" ref="index"/>
-    <file name="u45116-r.png" crc="295023308" ref="index"/>
-    <file name="shoepile-u44538-fr3.jpg" crc="4011868001" ref="index"/>
-    <file name="u44535-45.png" crc="4214386041" ref="index"/>
-    <file name="u2355-7.png" crc="3870356100" ref="index:final-version"/>
-    <file name="menu_tablet-mobile.png" crc="3951720400" seo="true" ref="index:final-version">
       <caption webpage="index" alt=""/>
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="u2624-4.png" crc="249290530" ref="index:final-version"/>
-    <file name="u2357-4.png" crc="4104147573" ref="index:final-version"/>
-    <file name="u2358-4.png" crc="4146925710" ref="index:final-version"/>
-    <file name="u2359-4.png" crc="4212483974" ref="index:final-version"/>
-    <file name="u2362-4.png" crc="511508447" ref="index:final-version"/>
-    <file name="u2363-4.png" crc="3889596608" ref="index:final-version"/>
-    <file name="shoepile-u44538-fr4.jpg" crc="4018308188" ref="index"/>
-    <file name="u44535-46.png" crc="175052518" ref="index"/>
-    <file name="u451162.png" crc="248925409" ref="index"/>
-    <file name="u45116-r2.png" crc="248925409" ref="index"/>
-    <file name="shoe_windows-crop-u65973.jpg" crc="261258482" seo="true" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="single-crop-u65964.jpg" crc="442473672" seo="true" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="ubwomen_icon-crop-u65960.jpg" crc="4113898484" seo="true" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="running_ss18_edgelux_women_cq1239_ftw_1-crop-u65955.jpg" crc="3895185073" seo="true" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="alphabounce_off.svg" crc="3903008131" ref="final-version"/>
-    <file name="alphabounce_off_poster_u102763.png" crc="242118646" ref="final-version"/>
-    <file name="alphabounce_on.svg" crc="3807961549" ref="final-version"/>
-    <file name="alphabounce_on_poster_u102771.png" crc="235973927" ref="final-version"/>
-    <file name="ub_off.svg" crc="27900688" ref="final-version"/>
-    <file name="ub_off_poster_u102795.png" crc="4048096918" ref="final-version"/>
-    <file name="ub_on.svg" crc="328056666" ref="final-version"/>
-    <file name="ub_on_poster_u102803.png" crc="151030117" ref="final-version"/>
-    <file name="ub_women_off.svg" crc="410432103" ref="final-version"/>
-    <file name="ub_women_off_poster_u102811.png" crc="4123108410" ref="final-version"/>
-    <file name="ub_women_on.svg" crc="506383965" ref="final-version"/>
-    <file name="ub_women_on_poster_u102819.png" crc="493331035" ref="final-version"/>
-    <file name="lux_off.svg" crc="3903765929" ref="final-version"/>
-    <file name="lux_off_poster_u102827.png" crc="528647254" ref="final-version"/>
-    <file name="lux_off_1.svg" crc="3996215922" ref="final-version"/>
-    <file name="lux_off_1_poster_u102835.png" crc="507298821" ref="final-version"/>
-    <file name="learn_off.svg" crc="216654941" ref="final-version"/>
-    <file name="learn_off_poster_u102779.png" crc="458391982" ref="final-version"/>
-    <file name="learn_on.svg" crc="417112519" ref="final-version"/>
-    <file name="learn_on_poster_u102787.png" crc="17855247" ref="final-version"/>
-    <file name="ab_frame1.jpg" crc="4172446729" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-      <caption webpage="final-version" alt=""/>
-      <caption webpage="final-version" alt=""/>
-      <caption webpage="final-version" alt=""/>
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="ab_frame1-u245881-fr.jpg" crc="311823654" ref="final-version"/>
-    <file name="ab_frame2-u245884-fr.jpg" crc="3867758558" ref="final-version"/>
-    <file name="ab_frame3-u245882-fr.jpg" crc="4144824792" ref="final-version"/>
-    <file name="ab_frame4-u245883-fr.jpg" crc="399143765" ref="final-version"/>
-    <file name="midsole_off.svg" crc="3931707617" ref="final-version"/>
-    <file name="midsole_off_poster_u182810.png" crc="4194372301" ref="final-version"/>
-    <file name="midsole_on.svg" crc="4021631936" ref="final-version"/>
-    <file name="midsole_on_poster_u182818.png" crc="446847824" ref="final-version"/>
-    <file name="mesh_off.svg" crc="3979007263" ref="final-version"/>
-    <file name="mesh_off_poster_u182794.png" crc="491148644" ref="final-version"/>
-    <file name="mesh_on.svg" crc="349131735" ref="final-version"/>
-    <file name="mesh_on_poster_u182802.png" crc="347372316" ref="final-version"/>
-    <file name="outsole_off.svg" crc="8183793" ref="final-version"/>
-    <file name="outsole_off_poster_u182778.png" crc="375898512" ref="final-version"/>
-    <file name="outsole_on.svg" crc="120493838" ref="final-version"/>
-    <file name="outsole_on_poster_u182786.png" crc="4104207105" ref="final-version"/>
-    <file name="heel_off.svg" crc="68422220" ref="final-version"/>
-    <file name="heel_off_poster_u182762.png" crc="363643188" ref="final-version"/>
-    <file name="heel_on.svg" crc="3981443990" ref="final-version"/>
-    <file name="heel_on_poster_u182770.png" crc="4013096146" ref="final-version"/>
-    <file name="ab_frame1_blue-u245866-fr.jpg" crc="328030671" ref="final-version"/>
-    <file name="ab_frame2_blue-u245864-fr.jpg" crc="4181452731" ref="final-version"/>
-    <file name="ab_frame3_blue-u245865-fr.jpg" crc="4158364336" ref="final-version"/>
-    <file name="ab_frame4_blue-u245863-fr.jpg" crc="4175626446" ref="final-version"/>
-    <file name="midsole_off_blue.svg" crc="3997008440" ref="final-version"/>
-    <file name="midsole_off_blue_poster_u182754.png" crc="3971993093" ref="final-version"/>
-    <file name="midsole_on_blue.svg" crc="511848172" ref="final-version"/>
-    <file name="midsole_on_blue_poster_u182746.png" crc="511150657" ref="final-version"/>
-    <file name="mesh_off_blue.svg" crc="24354228" ref="final-version"/>
-    <file name="mesh_off_blue_poster_u182738.png" crc="4052266011" ref="final-version"/>
-    <file name="mesh_on_blue.svg" crc="519775000" ref="final-version"/>
-    <file name="mesh_on_blue_poster_u182730.png" crc="3838120456" ref="final-version"/>
-    <file name="outsole_off_blue.svg" crc="3944879291" ref="final-version"/>
-    <file name="outsole_off_blue_poster_u182722.png" crc="464833932" ref="final-version"/>
-    <file name="outsole_on_blue.svg" crc="118913539" ref="final-version"/>
-    <file name="outsole_on_blue_poster_u182714.png" crc="4123487601" ref="final-version"/>
-    <file name="heel_off_blue.svg" crc="4049628541" ref="final-version"/>
-    <file name="heel_off_blue_poster_u182706.png" crc="3944623615" ref="final-version"/>
-    <file name="heel_on_blue.svg" crc="505448748" ref="final-version"/>
-    <file name="heel_on_blue_poster_u182698.png" crc="4268251581" ref="final-version"/>
-    <file name="ab_frame1_black-u245843-fr.jpg" crc="241573221" ref="final-version"/>
-    <file name="ab_frame2_black-u245844-fr.jpg" crc="4126979734" ref="final-version"/>
-    <file name="ab_frame3_black-u245846-fr.jpg" crc="472761535" ref="final-version"/>
-    <file name="ab_frame4_black-u245845-fr.jpg" crc="3822256631" ref="final-version"/>
-    <file name="midsole_off_black.svg" crc="3980979571" ref="final-version"/>
-    <file name="midsole_off_black_poster_u182690.png" crc="4133071539" ref="final-version"/>
-    <file name="midsole_on_black.svg" crc="11083059" ref="final-version"/>
-    <file name="midsole_on_black_poster_u182682.png" crc="4109665855" ref="final-version"/>
-    <file name="mesh_off_black.svg" crc="4241327400" ref="final-version"/>
-    <file name="mesh_off_black_poster_u182674.png" crc="265931062" ref="final-version"/>
-    <file name="mesh_on_black.svg" crc="4023156752" ref="final-version"/>
-    <file name="mesh_on_black_poster_u182666.png" crc="3914782885" ref="final-version"/>
-    <file name="outsole_off_black.svg" crc="4218167751" ref="final-version"/>
-    <file name="outsole_off_black_poster_u182658.png" crc="3839845428" ref="final-version"/>
-    <file name="outsole_on_black.svg" crc="3989113940" ref="final-version"/>
-    <file name="outsole_on_black_poster_u182650.png" crc="71257651" ref="final-version"/>
-    <file name="heel_off_black.svg" crc="3917782842" ref="final-version"/>
-    <file name="heel_off_black_poster_u182642.png" crc="534740371" ref="final-version"/>
-    <file name="heel_on_black.svg" crc="492375536" ref="final-version"/>
-    <file name="heel_on_black_poster_u182634.png" crc="250326778" ref="final-version"/>
-    <file name="ab_frame1_olive-u245909-fr.jpg" crc="209932242" ref="final-version"/>
-    <file name="ab_frame2_olive-u245911-fr.jpg" crc="182295857" ref="final-version"/>
-    <file name="ab_frame3_olive-u245908-fr.jpg" crc="4005952419" ref="final-version"/>
-    <file name="ab_frame4_olive-u245910-fr.jpg" crc="3953534277" ref="final-version"/>
-    <file name="midsole_off_olive.svg" crc="4085732218" ref="final-version"/>
-    <file name="midsole_off_olive_poster_u182626.png" crc="4115136319" ref="final-version"/>
-    <file name="midsole_on_olive.svg" crc="3881017248" ref="final-version"/>
-    <file name="midsole_on_olive_poster_u182618.png" crc="4010750702" ref="final-version"/>
-    <file name="mesh_off_olive.svg" crc="127735428" ref="final-version"/>
-    <file name="mesh_off_olive_poster_u182610.png" crc="87983579" ref="final-version"/>
-    <file name="mesh_on_olive.svg" crc="4096632570" ref="final-version"/>
-    <file name="mesh_on_olive_poster_u182602.png" crc="95423566" ref="final-version"/>
-    <file name="outsole_off_olive.svg" crc="262114554" ref="final-version"/>
-    <file name="outsole_off_olive_poster_u182594.png" crc="3926546399" ref="final-version"/>
-    <file name="outsole_on_olive.svg" crc="376661059" ref="final-version"/>
-    <file name="outsole_on_olive_poster_u182586.png" crc="3881779475" ref="final-version"/>
-    <file name="heel_off_olive.svg" crc="4241124622" ref="final-version"/>
-    <file name="heel_off_olive_poster_u182578.png" crc="321269083" ref="final-version"/>
-    <file name="heel_on_olive.svg" crc="264874912" ref="final-version"/>
-    <file name="heel_on_olive_poster_u182570.png" crc="154028942" ref="final-version"/>
-    <file name="red swatch.png" crc="4195405724" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="red swatch inactive.png" crc="489654261" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="red swatch active.png" crc="94229307" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="blue swatch.png" crc="420516005" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="blue swatch inactive.png" crc="154272169" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="blue swatch active.png" crc="354248400" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="black swatch.png" crc="512142310" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="black swatch inactive.png" crc="75706289" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="black swatch active.png" crc="4058532141" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="olive swatch.png" crc="396051448" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="olive swatch inactive.png" crc="213718072" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="olive swatch active.png" crc="4135569365" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="shoe_butterfly708x531.png" crc="3805405992" seo="true" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="alphabounce_header.svg" crc="170812216" ref="final-version"/>
-    <file name="alphabounce_header_poster_u7096.png" crc="3802448110" ref="final-version"/>
-    <file name="ultraboost_header.jpg" crc="3808208029" seo="true" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-      <caption webpage="final-version" alt=""/>
-      <caption webpage="final-version" alt=""/>
-      <caption webpage="final-version" alt=""/>
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="ub_m_inactive.jpg" crc="3813558500" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="ub_m_active.jpg" crc="4138195070" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="ub_m_active_1.jpg" crc="3914224424" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="ub_w_active.jpg" crc="4088526435" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="ub_frame1_black-u250950-fr.jpg" crc="124803950" ref="final-version"/>
-    <file name="ub_frame2_black-u250948-fr.jpg" crc="531496961" ref="final-version"/>
-    <file name="ub_frame3_black-u250949-fr.jpg" crc="147887981" ref="final-version"/>
-    <file name="ub_frame4_black-u250951-fr.jpg" crc="405037851" ref="final-version"/>
-    <file name="boost_off_black.svg" crc="152372067" ref="final-version"/>
-    <file name="boost_off_black_poster_u182554.png" crc="4184671924" ref="final-version"/>
-    <file name="boost_on_black.svg" crc="364114479" ref="final-version"/>
-    <file name="boost_on_black_poster_u182562.png" crc="189123497" ref="final-version"/>
-    <file name="knit_off_black.svg" crc="3942425471" ref="final-version"/>
-    <file name="knit_off_black_poster_u182538.png" crc="360898721" ref="final-version"/>
-    <file name="knit_on_black.svg" crc="197124960" ref="final-version"/>
-    <file name="knit_on_black_poster_u182546.png" crc="19251731" ref="final-version"/>
-    <file name="outsole_off_black2.svg" crc="228514250" ref="final-version"/>
-    <file name="outsole_off_black_poster_u182522.png" crc="3972786383" ref="final-version"/>
-    <file name="outsole_on_black2.svg" crc="158347327" ref="final-version"/>
-    <file name="outsole_on_black_poster_u182530.png" crc="195739218" ref="final-version"/>
-    <file name="heel_off_black2.svg" crc="99745009" ref="final-version"/>
-    <file name="heel_off_black_poster_u182506.png" crc="4003785342" ref="final-version"/>
-    <file name="heel_on_black2.svg" crc="328327768" ref="final-version"/>
-    <file name="heel_on_black_poster_u182514.png" crc="383123781" ref="final-version"/>
-    <file name="ub_frame1_blue-u250980-fr.jpg" crc="3983350133" ref="final-version"/>
-    <file name="ub_frame2_blue-u250977-fr.jpg" crc="3826471298" ref="final-version"/>
-    <file name="ub_frame3_blue-u250978-fr.jpg" crc="333068840" ref="final-version"/>
-    <file name="ub_frame4_blue-u250979-fr.jpg" crc="4024254676" ref="final-version"/>
-    <file name="boost_off_blue.svg" crc="189317000" ref="final-version"/>
-    <file name="boost_off_blue_poster_u182490.png" crc="394128114" ref="final-version"/>
-    <file name="boost_on_blue.svg" crc="3912876242" ref="final-version"/>
-    <file name="boost_on_blue_poster_u182498.png" crc="4161024937" ref="final-version"/>
-    <file name="knit_off_blue.svg" crc="3975185463" ref="final-version"/>
-    <file name="knit_off_blue_poster_u182474.png" crc="4263057482" ref="final-version"/>
-    <file name="knit_on_blue.svg" crc="3911339133" ref="final-version"/>
-    <file name="knit_on_blue_poster_u182482.png" crc="4006540799" ref="final-version"/>
-    <file name="outsole_off_blue2.svg" crc="3765260768" ref="final-version"/>
-    <file name="outsole_off_blue_poster_u182458.png" crc="223110838" ref="final-version"/>
-    <file name="outsole_on_blue2.svg" crc="43597737" ref="final-version"/>
-    <file name="outsole_on_blue_poster_u182466.png" crc="3920290661" ref="final-version"/>
-    <file name="heel_off_blue2.svg" crc="4203663757" ref="final-version"/>
-    <file name="heel_off_blue_poster_u182442.png" crc="249110560" ref="final-version"/>
-    <file name="heel_on_blue2.svg" crc="4089154801" ref="final-version"/>
-    <file name="heel_on_blue_poster_u182450.png" crc="3943541565" ref="final-version"/>
-    <file name="ub_frame1_grey-u250992-fr.jpg" crc="144249036" ref="final-version"/>
-    <file name="ub_frame2_grey-u250991-fr.jpg" crc="3995447095" ref="final-version"/>
-    <file name="ub_frame3_grey-u250993-fr.jpg" crc="3779348579" ref="final-version"/>
-    <file name="ub_frame4_grey-u250994-fr.jpg" crc="410707769" ref="final-version"/>
-    <file name="boost_off_grey.svg" crc="3994701922" ref="final-version"/>
-    <file name="boost_off_grey_poster_u182426.png" crc="4134778724" ref="final-version"/>
-    <file name="boost_on_grey.svg" crc="4087088988" ref="final-version"/>
-    <file name="boost_on_grey_poster_u182434.png" crc="4221772839" ref="final-version"/>
-    <file name="knit_off_grey.svg" crc="3874499973" ref="final-version"/>
-    <file name="knit_off_grey_poster_u182410.png" crc="3897145371" ref="final-version"/>
-    <file name="knit_on_grey.svg" crc="211860273" ref="final-version"/>
-    <file name="knit_on_grey_poster_u182418.png" crc="77336281" ref="final-version"/>
-    <file name="outsole_off_grey.svg" crc="4157416979" ref="final-version"/>
-    <file name="outsole_off_grey_poster_u182394.png" crc="3826840883" ref="final-version"/>
-    <file name="outsole_on_grey.svg" crc="3891901892" ref="final-version"/>
-    <file name="outsole_on_grey_poster_u182402.png" crc="185643147" ref="final-version"/>
-    <file name="heel_off_grey.svg" crc="433856869" ref="final-version"/>
-    <file name="heel_off_grey_poster_u182378.png" crc="4223291964" ref="final-version"/>
-    <file name="heel_on_grey.svg" crc="460517205" ref="final-version"/>
-    <file name="heel_on_grey_poster_u182386.png" crc="401374802" ref="final-version"/>
-    <file name="ub_frame1_white-u251011-fr.jpg" crc="3885144237" ref="final-version"/>
-    <file name="ub_frame2_white-u251012-fr.jpg" crc="39775356" ref="final-version"/>
-    <file name="ub_frame3_white-u251014-fr.jpg" crc="4075653720" ref="final-version"/>
-    <file name="ub_frame4_white-u251013-fr.jpg" crc="283129227" ref="final-version"/>
-    <file name="boost_off_white.svg" crc="340303307" ref="final-version"/>
-    <file name="boost_off_white_poster_u182362.png" crc="407328227" ref="final-version"/>
-    <file name="boost_on_white.svg" crc="177675789" ref="final-version"/>
-    <file name="boost_on_white_poster_u182370.png" crc="3918656871" ref="final-version"/>
-    <file name="knit_off_white.svg" crc="277131928" ref="final-version"/>
-    <file name="knit_off_white_poster_u182346.png" crc="3987046013" ref="final-version"/>
-    <file name="knit_on_white.svg" crc="403343744" ref="final-version"/>
-    <file name="knit_on_white_poster_u182354.png" crc="4165631267" ref="final-version"/>
-    <file name="outsole_off_white.svg" crc="508015436" ref="final-version"/>
-    <file name="outsole_off_white_poster_u182330.png" crc="4176078195" ref="final-version"/>
-    <file name="outsole_on_white.svg" crc="486144025" ref="final-version"/>
-    <file name="outsole_on_white_poster_u182338.png" crc="445011136" ref="final-version"/>
-    <file name="heel_on_white.svg" crc="125201426" ref="final-version"/>
-    <file name="heel_on_white_poster_u182322.png" crc="327491219" ref="final-version"/>
-    <file name="black swatch_black.png" crc="210089894" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="black swatch inactive_black.png" crc="437706710" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="black swatch active_black.png" crc="210815100" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="blue swatch_blue.png" crc="4184219691" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="blue swatch inactive_blue.png" crc="3790836393" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="blue swatch active_blue.png" crc="3856064320" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="grey swatch_grey.svg" crc="18990765" ref="final-version"/>
-    <file name="grey swatch_grey_poster_u252484.png" crc="385159151" ref="final-version"/>
-    <file name="grey swatch inactive_grey.png" crc="4156698623" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="grey swatch active_grey.png" crc="163778011" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="white swatch_white.png" crc="3776110633" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="white swatch inactive_white.png" crc="292239284" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="white swatch active_white.svg" crc="3810162447" ref="final-version"/>
-    <file name="white swatch active_white_poster_u68911.png" crc="484042926" ref="final-version"/>
-    <file name="ubw_frame1_black-u250886-fr.jpg" crc="218409161" ref="final-version"/>
-    <file name="ubw_frame2_black-u250885-fr.jpg" crc="4223787441" ref="final-version"/>
-    <file name="ubw_frame3_black-u250884-fr.jpg" crc="406073296" ref="final-version"/>
-    <file name="ubw_frame4_black-u250883-fr.jpg" crc="132919259" ref="final-version"/>
-    <file name="ubw_frame1_pink-u250919-fr.jpg" crc="4040161505" ref="final-version"/>
-    <file name="ubw_frame2_pink-u250920-fr.jpg" crc="118400483" ref="final-version"/>
-    <file name="ubw_frame3_pink-u250918-fr.jpg" crc="3903770830" ref="final-version"/>
-    <file name="ubw_frame4_pink-u250917-fr.jpg" crc="390749316" ref="final-version"/>
-    <file name="boost_off_w_pink.svg" crc="215050074" ref="final-version"/>
-    <file name="boost_off_w_pink_poster_u182306.png" crc="418251902" ref="final-version"/>
-    <file name="boost_on_w_pink.svg" crc="431686585" ref="final-version"/>
-    <file name="boost_on_w_pink_poster_u182314.png" crc="4028707408" ref="final-version"/>
-    <file name="knit_off_w_pink.svg" crc="373609419" ref="final-version"/>
-    <file name="knit_off_w_pink_poster_u182290.png" crc="4119394313" ref="final-version"/>
-    <file name="knit_on_w_pink.svg" crc="243564938" ref="final-version"/>
-    <file name="knit_on_w_pink_poster_u182298.png" crc="273860751" ref="final-version"/>
-    <file name="outsole_off_w_pink.svg" crc="169500194" ref="final-version"/>
-    <file name="outsole_off_w_pink_poster_u182274.png" crc="311145987" ref="final-version"/>
-    <file name="outsole_on_w_pink.svg" crc="143153309" ref="final-version"/>
-    <file name="outsole_on_w_pink_poster_u182282.png" crc="3969394849" ref="final-version"/>
-    <file name="heel_off_w_pink.svg" crc="416518877" ref="final-version"/>
-    <file name="heel_off_w_pink_poster_u182258.png" crc="300118818" ref="final-version"/>
-    <file name="heel_on_w_pink.svg" crc="3999952007" ref="final-version"/>
-    <file name="heel_on_w_pink_poster_u182266.png" crc="413174809" ref="final-version"/>
-    <file name="ubw_frame1_grey-u250892-fr.jpg" crc="234533754" ref="final-version"/>
-    <file name="ubw_frame2_grey-u250893-fr.jpg" crc="372757749" ref="final-version"/>
-    <file name="ubw_frame3_grey-u250894-fr.jpg" crc="311858766" ref="final-version"/>
-    <file name="ubw_frame4_grey-u250895-fr.jpg" crc="359208498" ref="final-version"/>
-    <file name="boost_on_w_grey.svg" crc="3999940644" ref="final-version"/>
-    <file name="boost_on_w_grey_poster_u182250.png" crc="4025559691" ref="final-version"/>
-    <file name="knit_on_w_grey.svg" crc="335365995" ref="final-version"/>
-    <file name="knit_on_w_grey_poster_u182242.png" crc="3839952127" ref="final-version"/>
-    <file name="outsole_on_w_grey.svg" crc="135991314" ref="final-version"/>
-    <file name="outsole_on_w_grey_poster_u182234.png" crc="357831651" ref="final-version"/>
-    <file name="heel_on_w_grey.svg" crc="4234668799" ref="final-version"/>
-    <file name="heel_on_w_grey_poster_u182226.png" crc="3942021908" ref="final-version"/>
-    <file name="ubw_frame1_blue-u250870-fr.jpg" crc="174193553" ref="final-version"/>
-    <file name="ubw_frame2_blue-u250868-fr.jpg" crc="3908781047" ref="final-version"/>
-    <file name="ubw_frame3_blue-u250867-fr.jpg" crc="511807488" ref="final-version"/>
-    <file name="ubw_frame4_blue-u250869-fr.jpg" crc="4222441922" ref="final-version"/>
-    <file name="boost_off_blue2.svg" crc="4099458729" ref="final-version"/>
-    <file name="boost_off_blue_poster_u182210.png" crc="4175408348" ref="final-version"/>
-    <file name="boost_on_blue2.svg" crc="3979439908" ref="final-version"/>
-    <file name="boost_on_blue_poster_u182218.png" crc="3794871067" ref="final-version"/>
-    <file name="knit_off_blue2.svg" crc="297366114" ref="final-version"/>
-    <file name="knit_off_blue_poster_u182194.png" crc="503061026" ref="final-version"/>
-    <file name="knit_on_blue2.svg" crc="4258979880" ref="final-version"/>
-    <file name="knit_on_blue_poster_u182202.png" crc="202067012" ref="final-version"/>
-    <file name="outsole_off_blue3.svg" crc="134875767" ref="final-version"/>
-    <file name="outsole_off_blue_poster_u182178.png" crc="4110267861" ref="final-version"/>
-    <file name="outsole_on_blue3.svg" crc="451407226" ref="final-version"/>
-    <file name="outsole_on_blue_poster_u182186.png" crc="428630527" ref="final-version"/>
-    <file name="heel_off_blue3.svg" crc="4271408080" ref="final-version"/>
-    <file name="heel_off_blue_poster_u182162.png" crc="364467693" ref="final-version"/>
-    <file name="heel_on_blue3.svg" crc="4268229111" ref="final-version"/>
-    <file name="heel_on_blue_poster_u182170.png" crc="3983698000" ref="final-version"/>
-    <file name="black swatch_black2.png" crc="22852409" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="black swatch inactive_black2.png" crc="104487896" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="black swatch active_black2.png" crc="4124319803" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="pink swatch_pink.png" crc="4180345973" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="pink swatch inactive_pink.png" crc="4083005489" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="pink swatch active_pink.png" crc="363801858" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="grey swatch_grey.png" crc="528742954" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="grey swatch inactive_grey2.png" crc="278346708" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="grey swatch active_grey2.png" crc="188549892" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="blue swatch_blue2.png" crc="103542938" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="blue swatch inactive_blue2.png" crc="410026378" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="blue swatch active_blue2.png" crc="397657653" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="el_header.svg" crc="40196791" ref="final-version"/>
-    <file name="el_header_poster_u102755.png" crc="4133131651" ref="final-version"/>
-    <file name="el_circle.png" crc="4255215952" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="el_frame1_mobile_grey-u113455-fr.jpg" crc="390952649" ref="final-version"/>
-    <file name="el_frame2 -mobile_grey-u113453-fr.jpg" crc="4126183889" ref="final-version"/>
-    <file name="el_frame3-mobile_grey-u113452-fr.jpg" crc="28300134" ref="final-version"/>
-    <file name="el_frame4-mobile_grey-u113454-fr.jpg" crc="4115818148" ref="final-version"/>
-    <file name="boost_off_l_grey.svg" crc="255401625" ref="final-version"/>
-    <file name="boost_off_l_grey_poster_u182146.png" crc="4209152303" ref="final-version"/>
-    <file name="boost_on_l_grey.svg" crc="3890891897" ref="final-version"/>
-    <file name="boost_on_l_grey_poster_u182154.png" crc="439858160" ref="final-version"/>
-    <file name="knit_off_l_grey.svg" crc="4240407888" ref="final-version"/>
-    <file name="knit_off_l_grey_poster_u182130.png" crc="491148644" ref="final-version"/>
-    <file name="knit_on_l_grey.svg" crc="3941061734" ref="final-version"/>
-    <file name="knit_on_l_grey_poster_u182138.png" crc="361718029" ref="final-version"/>
-    <file name="outsole_off_l_grey.svg" crc="441997153" ref="final-version"/>
-    <file name="outsole_off_l_grey_poster_u182114.png" crc="4083227938" ref="final-version"/>
-    <file name="outsole_on_l_grey.svg" crc="4176668298" ref="final-version"/>
-    <file name="outsole_on_l_grey_poster_u182122.png" crc="279002354" ref="final-version"/>
-    <file name="heel_off_l_grey.svg" crc="3808406111" ref="final-version"/>
-    <file name="heel_off_l_grey_poster_u182098.png" crc="299450317" ref="final-version"/>
-    <file name="heel_on_l_grey.svg" crc="3865433461" ref="final-version"/>
-    <file name="heel_on_l_grey_poster_u182106.png" crc="3876965674" ref="final-version"/>
-    <file name="el_frame1_mobile_pink-u113440-fr.jpg" crc="4084590084" ref="final-version"/>
-    <file name="el_frame2 -mobile_pink-u113441-fr.jpg" crc="3796739899" ref="final-version"/>
-    <file name="el_frame3-mobile_pink-u113439-fr.jpg" crc="436411984" ref="final-version"/>
-    <file name="el_frame4-mobile_pink-u113442-fr.jpg" crc="49014674" ref="final-version"/>
-    <file name="boost_off_l_pink.svg" crc="4240922598" ref="final-version"/>
-    <file name="boost_off_l_pink_poster_u182082.png" crc="3966254802" ref="final-version"/>
-    <file name="boost_on_l_pink.svg" crc="371949348" ref="final-version"/>
-    <file name="boost_on_l_pink_poster_u182090.png" crc="507016884" ref="final-version"/>
-    <file name="knit_off_l_pink.svg" crc="4258704379" ref="final-version"/>
-    <file name="knit_off_l_pink_poster_u182066.png" crc="4280106529" ref="final-version"/>
-    <file name="knit_on_l_pink.svg" crc="334680484" ref="final-version"/>
-    <file name="knit_on_l_pink_poster_u182074.png" crc="501335472" ref="final-version"/>
-    <file name="outsole_off_l_pink.svg" crc="31688398" ref="final-version"/>
-    <file name="outsole_off_l_pink_poster_u182050.png" crc="3993226739" ref="final-version"/>
-    <file name="outsole_on_l_pink.svg" crc="155989874" ref="final-version"/>
-    <file name="outsole_on_l_pink_poster_u182058.png" crc="527845507" ref="final-version"/>
-    <file name="heel_off_l_pink.svg" crc="4268998641" ref="final-version"/>
-    <file name="heel_off_l_pink_poster_u182034.png" crc="4258891562" ref="final-version"/>
-    <file name="heel_on_l_pink.svg" crc="316438093" ref="final-version"/>
-    <file name="heel_on_l_pink_poster_u182042.png" crc="292952957" ref="final-version"/>
-    <file name="black swatch2.png" crc="3774590143" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="black swatch inactive2.png" crc="310455735" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="black swatch active2.png" crc="3891556055" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="pink swatch.png" crc="371483394" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="pink swatch inactive.png" crc="3962649886" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="pink swatch active.png" crc="3848981207" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="doublebanner-100.jpg" crc="480534960" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="shoe_windows-crop-u659732.jpg" crc="4119659087" seo="true" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="single-crop-u659642.jpg" crc="406308719" seo="true" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="ubwomen_icon-crop-u659602.jpg" crc="3761755468" seo="true" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="running_ss18_edgelux_women_cq1239_ftw_1-crop-u659552.jpg" crc="32594754" seo="true" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="shoe_butterfly504x377.png" crc="4230088347" seo="true" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="ab_frame1-u245881-fr2.jpg" crc="3999744858" ref="final-version"/>
-    <file name="ab_frame2-u245884-fr2.jpg" crc="267526825" ref="final-version"/>
-    <file name="ab_frame3-u245882-fr2.jpg" crc="276233890" ref="final-version"/>
-    <file name="ab_frame4-u245883-fr2.jpg" crc="3771298916" ref="final-version"/>
-    <file name="ab_frame1_blue-u245866-fr2.jpg" crc="104822540" ref="final-version"/>
-    <file name="ab_frame2_blue-u245864-fr2.jpg" crc="2265045" ref="final-version"/>
-    <file name="ab_frame3_blue-u245865-fr2.jpg" crc="152940099" ref="final-version"/>
-    <file name="ab_frame4_blue-u245863-fr2.jpg" crc="323672207" ref="final-version"/>
-    <file name="ab_frame1_black-u245843-fr2.jpg" crc="3885840154" ref="final-version"/>
-    <file name="ab_frame2_black-u245844-fr2.jpg" crc="533507117" ref="final-version"/>
-    <file name="ab_frame3_black-u245846-fr2.jpg" crc="3862328074" ref="final-version"/>
-    <file name="ab_frame4_black-u245845-fr2.jpg" crc="508626245" ref="final-version"/>
-    <file name="ab_frame1_olive-u245909-fr2.jpg" crc="4075711480" ref="final-version"/>
-    <file name="ab_frame2_olive-u245911-fr2.jpg" crc="4192734923" ref="final-version"/>
-    <file name="ab_frame3_olive-u245908-fr2.jpg" crc="318019242" ref="final-version"/>
-    <file name="ab_frame4_olive-u245910-fr2.jpg" crc="3767715451" ref="final-version"/>
-    <file name="red swatch-u245835-fr.png" crc="3631945" ref="final-version"/>
-    <file name="red swatch inactive-u245835-r-fr.png" crc="4000046447" ref="final-version"/>
-    <file name="red swatch active-u245835-a-fr.png" crc="261658451" ref="final-version"/>
-    <file name="blue swatch-u245836-fr.png" crc="3839987142" ref="final-version"/>
-    <file name="blue swatch inactive-u245836-r-fr.png" crc="4085567067" ref="final-version"/>
-    <file name="blue swatch active-u245836-a-fr.png" crc="4234343380" ref="final-version"/>
-    <file name="black swatch-u245837-fr.png" crc="306468513" ref="final-version"/>
-    <file name="black swatch inactive-u245837-r-fr.png" crc="345384771" ref="final-version"/>
-    <file name="black swatch active-u245837-a-fr.png" crc="4054919530" ref="final-version"/>
-    <file name="olive swatch-u245838-fr.png" crc="4265673992" ref="final-version"/>
-    <file name="olive swatch inactive-u245838-r-fr.png" crc="3888942376" ref="final-version"/>
-    <file name="olive swatch active-u245838-a-fr.png" crc="116215487" ref="final-version"/>
-    <file name="ub_m_inactive-u250837-fr.jpg" crc="444189866" ref="final-version"/>
-    <file name="ub_m_active-u250837-r-fr.jpg" crc="26080424" ref="final-version"/>
-    <file name="ub_m_active_1-u250836-fr.jpg" crc="137986074" ref="final-version"/>
-    <file name="ub_w_active-u250836-r-fr.jpg" crc="4021484380" ref="final-version"/>
-    <file name="ub_frame1_black-u250950-fr2.jpg" crc="3976415287" ref="final-version"/>
-    <file name="ub_frame2_black-u250948-fr2.jpg" crc="264308286" ref="final-version"/>
-    <file name="ub_frame3_black-u250949-fr2.jpg" crc="160687842" ref="final-version"/>
-    <file name="ub_frame4_black-u250951-fr2.jpg" crc="4014836016" ref="final-version"/>
-    <file name="ub_frame1_blue-u250980-fr2.jpg" crc="48688834" ref="final-version"/>
-    <file name="ub_frame2_blue-u250977-fr2.jpg" crc="118763549" ref="final-version"/>
-    <file name="ub_frame3_blue-u250978-fr2.jpg" crc="122514281" ref="final-version"/>
-    <file name="ub_frame4_blue-u250979-fr2.jpg" crc="4224119411" ref="final-version"/>
-    <file name="ub_frame1_grey-u250992-fr2.jpg" crc="3768344689" ref="final-version"/>
-    <file name="ub_frame2_grey-u250991-fr2.jpg" crc="4275009406" ref="final-version"/>
-    <file name="ub_frame3_grey-u250993-fr2.jpg" crc="3983818859" ref="final-version"/>
-    <file name="ub_frame4_grey-u250994-fr2.jpg" crc="4235783461" ref="final-version"/>
-    <file name="ub_frame1_white-u251011-fr2.jpg" crc="481722892" ref="final-version"/>
-    <file name="ub_frame2_white-u251012-fr2.jpg" crc="70655097" ref="final-version"/>
-    <file name="ub_frame3_white-u251014-fr2.jpg" crc="157864379" ref="final-version"/>
-    <file name="ub_frame4_white-u251013-fr2.jpg" crc="217671860" ref="final-version"/>
-    <file name="black swatch_black-u250939-fr.png" crc="348379289" ref="final-version"/>
-    <file name="black swatch inactive_black-u250939-r-fr.png" crc="4029772013" ref="final-version"/>
-    <file name="black swatch active_black-u250939-a-fr.png" crc="3920550639" ref="final-version"/>
-    <file name="blue swatch_blue-u250937-fr.png" crc="3806911138" ref="final-version"/>
-    <file name="blue swatch inactive_blue-u250937-r-fr.png" crc="3898652315" ref="final-version"/>
-    <file name="blue swatch active_blue-u250937-a-fr.png" crc="484482369" ref="final-version"/>
-    <file name="grey swatch inactive_grey-u250938-r-fr.png" crc="3808004032" ref="final-version"/>
-    <file name="grey swatch active_grey-u250938-a-fr.png" crc="189243453" ref="final-version"/>
-    <file name="white swatch_white-u250936-fr.png" crc="374195496" ref="final-version"/>
-    <file name="white swatch inactive_white-u250936-r-fr.png" crc="105860457" ref="final-version"/>
-    <file name="ubw_frame1_black-u250886-fr2.jpg" crc="3983782747" ref="final-version"/>
-    <file name="ubw_frame2_black-u250885-fr2.jpg" crc="3927022853" ref="final-version"/>
-    <file name="ubw_frame3_black-u250884-fr2.jpg" crc="182523720" ref="final-version"/>
-    <file name="ubw_frame4_black-u250883-fr2.jpg" crc="3863632467" ref="final-version"/>
-    <file name="ubw_frame1_pink-u250919-fr2.jpg" crc="282055038" ref="final-version"/>
-    <file name="ubw_frame2_pink-u250920-fr2.jpg" crc="3772576368" ref="final-version"/>
-    <file name="ubw_frame3_pink-u250918-fr2.jpg" crc="3808484628" ref="final-version"/>
-    <file name="ubw_frame4_pink-u250917-fr2.jpg" crc="4170755293" ref="final-version"/>
-    <file name="ubw_frame1_grey-u250892-fr2.jpg" crc="4088185635" ref="final-version"/>
-    <file name="ubw_frame2_grey-u250893-fr2.jpg" crc="3879989585" ref="final-version"/>
-    <file name="ubw_frame3_grey-u250894-fr2.jpg" crc="42379335" ref="final-version"/>
-    <file name="ubw_frame4_grey-u250895-fr2.jpg" crc="4005374471" ref="final-version"/>
-    <file name="ubw_frame1_blue-u250870-fr2.jpg" crc="4254542406" ref="final-version"/>
-    <file name="ubw_frame2_blue-u250868-fr2.jpg" crc="4003447373" ref="final-version"/>
-    <file name="ubw_frame3_blue-u250867-fr2.jpg" crc="4142432250" ref="final-version"/>
-    <file name="ubw_frame4_blue-u250869-fr2.jpg" crc="4194635321" ref="final-version"/>
-    <file name="black swatch_black-u250928-fr.png" crc="486265467" ref="final-version"/>
-    <file name="black swatch inactive_black-u250928-r-fr.png" crc="3954918674" ref="final-version"/>
-    <file name="black swatch active_black-u250928-a-fr.png" crc="105429275" ref="final-version"/>
-    <file name="pink swatch_pink-u250926-fr.png" crc="467486866" ref="final-version"/>
-    <file name="pink swatch inactive_pink-u250926-r-fr.png" crc="4075493840" ref="final-version"/>
-    <file name="pink swatch active_pink-u250926-a-fr.png" crc="4048075865" ref="final-version"/>
-    <file name="grey swatch_grey-u250929-fr.png" crc="3812366935" ref="final-version"/>
-    <file name="grey swatch inactive_grey-u250929-r-fr.png" crc="218242842" ref="final-version"/>
-    <file name="grey swatch active_grey-u250929-a-fr.png" crc="4054282784" ref="final-version"/>
-    <file name="blue swatch_blue-u250927-fr.png" crc="3871416446" ref="final-version"/>
-    <file name="blue swatch inactive_blue-u250927-r-fr.png" crc="449828732" ref="final-version"/>
-    <file name="blue swatch active_blue-u250927-a-fr.png" crc="4058984035" ref="final-version"/>
-    <file name="el_frame1_mobile_grey-u113455-fr2.jpg" crc="459523515" ref="final-version"/>
-    <file name="el_frame2 -mobile_grey-u113453-fr2.jpg" crc="3802269689" ref="final-version"/>
-    <file name="el_frame3-mobile_grey-u113452-fr2.jpg" crc="511886644" ref="final-version"/>
-    <file name="el_frame4-mobile_grey-u113454-fr2.jpg" crc="49723213" ref="final-version"/>
-    <file name="el_frame1_mobile_pink-u113440-fr2.jpg" crc="4046704514" ref="final-version"/>
-    <file name="el_frame2 -mobile_pink-u113441-fr2.jpg" crc="3878823474" ref="final-version"/>
-    <file name="el_frame3-mobile_pink-u113439-fr2.jpg" crc="187440821" ref="final-version"/>
-    <file name="el_frame4-mobile_pink-u113442-fr2.jpg" crc="4174759058" ref="final-version"/>
-    <file name="black swatch-u113424-fr.png" crc="472088866" ref="final-version"/>
-    <file name="black swatch inactive-u113424-r-fr.png" crc="3990783358" ref="final-version"/>
-    <file name="black swatch active-u113424-a-fr.png" crc="16191823" ref="final-version"/>
-    <file name="pink swatch-u113425-fr.png" crc="504979557" ref="final-version"/>
-    <file name="pink swatch inactive-u113425-r-fr.png" crc="3867737127" ref="final-version"/>
-    <file name="pink swatch active-u113425-a-fr.png" crc="4241641725" ref="final-version"/>
-    <file name="doublebanner-100-u65767-fr.jpg" crc="44333997" ref="final-version"/>
-    <file name="rungif2.gif" crc="85745628" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="u63891-8.png" crc="3797129032" ref="final-version"/>
-    <file name="shoe_windows-crop-u659733.jpg" crc="251303117" seo="true" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="single-crop-u659643.jpg" crc="277455763" seo="true" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="ubwomen_icon-crop-u659603.jpg" crc="330183410" seo="true" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="running_ss18_edgelux_women_cq1239_ftw_1-crop-u659553.jpg" crc="4237629234" seo="true" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="shoe_butterfly378x283.png" crc="190729168" seo="true" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="ab_frame1-u245881-fr3.jpg" crc="505408408" ref="final-version"/>
-    <file name="ab_frame2-u245884-fr3.jpg" crc="3896400884" ref="final-version"/>
-    <file name="ab_frame3-u245882-fr3.jpg" crc="276258103" ref="final-version"/>
-    <file name="ab_frame4-u245883-fr3.jpg" crc="121590820" ref="final-version"/>
-    <file name="ab_frame1_blue-u245866-fr3.jpg" crc="211015864" ref="final-version"/>
-    <file name="ab_frame2_blue-u245864-fr3.jpg" crc="110061687" ref="final-version"/>
-    <file name="ab_frame3_blue-u245865-fr3.jpg" crc="4099573779" ref="final-version"/>
-    <file name="ab_frame4_blue-u245863-fr3.jpg" crc="4253377156" ref="final-version"/>
-    <file name="ab_frame1_black-u245843-fr3.jpg" crc="246767083" ref="final-version"/>
-    <file name="ab_frame2_black-u245844-fr3.jpg" crc="3768298052" ref="final-version"/>
-    <file name="ab_frame3_black-u245846-fr3.jpg" crc="211047615" ref="final-version"/>
-    <file name="ab_frame4_black-u245845-fr3.jpg" crc="4156450119" ref="final-version"/>
-    <file name="ab_frame1_olive-u245909-fr3.jpg" crc="3943056527" ref="final-version"/>
-    <file name="ab_frame2_olive-u245911-fr3.jpg" crc="4285178894" ref="final-version"/>
-    <file name="ab_frame3_olive-u245908-fr3.jpg" crc="210153439" ref="final-version"/>
-    <file name="ab_frame4_olive-u245910-fr3.jpg" crc="4184863945" ref="final-version"/>
-    <file name="red swatch-u245835-fr2.png" crc="526068335" ref="final-version"/>
-    <file name="red swatch inactive-u245835-r-fr2.png" crc="4293784187" ref="final-version"/>
-    <file name="red swatch active-u245835-a-fr2.png" crc="3805468000" ref="final-version"/>
-    <file name="blue swatch-u245836-fr2.png" crc="4134158166" ref="final-version"/>
-    <file name="blue swatch inactive-u245836-r-fr2.png" crc="4074920509" ref="final-version"/>
-    <file name="blue swatch active-u245836-a-fr2.png" crc="422099258" ref="final-version"/>
-    <file name="black swatch-u245837-fr2.png" crc="3813447068" ref="final-version"/>
-    <file name="black swatch inactive-u245837-r-fr2.png" crc="3941116762" ref="final-version"/>
-    <file name="black swatch active-u245837-a-fr2.png" crc="467225620" ref="final-version"/>
-    <file name="olive swatch-u245838-fr2.png" crc="3816174946" ref="final-version"/>
-    <file name="olive swatch inactive-u245838-r-fr2.png" crc="3767476392" ref="final-version"/>
-    <file name="olive swatch active-u245838-a-fr2.png" crc="4016232077" ref="final-version"/>
-    <file name="u60492-7.png" crc="50510637" ref="final-version"/>
-    <file name="ub_m_inactive-u250837-fr2.jpg" crc="437827646" ref="final-version"/>
-    <file name="ub_m_active-u250837-r-fr2.jpg" crc="495605945" ref="final-version"/>
-    <file name="ub_m_active_1-u250836-fr2.jpg" crc="4264083059" ref="final-version"/>
-    <file name="ub_w_active-u250836-r-fr2.jpg" crc="472887320" ref="final-version"/>
-    <file name="ub_frame1_black-u250950-fr3.jpg" crc="404356847" ref="final-version"/>
-    <file name="ub_frame2_black-u250948-fr3.jpg" crc="4224196586" ref="final-version"/>
-    <file name="ub_frame3_black-u250949-fr3.jpg" crc="416262424" ref="final-version"/>
-    <file name="ub_frame4_black-u250951-fr3.jpg" crc="279354912" ref="final-version"/>
-    <file name="ub_frame1_blue-u250980-fr3.jpg" crc="34750396" ref="final-version"/>
-    <file name="ub_frame2_blue-u250977-fr3.jpg" crc="3961419016" ref="final-version"/>
-    <file name="ub_frame3_blue-u250978-fr3.jpg" crc="4010281371" ref="final-version"/>
-    <file name="ub_frame4_blue-u250979-fr3.jpg" crc="3860970125" ref="final-version"/>
-    <file name="ub_frame1_grey-u250992-fr3.jpg" crc="3905297637" ref="final-version"/>
-    <file name="ub_frame2_grey-u250991-fr3.jpg" crc="3882990811" ref="final-version"/>
-    <file name="ub_frame3_grey-u250993-fr3.jpg" crc="482210094" ref="final-version"/>
-    <file name="ub_frame4_grey-u250994-fr3.jpg" crc="135550790" ref="final-version"/>
-    <file name="ub_frame1_white-u251011-fr3.jpg" crc="77576379" ref="final-version"/>
-    <file name="ub_frame2_white-u251012-fr3.jpg" crc="444587747" ref="final-version"/>
-    <file name="ub_frame3_white-u251014-fr3.jpg" crc="4188104865" ref="final-version"/>
-    <file name="ub_frame4_white-u251013-fr3.jpg" crc="4004097110" ref="final-version"/>
-    <file name="black swatch_black-u250939-fr2.png" crc="86217418" ref="final-version"/>
-    <file name="black swatch inactive_black-u250939-r-fr2.png" crc="302434887" ref="final-version"/>
-    <file name="black swatch active_black-u250939-a-fr2.png" crc="99844252" ref="final-version"/>
-    <file name="blue swatch_blue-u250937-fr2.png" crc="4206672185" ref="final-version"/>
-    <file name="blue swatch inactive_blue-u250937-r-fr2.png" crc="291415430" ref="final-version"/>
-    <file name="blue swatch active_blue-u250937-a-fr2.png" crc="4062451330" ref="final-version"/>
-    <file name="grey swatch inactive_grey-u250938-r-fr2.png" crc="468958199" ref="final-version"/>
-    <file name="grey swatch active_grey-u250938-a-fr2.png" crc="317520" ref="final-version"/>
-    <file name="white swatch_white-u250936-fr2.png" crc="4265470971" ref="final-version"/>
-    <file name="white swatch inactive_white-u250936-r-fr2.png" crc="151790344" ref="final-version"/>
-    <file name="ubw_frame1_black-u250886-fr3.jpg" crc="389068585" ref="final-version"/>
-    <file name="ubw_frame2_black-u250885-fr3.jpg" crc="4158958688" ref="final-version"/>
-    <file name="ubw_frame3_black-u250884-fr3.jpg" crc="48828955" ref="final-version"/>
-    <file name="ubw_frame4_black-u250883-fr3.jpg" crc="13430338" ref="final-version"/>
-    <file name="ubw_frame1_pink-u250919-fr3.jpg" crc="3959570518" ref="final-version"/>
-    <file name="ubw_frame2_pink-u250920-fr3.jpg" crc="3916413034" ref="final-version"/>
-    <file name="ubw_frame3_pink-u250918-fr3.jpg" crc="375261662" ref="final-version"/>
-    <file name="ubw_frame4_pink-u250917-fr3.jpg" crc="65386488" ref="final-version"/>
-    <file name="ubw_frame1_grey-u250892-fr3.jpg" crc="152124299" ref="final-version"/>
-    <file name="ubw_frame2_grey-u250893-fr3.jpg" crc="428140072" ref="final-version"/>
-    <file name="ubw_frame3_grey-u250894-fr3.jpg" crc="3784408258" ref="final-version"/>
-    <file name="ubw_frame4_grey-u250895-fr3.jpg" crc="4129826389" ref="final-version"/>
-    <file name="ubw_frame1_blue-u250870-fr3.jpg" crc="4277512286" ref="final-version"/>
-    <file name="ubw_frame2_blue-u250868-fr3.jpg" crc="3969487664" ref="final-version"/>
-    <file name="ubw_frame3_blue-u250867-fr3.jpg" crc="320178760" ref="final-version"/>
-    <file name="ubw_frame4_blue-u250869-fr3.jpg" crc="178790321" ref="final-version"/>
-    <file name="black swatch_black-u250928-fr2.png" crc="3943232462" ref="final-version"/>
-    <file name="black swatch inactive_black-u250928-r-fr2.png" crc="3826747545" ref="final-version"/>
-    <file name="black swatch active_black-u250928-a-fr2.png" crc="200576842" ref="final-version"/>
-    <file name="pink swatch_pink-u250926-fr2.png" crc="3864168835" ref="final-version"/>
-    <file name="pink swatch inactive_pink-u250926-r-fr2.png" crc="252430204" ref="final-version"/>
-    <file name="pink swatch active_pink-u250926-a-fr2.png" crc="4177922025" ref="final-version"/>
-    <file name="grey swatch_grey-u250929-fr2.png" crc="3856403382" ref="final-version"/>
-    <file name="grey swatch inactive_grey-u250929-r-fr2.png" crc="3981853787" ref="final-version"/>
-    <file name="grey swatch active_grey-u250929-a-fr2.png" crc="429840545" ref="final-version"/>
-    <file name="blue swatch_blue-u250927-fr2.png" crc="3877509506" ref="final-version"/>
-    <file name="blue swatch inactive_blue-u250927-r-fr2.png" crc="163329066" ref="final-version"/>
-    <file name="blue swatch active_blue-u250927-a-fr2.png" crc="3924708516" ref="final-version"/>
-    <file name="el_frame1_mobile_grey-u113455-fr3.jpg" crc="3984596062" ref="final-version"/>
-    <file name="el_frame2 -mobile_grey-u113453-fr3.jpg" crc="525061248" ref="final-version"/>
-    <file name="el_frame3-mobile_grey-u113452-fr3.jpg" crc="3882591064" ref="final-version"/>
-    <file name="el_frame4-mobile_grey-u113454-fr3.jpg" crc="3774123996" ref="final-version"/>
-    <file name="el_frame1_mobile_pink-u113440-fr3.jpg" crc="3928570007" ref="final-version"/>
-    <file name="el_frame2 -mobile_pink-u113441-fr3.jpg" crc="407731860" ref="final-version"/>
-    <file name="el_frame3-mobile_pink-u113439-fr3.jpg" crc="3761877005" ref="final-version"/>
-    <file name="el_frame4-mobile_pink-u113442-fr3.jpg" crc="3904506432" ref="final-version"/>
-    <file name="black swatch-u113424-fr2.png" crc="82236178" ref="final-version"/>
-    <file name="black swatch inactive-u113424-r-fr2.png" crc="53181946" ref="final-version"/>
-    <file name="black swatch active-u113424-a-fr2.png" crc="314985263" ref="final-version"/>
-    <file name="pink swatch-u113425-fr2.png" crc="534227796" ref="final-version"/>
-    <file name="pink swatch inactive-u113425-r-fr2.png" crc="137646554" ref="final-version"/>
-    <file name="pink swatch active-u113425-a-fr2.png" crc="4161828389" ref="final-version"/>
-    <file name="doublebanner-100-u65767-fr2.jpg" crc="4208250556" ref="final-version"/>
-    <file name="u63892-8.png" crc="3896607462" ref="final-version"/>
-    <file name="shoe_windows-crop-u659734.jpg" crc="4022639345" seo="true" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="ubwomen_icon-crop-u659604.jpg" crc="3999626976" seo="true" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="single-crop-u659644.jpg" crc="4265512827" seo="true" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="running_ss18_edgelux_women_cq1239_ftw_1-crop-u659554.jpg" crc="368507546" seo="true" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="ab_frame1-u245881-fr4.jpg" crc="4118816546" ref="final-version"/>
-    <file name="ab_frame2-u245884-fr4.jpg" crc="169508054" ref="final-version"/>
-    <file name="ab_frame3-u245882-fr4.jpg" crc="4189456882" ref="final-version"/>
-    <file name="ab_frame4-u245883-fr4.jpg" crc="3985283548" ref="final-version"/>
-    <file name="ab_frame1_blue-u245866-fr4.jpg" crc="142720624" ref="final-version"/>
-    <file name="ab_frame2_blue-u245864-fr4.jpg" crc="3832713287" ref="final-version"/>
-    <file name="ab_frame3_blue-u245865-fr4.jpg" crc="3925076285" ref="final-version"/>
-    <file name="ab_frame4_blue-u245863-fr4.jpg" crc="4044194142" ref="final-version"/>
-    <file name="ab_frame1_black-u245843-fr4.jpg" crc="3769272915" ref="final-version"/>
-    <file name="ab_frame2_black-u245844-fr4.jpg" crc="382678070" ref="final-version"/>
-    <file name="ab_frame3_black-u245846-fr4.jpg" crc="229504539" ref="final-version"/>
-    <file name="ab_frame4_black-u245845-fr4.jpg" crc="3795558515" ref="final-version"/>
-    <file name="ab_frame1_olive-u245909-fr4.jpg" crc="491312519" ref="final-version"/>
-    <file name="ab_frame2_olive-u245911-fr4.jpg" crc="117696771" ref="final-version"/>
-    <file name="ab_frame3_olive-u245908-fr4.jpg" crc="4222980276" ref="final-version"/>
-    <file name="ab_frame4_olive-u245910-fr4.jpg" crc="4071634015" ref="final-version"/>
-    <file name="blue swatch-u245836-fr3.png" crc="3925879454" ref="final-version"/>
-    <file name="blue swatch inactive-u245836-r-fr3.png" crc="4286991292" ref="final-version"/>
-    <file name="blue swatch active-u245836-a-fr3.png" crc="3761862327" ref="final-version"/>
-    <file name="shoe_butterfly381x286.png" crc="4024079884" seo="true" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="ab_new_gif.gif" crc="4259669996" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="ub_m_inactive-u250837-fr3.jpg" crc="4048540895" ref="final-version"/>
-    <file name="ub_m_active-u250837-r-fr3.jpg" crc="357585254" ref="final-version"/>
-    <file name="ub_m_active_1-u250836-fr3.jpg" crc="174509062" ref="final-version"/>
-    <file name="ub_w_active-u250836-r-fr3.jpg" crc="191395982" ref="final-version"/>
-    <file name="ub_frame1_black-u250950-fr4.jpg" crc="19705737" ref="final-version"/>
-    <file name="ub_frame2_black-u250948-fr4.jpg" crc="4150501279" ref="final-version"/>
-    <file name="ub_frame3_black-u250949-fr4.jpg" crc="4286568260" ref="final-version"/>
-    <file name="ub_frame4_black-u250951-fr4.jpg" crc="3812692071" ref="final-version"/>
-    <file name="ub_frame1_blue-u250980-fr4.jpg" crc="4196451610" ref="final-version"/>
-    <file name="ub_frame2_blue-u250977-fr4.jpg" crc="448254723" ref="final-version"/>
-    <file name="ub_frame3_blue-u250978-fr4.jpg" crc="4073114251" ref="final-version"/>
-    <file name="ub_frame4_blue-u250979-fr4.jpg" crc="189709384" ref="final-version"/>
-    <file name="ab_frame4_blue-u250979-r-fr.jpg" crc="3917685389" ref="final-version"/>
-    <file name="ub_frame1_grey-u250992-fr4.jpg" crc="226169592" ref="final-version"/>
-    <file name="ub_frame2_grey-u250991-fr4.jpg" crc="4239259751" ref="final-version"/>
-    <file name="ub_frame3_grey-u250993-fr4.jpg" crc="4229764329" ref="final-version"/>
-    <file name="ub_frame4_grey-u250994-fr4.jpg" crc="330667910" ref="final-version"/>
-    <file name="ub_frame1_white-u251011-fr4.jpg" crc="19758510" ref="final-version"/>
-    <file name="ub_frame2_white-u251012-fr4.jpg" crc="207276395" ref="final-version"/>
-    <file name="ub_frame3_white-u251014-fr4.jpg" crc="188042798" ref="final-version"/>
-    <file name="ub_frame4_white-u251013-fr4.jpg" crc="4232928643" ref="final-version"/>
-    <file name="blue swatch_blue-u250937-fr3.png" crc="112225673" ref="final-version"/>
-    <file name="blue swatch inactive_blue-u250937-r-fr3.png" crc="249383292" ref="final-version"/>
-    <file name="blue swatch active_blue-u250937-a-fr3.png" crc="4236379746" ref="final-version"/>
-    <file name="grey swatch inactive_grey-u250938-r-fr3.png" crc="4176325526" ref="final-version"/>
-    <file name="grey swatch active_grey-u250938-a-fr3.png" crc="4129290736" ref="final-version"/>
-    <file name="ubw_frame1_black-u250886-fr4.jpg" crc="202470174" ref="final-version"/>
-    <file name="ubw_frame2_black-u250885-fr4.jpg" crc="3887284179" ref="final-version"/>
-    <file name="ubw_frame3_black-u250884-fr4.jpg" crc="313470413" ref="final-version"/>
-    <file name="ubw_frame4_black-u250883-fr4.jpg" crc="4100715575" ref="final-version"/>
-    <file name="ubw_frame1_pink-u250919-fr4.jpg" crc="352042320" ref="final-version"/>
-    <file name="ubw_frame2_pink-u250920-fr4.jpg" crc="209853715" ref="final-version"/>
-    <file name="ubw_frame3_pink-u250918-fr4.jpg" crc="336127781" ref="final-version"/>
-    <file name="ubw_frame4_pink-u250917-fr4.jpg" crc="3882111639" ref="final-version"/>
-    <file name="ubw_frame1_grey-u250892-fr4.jpg" crc="4090457998" ref="final-version"/>
-    <file name="ubw_frame2_grey-u250893-fr4.jpg" crc="4170031616" ref="final-version"/>
-    <file name="ubw_frame3_grey-u250894-fr4.jpg" crc="127558355" ref="final-version"/>
-    <file name="ubw_frame4_grey-u250895-fr4.jpg" crc="313268328" ref="final-version"/>
-    <file name="ubw_frame1_blue-u250870-fr4.jpg" crc="3791814295" ref="final-version"/>
-    <file name="ubw_frame2_blue-u250868-fr4.jpg" crc="239273769" ref="final-version"/>
-    <file name="ubw_frame3_blue-u250867-fr4.jpg" crc="503864878" ref="final-version"/>
-    <file name="ubw_frame4_blue-u250869-fr4.jpg" crc="4142286088" ref="final-version"/>
-    <file name="pink swatch_pink-u250926-fr3.png" crc="182839245" ref="final-version"/>
-    <file name="pink swatch inactive_pink-u250926-r-fr3.png" crc="4160640879" ref="final-version"/>
-    <file name="pink swatch active_pink-u250926-a-fr3.png" crc="498289608" ref="final-version"/>
-    <file name="el_frame1_mobile_grey-u113455-fr4.jpg" crc="3788517909" ref="final-version"/>
-    <file name="el_frame2 -mobile_grey-u113453-fr4.jpg" crc="131833831" ref="final-version"/>
-    <file name="el_frame3-mobile_grey-u113452-fr4.jpg" crc="73034861" ref="final-version"/>
-    <file name="el_frame4-mobile_grey-u113454-fr4.jpg" crc="3930726202" ref="final-version"/>
-    <file name="el_frame1_mobile_pink-u113440-fr4.jpg" crc="3901047319" ref="final-version"/>
-    <file name="el_frame2 -mobile_pink-u113441-fr4.jpg" crc="53734229" ref="final-version"/>
-    <file name="el_frame3-mobile_pink-u113439-fr4.jpg" crc="3841944382" ref="final-version"/>
-    <file name="el_frame4-mobile_pink-u113442-fr4.jpg" crc="3945848449" ref="final-version"/>
-    <file name="black swatch-u113424-fr3.png" crc="430141640" ref="final-version"/>
-    <file name="black swatch inactive-u113424-r-fr3.png" crc="3760016356" ref="final-version"/>
-    <file name="black swatch active-u113424-a-fr3.png" crc="282775737" ref="final-version"/>
-    <file name="pink swatch-u113425-fr3.png" crc="3922134925" ref="final-version"/>
-    <file name="pink swatch inactive-u113425-r-fr3.png" crc="3871957906" ref="final-version"/>
-    <file name="pink swatch active-u113425-a-fr3.png" crc="4217070004" ref="final-version"/>
-    <file name="el_new_gif.gif" crc="511951641" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="2_men_banner.jpg" crc="234059030" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="2_women_banner.jpg" crc="4252518727" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="ocean_mobile.gif" crc="3989476768" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="bw_sq-u59690-fr.jpg" crc="4129350331" ref="final-version"/>
-    <file name="u63892-82.png" crc="60089271" ref="final-version"/>
-    <file name="shoe_windows-crop-u659735.jpg" crc="4290255155" seo="true" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="ubwomen_icon-crop-u659605.jpg" crc="3882836507" seo="true" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="single-crop-u659645.jpg" crc="114297333" seo="true" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="running_ss18_edgelux_women_cq1239_ftw_1-crop-u659555.jpg" crc="233835383" seo="true" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="shoe_butterfly280x210.png" crc="398933326" seo="true" ref="final-version">
-      <caption webpage="final-version" alt=""/>
-    </file>
-    <file name="ab_frame1-u245881-fr5.jpg" crc="4139258734" ref="final-version"/>
-    <file name="ab_frame2-u245884-fr5.jpg" crc="4185549836" ref="final-version"/>
-    <file name="ab_frame3-u245882-fr5.jpg" crc="4077958229" ref="final-version"/>
-    <file name="ab_frame4-u245883-fr5.jpg" crc="3927517430" ref="final-version"/>
-    <file name="ab_frame1_blue-u245866-fr5.jpg" crc="4176576642" ref="final-version"/>
-    <file name="ab_frame2_blue-u245864-fr5.jpg" crc="317782337" ref="final-version"/>
-    <file name="ab_frame3_blue-u245865-fr5.jpg" crc="3791257601" ref="final-version"/>
-    <file name="ab_frame4_blue-u245863-fr5.jpg" crc="261908694" ref="final-version"/>
-    <file name="ab_frame1_black-u245843-fr5.jpg" crc="3938428568" ref="final-version"/>
-    <file name="ab_frame2_black-u245844-fr5.jpg" crc="513502822" ref="final-version"/>
-    <file name="ab_frame3_black-u245846-fr5.jpg" crc="3818221478" ref="final-version"/>
-    <file name="ab_frame4_black-u245845-fr5.jpg" crc="216018907" ref="final-version"/>
-    <file name="ab_frame1_olive-u245909-fr5.jpg" crc="419871441" ref="final-version"/>
-    <file name="ab_frame2_olive-u245911-fr5.jpg" crc="4189603277" ref="final-version"/>
-    <file name="ab_frame3_olive-u245908-fr5.jpg" crc="4016348504" ref="final-version"/>
-    <file name="ab_frame4_olive-u245910-fr5.jpg" crc="201527280" ref="final-version"/>
-    <file name="red swatch-u245835-fr3.png" crc="101039055" ref="final-version"/>
-    <file name="red swatch inactive-u245835-r-fr3.png" crc="448688414" ref="final-version"/>
-    <file name="red swatch active-u245835-a-fr3.png" crc="500000575" ref="final-version"/>
-    <file name="blue swatch-u245836-fr4.png" crc="153476058" ref="final-version"/>
-    <file name="blue swatch inactive-u245836-r-fr4.png" crc="416303496" ref="final-version"/>
-    <file name="blue swatch active-u245836-a-fr4.png" crc="4106994930" ref="final-version"/>
-    <file name="black swatch-u245837-fr3.png" crc="503305934" ref="final-version"/>
-    <file name="black swatch inactive-u245837-r-fr3.png" crc="4264292320" ref="final-version"/>
-    <file name="black swatch active-u245837-a-fr3.png" crc="53255655" ref="final-version"/>
-    <file name="olive swatch-u245838-fr3.png" crc="3963862919" ref="final-version"/>
-    <file name="olive swatch inactive-u245838-r-fr3.png" crc="98307132" ref="final-version"/>
-    <file name="olive swatch active-u245838-a-fr3.png" crc="318662395" ref="final-version"/>
-    <file name="ub_m_inactive-u250837-fr4.jpg" crc="3847288911" ref="final-version"/>
-    <file name="ub_m_active-u250837-r-fr4.jpg" crc="4192452573" ref="final-version"/>
-    <file name="ub_m_active_1-u250836-fr4.jpg" crc="128662535" ref="final-version"/>
-    <file name="ub_w_active-u250836-r-fr4.jpg" crc="4080422476" ref="final-version"/>
-    <file name="ub_frame1_black-u250950-fr5.jpg" crc="4039678734" ref="final-version"/>
-    <file name="ub_frame2_black-u250948-fr5.jpg" crc="263843665" ref="final-version"/>
-    <file name="ub_frame3_black-u250949-fr5.jpg" crc="207118190" ref="final-version"/>
-    <file name="ub_frame4_black-u250951-fr5.jpg" crc="4103287039" ref="final-version"/>
-    <file name="ub_frame1_blue-u250980-fr5.jpg" crc="301235892" ref="final-version"/>
-    <file name="ub_frame2_blue-u250977-fr5.jpg" crc="139703984" ref="final-version"/>
-    <file name="ub_frame3_blue-u250978-fr5.jpg" crc="2414765" ref="final-version"/>
-    <file name="ub_frame4_blue-u250979-fr5.jpg" crc="3927135038" ref="final-version"/>
-    <file name="ab_frame4_blue-u250979-r-fr2.jpg" crc="4017818523" ref="final-version"/>
-    <file name="ub_frame1_grey-u250992-fr5.jpg" crc="3771428172" ref="final-version"/>
-    <file name="ub_frame2_grey-u250991-fr5.jpg" crc="517867627" ref="final-version"/>
-    <file name="ub_frame3_grey-u250993-fr5.jpg" crc="194318950" ref="final-version"/>
-    <file name="ub_frame4_grey-u250994-fr5.jpg" crc="434960693" ref="final-version"/>
-    <file name="ub_frame1_white-u251011-fr5.jpg" crc="127505871" ref="final-version"/>
-    <file name="ub_frame2_white-u251012-fr5.jpg" crc="3908631479" ref="final-version"/>
-    <file name="ub_frame3_white-u251014-fr5.jpg" crc="4170289448" ref="final-version"/>
-    <file name="ub_frame4_white-u251013-fr5.jpg" crc="338807312" ref="final-version"/>
-    <file name="black swatch_black-u250939-fr3.png" crc="261599277" ref="final-version"/>
-    <file name="black swatch inactive_black-u250939-r-fr3.png" crc="4251259153" ref="final-version"/>
-    <file name="black swatch active_black-u250939-a-fr3.png" crc="129810330" ref="final-version"/>
-    <file name="blue swatch_blue-u250937-fr4.png" crc="4096149236" ref="final-version"/>
-    <file name="blue swatch inactive_blue-u250937-r-fr4.png" crc="496206385" ref="final-version"/>
-    <file name="blue swatch active_blue-u250937-a-fr4.png" crc="3772733698" ref="final-version"/>
-    <file name="grey swatch inactive_grey-u250938-r-fr4.png" crc="506323257" ref="final-version"/>
-    <file name="grey swatch active_grey-u250938-a-fr4.png" crc="494872360" ref="final-version"/>
-    <file name="white swatch_white-u250936-fr3.png" crc="516283849" ref="final-version"/>
-    <file name="white swatch inactive_white-u250936-r-fr3.png" crc="4096822462" ref="final-version"/>
-    <file name="ubw_frame1_black-u250886-fr5.jpg" crc="47038702" ref="final-version"/>
-    <file name="ubw_frame2_black-u250885-fr5.jpg" crc="155766746" ref="final-version"/>
-    <file name="ubw_frame3_black-u250884-fr5.jpg" crc="332374079" ref="final-version"/>
-    <file name="ubw_frame4_black-u250883-fr5.jpg" crc="180343528" ref="final-version"/>
-    <file name="ubw_frame1_pink-u250919-fr5.jpg" crc="4084170881" ref="final-version"/>
-    <file name="ubw_frame2_pink-u250920-fr5.jpg" crc="4000218147" ref="final-version"/>
-    <file name="ubw_frame3_pink-u250918-fr5.jpg" crc="232185993" ref="final-version"/>
-    <file name="ubw_frame4_pink-u250917-fr5.jpg" crc="3916818122" ref="final-version"/>
-    <file name="ubw_frame1_grey-u250892-fr5.jpg" crc="163519337" ref="final-version"/>
-    <file name="ubw_frame2_grey-u250893-fr5.jpg" crc="145716205" ref="final-version"/>
-    <file name="ubw_frame3_grey-u250894-fr5.jpg" crc="337987567" ref="final-version"/>
-    <file name="ubw_frame4_grey-u250895-fr5.jpg" crc="79114491" ref="final-version"/>
-    <file name="ubw_frame1_blue-u250870-fr5.jpg" crc="3835103619" ref="final-version"/>
-    <file name="ubw_frame2_blue-u250868-fr5.jpg" crc="4279869263" ref="final-version"/>
-    <file name="ubw_frame3_blue-u250867-fr5.jpg" crc="223463960" ref="final-version"/>
-    <file name="ubw_frame4_blue-u250869-fr5.jpg" crc="3848214468" ref="final-version"/>
-    <file name="black swatch_black-u250928-fr3.png" crc="4155110551" ref="final-version"/>
-    <file name="black swatch inactive_black-u250928-r-fr3.png" crc="388534088" ref="final-version"/>
-    <file name="black swatch active_black-u250928-a-fr3.png" crc="81171039" ref="final-version"/>
-    <file name="pink swatch_pink-u250926-fr4.png" crc="4014487257" ref="final-version"/>
-    <file name="pink swatch inactive_pink-u250926-r-fr4.png" crc="7387210" ref="final-version"/>
-    <file name="pink swatch active_pink-u250926-a-fr4.png" crc="4014705212" ref="final-version"/>
-    <file name="grey swatch_grey-u250929-fr3.png" crc="3941012375" ref="final-version"/>
-    <file name="grey swatch inactive_grey-u250929-r-fr3.png" crc="283729866" ref="final-version"/>
-    <file name="grey swatch active_grey-u250929-a-fr3.png" crc="4263106417" ref="final-version"/>
-    <file name="blue swatch_blue-u250927-fr3.png" crc="105077393" ref="final-version"/>
-    <file name="blue swatch inactive_blue-u250927-r-fr3.png" crc="4185628325" ref="final-version"/>
-    <file name="blue swatch active_blue-u250927-a-fr3.png" crc="512022490" ref="final-version"/>
-    <file name="el_circle-u125874-fr.png" crc="3870849228" ref="final-version"/>
-    <file name="el_frame1_mobile_grey-u113455-fr5.jpg" crc="4177681264" ref="final-version"/>
-    <file name="el_frame2 -mobile_grey-u113453-fr5.jpg" crc="50381257" ref="final-version"/>
-    <file name="el_frame3-mobile_grey-u113452-fr5.jpg" crc="485305026" ref="final-version"/>
-    <file name="el_frame4-mobile_grey-u113454-fr5.jpg" crc="4030546197" ref="final-version"/>
-    <file name="el_frame1_mobile_pink-u113440-fr5.jpg" crc="53952952" ref="final-version"/>
-    <file name="el_frame2 -mobile_pink-u113441-fr5.jpg" crc="3805568017" ref="final-version"/>
-    <file name="el_frame3-mobile_pink-u113439-fr5.jpg" crc="260588229" ref="final-version"/>
-    <file name="el_frame4-mobile_pink-u113442-fr5.jpg" crc="46583597" ref="final-version"/>
-    <file name="black swatch-u113424-fr4.png" crc="40627123" ref="final-version"/>
-    <file name="black swatch inactive-u113424-r-fr4.png" crc="4106510237" ref="final-version"/>
-    <file name="black swatch active-u113424-a-fr4.png" crc="3815032816" ref="final-version"/>
-    <file name="pink swatch-u113425-fr4.png" crc="21045353" ref="final-version"/>
-    <file name="pink swatch inactive-u113425-r-fr4.png" crc="4217200349" ref="final-version"/>
-    <file name="pink swatch active-u113425-a-fr4.png" crc="4174336596" ref="final-version"/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ub_m_inactive.jpg" crc="3920917648" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ub_m_active.jpg" crc="416293227" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ub_m_active_1.jpg" crc="3914224424" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ub_w_active.jpg" crc="4088526435" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ub_frame1_black-u250950-fr.jpg" crc="124803950" ref="index"/>
+    <file name="ub_frame2_black-u250948-fr.jpg" crc="531496961" ref="index"/>
+    <file name="ub_frame3_black-u250949-fr.jpg" crc="147887981" ref="index"/>
+    <file name="ub_frame4_black-u250951-fr.jpg" crc="405037851" ref="index"/>
+    <file name="boost_off_black.svg" crc="152372067" ref="index"/>
+    <file name="boost_off_black_poster_u182554.png" crc="4184671924" ref="index"/>
+    <file name="boost_on_black.svg" crc="364114479" ref="index"/>
+    <file name="boost_on_black_poster_u182562.png" crc="189123497" ref="index"/>
+    <file name="knit_off_black.svg" crc="3942425471" ref="index"/>
+    <file name="knit_off_black_poster_u182538.png" crc="360898721" ref="index"/>
+    <file name="knit_on_black.svg" crc="197124960" ref="index"/>
+    <file name="knit_on_black_poster_u182546.png" crc="19251731" ref="index"/>
+    <file name="outsole_off_black2.svg" crc="228514250" ref="index"/>
+    <file name="outsole_off_black_poster_u182522.png" crc="3972786383" ref="index"/>
+    <file name="outsole_on_black2.svg" crc="158347327" ref="index"/>
+    <file name="outsole_on_black_poster_u182530.png" crc="195739218" ref="index"/>
+    <file name="heel_off_black2.svg" crc="99745009" ref="index"/>
+    <file name="heel_off_black_poster_u182506.png" crc="4003785342" ref="index"/>
+    <file name="heel_on_black2.svg" crc="328327768" ref="index"/>
+    <file name="heel_on_black_poster_u182514.png" crc="383123781" ref="index"/>
+    <file name="ub_frame1_blue-u250980-fr.jpg" crc="3983350133" ref="index"/>
+    <file name="ub_frame2_blue-u250977-fr.jpg" crc="3826471298" ref="index"/>
+    <file name="ub_frame3_blue-u250978-fr.jpg" crc="333068840" ref="index"/>
+    <file name="ub_frame4_blue-u250979-fr.jpg" crc="4024254676" ref="index"/>
+    <file name="boost_off_blue.svg" crc="189317000" ref="index"/>
+    <file name="boost_off_blue_poster_u182490.png" crc="394128114" ref="index"/>
+    <file name="boost_on_blue.svg" crc="3912876242" ref="index"/>
+    <file name="boost_on_blue_poster_u182498.png" crc="4161024937" ref="index"/>
+    <file name="knit_off_blue.svg" crc="3975185463" ref="index"/>
+    <file name="knit_off_blue_poster_u182474.png" crc="4263057482" ref="index"/>
+    <file name="knit_on_blue.svg" crc="3911339133" ref="index"/>
+    <file name="knit_on_blue_poster_u182482.png" crc="4006540799" ref="index"/>
+    <file name="outsole_off_blue2.svg" crc="3765260768" ref="index"/>
+    <file name="outsole_off_blue_poster_u182458.png" crc="223110838" ref="index"/>
+    <file name="outsole_on_blue2.svg" crc="43597737" ref="index"/>
+    <file name="outsole_on_blue_poster_u182466.png" crc="3920290661" ref="index"/>
+    <file name="heel_off_blue2.svg" crc="4203663757" ref="index"/>
+    <file name="heel_off_blue_poster_u182442.png" crc="249110560" ref="index"/>
+    <file name="heel_on_blue2.svg" crc="4089154801" ref="index"/>
+    <file name="heel_on_blue_poster_u182450.png" crc="3943541565" ref="index"/>
+    <file name="ub_frame1_white-u251011-fr.jpg" crc="3885144237" ref="index"/>
+    <file name="ub_frame2_white-u251012-fr.jpg" crc="39775356" ref="index"/>
+    <file name="ub_frame3_white-u251014-fr.jpg" crc="4075653720" ref="index"/>
+    <file name="ub_frame4_white-u251013-fr.jpg" crc="283129227" ref="index"/>
+    <file name="boost_off_white.svg" crc="340303307" ref="index"/>
+    <file name="boost_off_white_poster_u182362.png" crc="407328227" ref="index"/>
+    <file name="boost_on_white.svg" crc="177675789" ref="index"/>
+    <file name="boost_on_white_poster_u182370.png" crc="3918656871" ref="index"/>
+    <file name="knit_off_white.svg" crc="277131928" ref="index"/>
+    <file name="knit_off_white_poster_u182346.png" crc="3987046013" ref="index"/>
+    <file name="knit_on_white.svg" crc="403343744" ref="index"/>
+    <file name="knit_on_white_poster_u182354.png" crc="4165631267" ref="index"/>
+    <file name="outsole_off_white.svg" crc="508015436" ref="index"/>
+    <file name="outsole_off_white_poster_u182330.png" crc="4176078195" ref="index"/>
+    <file name="outsole_on_white.svg" crc="486144025" ref="index"/>
+    <file name="outsole_on_white_poster_u182338.png" crc="445011136" ref="index"/>
+    <file name="heel_on_white.svg" crc="125201426" ref="index"/>
+    <file name="heel_on_white_poster_u182322.png" crc="327491219" ref="index"/>
+    <file name="black swatch_black.png" crc="210089894" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="black swatch inactive_black.png" crc="437706710" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="black swatch active_black.png" crc="210815100" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blue swatch_blue.png" crc="4184219691" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blue swatch inactive_blue.png" crc="3790836393" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blue swatch active_blue.png" crc="3856064320" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="white swatch_white.png" crc="3776110633" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="white swatch inactive_white.png" crc="292239284" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="white swatch active_white.svg" crc="3810162447" ref="index"/>
+    <file name="white swatch active_white_poster_u68911.png" crc="484042926" ref="index"/>
+    <file name="ubw_frame1_black-u250886-fr.jpg" crc="218409161" ref="index"/>
+    <file name="ubw_frame2_black-u250885-fr.jpg" crc="4223787441" ref="index"/>
+    <file name="ubw_frame3_black-u250884-fr.jpg" crc="406073296" ref="index"/>
+    <file name="ubw_frame4_black-u250883-fr.jpg" crc="132919259" ref="index"/>
+    <file name="ubw_frame1_pink-u250919-fr.jpg" crc="4040161505" ref="index"/>
+    <file name="ubw_frame2_pink-u250920-fr.jpg" crc="118400483" ref="index"/>
+    <file name="ubw_frame3_pink-u250918-fr.jpg" crc="3903770830" ref="index"/>
+    <file name="ubw_frame4_pink-u250917-fr.jpg" crc="390749316" ref="index"/>
+    <file name="boost_off_w_pink.svg" crc="215050074" ref="index"/>
+    <file name="boost_off_w_pink_poster_u182306.png" crc="418251902" ref="index"/>
+    <file name="boost_on_w_pink.svg" crc="431686585" ref="index"/>
+    <file name="boost_on_w_pink_poster_u182314.png" crc="4028707408" ref="index"/>
+    <file name="knit_off_w_pink.svg" crc="373609419" ref="index"/>
+    <file name="knit_off_w_pink_poster_u182290.png" crc="4119394313" ref="index"/>
+    <file name="knit_on_w_pink.svg" crc="243564938" ref="index"/>
+    <file name="knit_on_w_pink_poster_u182298.png" crc="273860751" ref="index"/>
+    <file name="outsole_off_w_pink.svg" crc="169500194" ref="index"/>
+    <file name="outsole_off_w_pink_poster_u182274.png" crc="311145987" ref="index"/>
+    <file name="outsole_on_w_pink.svg" crc="143153309" ref="index"/>
+    <file name="outsole_on_w_pink_poster_u182282.png" crc="3969394849" ref="index"/>
+    <file name="heel_off_w_pink.svg" crc="416518877" ref="index"/>
+    <file name="heel_off_w_pink_poster_u182258.png" crc="300118818" ref="index"/>
+    <file name="heel_on_w_pink.svg" crc="3999952007" ref="index"/>
+    <file name="heel_on_w_pink_poster_u182266.png" crc="413174809" ref="index"/>
+    <file name="ubw_frame1_grey-u250892-fr.jpg" crc="234533754" ref="index"/>
+    <file name="ubw_frame2_grey-u250893-fr.jpg" crc="372757749" ref="index"/>
+    <file name="ubw_frame3_grey-u250894-fr.jpg" crc="311858766" ref="index"/>
+    <file name="ubw_frame4_grey-u250895-fr.jpg" crc="359208498" ref="index"/>
+    <file name="boost_off_grey.svg" crc="3994701922" ref="index"/>
+    <file name="boost_off_grey_poster_u182426.png" crc="4134778724" ref="index"/>
+    <file name="boost_on_grey.svg" crc="4087088988" ref="index"/>
+    <file name="boost_on_grey_poster_u182434.png" crc="4221772839" ref="index"/>
+    <file name="boost_on_w_grey.svg" crc="3999940644" ref="index"/>
+    <file name="boost_on_w_grey_poster_u182250.png" crc="4025559691" ref="index"/>
+    <file name="knit_off_grey.svg" crc="3874499973" ref="index"/>
+    <file name="knit_off_grey_poster_u182410.png" crc="3897145371" ref="index"/>
+    <file name="knit_on_grey.svg" crc="211860273" ref="index"/>
+    <file name="knit_on_grey_poster_u182418.png" crc="77336281" ref="index"/>
+    <file name="knit_on_w_grey.svg" crc="335365995" ref="index"/>
+    <file name="knit_on_w_grey_poster_u182242.png" crc="3839952127" ref="index"/>
+    <file name="outsole_off_grey.svg" crc="4157416979" ref="index"/>
+    <file name="outsole_off_grey_poster_u182394.png" crc="3826840883" ref="index"/>
+    <file name="outsole_on_grey.svg" crc="3891901892" ref="index"/>
+    <file name="outsole_on_grey_poster_u182402.png" crc="185643147" ref="index"/>
+    <file name="outsole_on_w_grey.svg" crc="135991314" ref="index"/>
+    <file name="outsole_on_w_grey_poster_u182234.png" crc="357831651" ref="index"/>
+    <file name="heel_off_grey.svg" crc="433856869" ref="index"/>
+    <file name="heel_off_grey_poster_u182378.png" crc="4223291964" ref="index"/>
+    <file name="heel_on_grey.svg" crc="460517205" ref="index"/>
+    <file name="heel_on_grey_poster_u182386.png" crc="401374802" ref="index"/>
+    <file name="heel_on_w_grey.svg" crc="4234668799" ref="index"/>
+    <file name="heel_on_w_grey_poster_u182226.png" crc="3942021908" ref="index"/>
+    <file name="ubw_frame1_blue-u250870-fr.jpg" crc="174193553" ref="index"/>
+    <file name="ubw_frame2_blue-u250868-fr.jpg" crc="3908781047" ref="index"/>
+    <file name="ubw_frame3_blue-u250867-fr.jpg" crc="511807488" ref="index"/>
+    <file name="ubw_frame4_blue-u250869-fr.jpg" crc="4222441922" ref="index"/>
+    <file name="boost_off_blue2.svg" crc="4099458729" ref="index"/>
+    <file name="boost_off_blue_poster_u182210.png" crc="4175408348" ref="index"/>
+    <file name="boost_on_blue2.svg" crc="3979439908" ref="index"/>
+    <file name="boost_on_blue_poster_u182218.png" crc="3794871067" ref="index"/>
+    <file name="knit_off_blue2.svg" crc="297366114" ref="index"/>
+    <file name="knit_off_blue_poster_u182194.png" crc="503061026" ref="index"/>
+    <file name="knit_on_blue2.svg" crc="4258979880" ref="index"/>
+    <file name="knit_on_blue_poster_u182202.png" crc="202067012" ref="index"/>
+    <file name="outsole_off_blue3.svg" crc="134875767" ref="index"/>
+    <file name="outsole_off_blue_poster_u182178.png" crc="4110267861" ref="index"/>
+    <file name="outsole_on_blue3.svg" crc="451407226" ref="index"/>
+    <file name="outsole_on_blue_poster_u182186.png" crc="428630527" ref="index"/>
+    <file name="heel_off_blue3.svg" crc="4271408080" ref="index"/>
+    <file name="heel_off_blue_poster_u182162.png" crc="364467693" ref="index"/>
+    <file name="heel_on_blue3.svg" crc="4268229111" ref="index"/>
+    <file name="heel_on_blue_poster_u182170.png" crc="3983698000" ref="index"/>
+    <file name="black swatch_black2.png" crc="22852409" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="black swatch inactive_black2.png" crc="104487896" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="black swatch active_black2.png" crc="4124319803" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pink swatch_pink.png" crc="4180345973" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pink swatch inactive_pink.png" crc="4083005489" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pink swatch active_pink.png" crc="363801858" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="grey swatch_grey.png" crc="528742954" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="grey swatch inactive_grey.png" crc="278346708" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="grey swatch active_grey.png" crc="188549892" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blue swatch_blue2.png" crc="103542938" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blue swatch inactive_blue2.png" crc="410026378" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blue swatch active_blue2.png" crc="397657653" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="el_header.svg" crc="40196791" ref="index"/>
+    <file name="el_header_poster_u102755.png" crc="4133131651" ref="index"/>
+    <file name="el_circle.png" crc="4255215952" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="el_frame1_mobile_grey-u113455-fr.jpg" crc="390952649" ref="index"/>
+    <file name="el_frame2 -mobile_grey-u113453-fr.jpg" crc="4126183889" ref="index"/>
+    <file name="el_frame3-mobile_grey-u113452-fr.jpg" crc="28300134" ref="index"/>
+    <file name="el_frame4-mobile_grey-u113454-fr.jpg" crc="4115818148" ref="index"/>
+    <file name="boost_off_l_grey.svg" crc="255401625" ref="index"/>
+    <file name="boost_off_l_grey_poster_u182146.png" crc="4209152303" ref="index"/>
+    <file name="boost_on_l_grey.svg" crc="3890891897" ref="index"/>
+    <file name="boost_on_l_grey_poster_u182154.png" crc="439858160" ref="index"/>
+    <file name="knit_off_l_grey.svg" crc="4240407888" ref="index"/>
+    <file name="knit_off_l_grey_poster_u182130.png" crc="491148644" ref="index"/>
+    <file name="knit_on_l_grey.svg" crc="3941061734" ref="index"/>
+    <file name="knit_on_l_grey_poster_u182138.png" crc="361718029" ref="index"/>
+    <file name="outsole_off_l_grey.svg" crc="441997153" ref="index"/>
+    <file name="outsole_off_l_grey_poster_u182114.png" crc="4083227938" ref="index"/>
+    <file name="outsole_on_l_grey.svg" crc="4176668298" ref="index"/>
+    <file name="outsole_on_l_grey_poster_u182122.png" crc="279002354" ref="index"/>
+    <file name="heel_off_l_grey.svg" crc="3808406111" ref="index"/>
+    <file name="heel_off_l_grey_poster_u182098.png" crc="299450317" ref="index"/>
+    <file name="heel_on_l_grey.svg" crc="3865433461" ref="index"/>
+    <file name="heel_on_l_grey_poster_u182106.png" crc="3876965674" ref="index"/>
+    <file name="el_frame1_mobile_pink-u113440-fr.jpg" crc="4084590084" ref="index"/>
+    <file name="el_frame2 -mobile_pink-u113441-fr.jpg" crc="3796739899" ref="index"/>
+    <file name="el_frame3-mobile_pink-u113439-fr.jpg" crc="436411984" ref="index"/>
+    <file name="el_frame4-mobile_pink-u113442-fr.jpg" crc="49014674" ref="index"/>
+    <file name="boost_off_l_pink.svg" crc="4240922598" ref="index"/>
+    <file name="boost_off_l_pink_poster_u182082.png" crc="3966254802" ref="index"/>
+    <file name="boost_on_l_pink.svg" crc="371949348" ref="index"/>
+    <file name="boost_on_l_pink_poster_u182090.png" crc="507016884" ref="index"/>
+    <file name="knit_off_l_pink.svg" crc="4258704379" ref="index"/>
+    <file name="knit_off_l_pink_poster_u182066.png" crc="4280106529" ref="index"/>
+    <file name="knit_on_l_pink.svg" crc="334680484" ref="index"/>
+    <file name="knit_on_l_pink_poster_u182074.png" crc="501335472" ref="index"/>
+    <file name="outsole_off_l_pink.svg" crc="31688398" ref="index"/>
+    <file name="outsole_off_l_pink_poster_u182050.png" crc="3993226739" ref="index"/>
+    <file name="outsole_on_l_pink.svg" crc="155989874" ref="index"/>
+    <file name="outsole_on_l_pink_poster_u182058.png" crc="527845507" ref="index"/>
+    <file name="heel_off_l_pink.svg" crc="4268998641" ref="index"/>
+    <file name="heel_off_l_pink_poster_u182034.png" crc="4258891562" ref="index"/>
+    <file name="heel_on_l_pink.svg" crc="316438093" ref="index"/>
+    <file name="heel_on_l_pink_poster_u182042.png" crc="292952957" ref="index"/>
+    <file name="black swatch2.png" crc="3774590143" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="black swatch inactive2.png" crc="310455735" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="black swatch active2.png" crc="3891556055" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pink swatch.png" crc="371483394" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pink swatch inactive.png" crc="3962649886" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pink swatch active.png" crc="3848981207" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="doublebanner-100.jpg" crc="480534960" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shoe_windows-crop-u659732.jpg" crc="3801050207" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="single-crop-u659642.jpg" crc="523173604" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ubwomen_icon-crop-u659602.jpg" crc="167425411" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="running_ss18_edgelux_women_cq1239_ftw_1-crop-u659552.jpg" crc="275020454" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shoe_butterfly504x377.png" crc="4230088347" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ab_frame1-u245881-fr2.jpg" crc="3999744858" ref="index"/>
+    <file name="ab_frame2-u245884-fr2.jpg" crc="267526825" ref="index"/>
+    <file name="ab_frame3-u245882-fr2.jpg" crc="276233890" ref="index"/>
+    <file name="ab_frame4-u245883-fr2.jpg" crc="3771298916" ref="index"/>
+    <file name="ab_frame1_blue-u245866-fr2.jpg" crc="104822540" ref="index"/>
+    <file name="ab_frame2_blue-u245864-fr2.jpg" crc="2265045" ref="index"/>
+    <file name="ab_frame3_blue-u245865-fr2.jpg" crc="152940099" ref="index"/>
+    <file name="ab_frame4_blue-u245863-fr2.jpg" crc="323672207" ref="index"/>
+    <file name="ab_frame1_black-u245843-fr2.jpg" crc="3885840154" ref="index"/>
+    <file name="ab_frame2_black-u245844-fr2.jpg" crc="533507117" ref="index"/>
+    <file name="ab_frame3_black-u245846-fr2.jpg" crc="3862328074" ref="index"/>
+    <file name="ab_frame4_black-u245845-fr2.jpg" crc="508626245" ref="index"/>
+    <file name="ab_frame1_olive-u245909-fr2.jpg" crc="4075711480" ref="index"/>
+    <file name="ab_frame2_olive-u245911-fr2.jpg" crc="4192734923" ref="index"/>
+    <file name="ab_frame3_olive-u245908-fr2.jpg" crc="318019242" ref="index"/>
+    <file name="ab_frame4_olive-u245910-fr2.jpg" crc="3767715451" ref="index"/>
+    <file name="red swatch-u245835-fr.png" crc="3631945" ref="index"/>
+    <file name="red swatch inactive-u245835-r-fr.png" crc="4000046447" ref="index"/>
+    <file name="red swatch active-u245835-a-fr.png" crc="261658451" ref="index"/>
+    <file name="blue swatch-u245836-fr.png" crc="3839987142" ref="index"/>
+    <file name="blue swatch inactive-u245836-r-fr.png" crc="4085567067" ref="index"/>
+    <file name="blue swatch active-u245836-a-fr.png" crc="4234343380" ref="index"/>
+    <file name="black swatch-u245837-fr.png" crc="306468513" ref="index"/>
+    <file name="black swatch inactive-u245837-r-fr.png" crc="345384771" ref="index"/>
+    <file name="black swatch active-u245837-a-fr.png" crc="4054919530" ref="index"/>
+    <file name="olive swatch-u245838-fr.png" crc="4265673992" ref="index"/>
+    <file name="olive swatch inactive-u245838-r-fr.png" crc="3888942376" ref="index"/>
+    <file name="olive swatch active-u245838-a-fr.png" crc="116215487" ref="index"/>
+    <file name="ub_m_inactive-u250837-fr.jpg" crc="3967650958" ref="index"/>
+    <file name="ub_m_active-u250837-r-fr.jpg" crc="42978968" ref="index"/>
+    <file name="ub_m_active_1-u250836-fr.jpg" crc="137986074" ref="index"/>
+    <file name="ub_w_active-u250836-r-fr.jpg" crc="4021484380" ref="index"/>
+    <file name="ub_frame1_black-u250950-fr2.jpg" crc="3976415287" ref="index"/>
+    <file name="ub_frame2_black-u250948-fr2.jpg" crc="264308286" ref="index"/>
+    <file name="ub_frame3_black-u250949-fr2.jpg" crc="160687842" ref="index"/>
+    <file name="ub_frame4_black-u250951-fr2.jpg" crc="4014836016" ref="index"/>
+    <file name="ub_frame1_blue-u250980-fr2.jpg" crc="48688834" ref="index"/>
+    <file name="ub_frame2_blue-u250977-fr2.jpg" crc="118763549" ref="index"/>
+    <file name="ub_frame3_blue-u250978-fr2.jpg" crc="122514281" ref="index"/>
+    <file name="ub_frame4_blue-u250979-fr2.jpg" crc="4224119411" ref="index"/>
+    <file name="ub_frame1_white-u251011-fr2.jpg" crc="481722892" ref="index"/>
+    <file name="ub_frame2_white-u251012-fr2.jpg" crc="70655097" ref="index"/>
+    <file name="ub_frame3_white-u251014-fr2.jpg" crc="157864379" ref="index"/>
+    <file name="ub_frame4_white-u251013-fr2.jpg" crc="217671860" ref="index"/>
+    <file name="black swatch_black-u250939-fr.png" crc="348379289" ref="index"/>
+    <file name="black swatch inactive_black-u250939-r-fr.png" crc="4029772013" ref="index"/>
+    <file name="black swatch active_black-u250939-a-fr.png" crc="3920550639" ref="index"/>
+    <file name="blue swatch_blue-u250937-fr.png" crc="3806911138" ref="index"/>
+    <file name="blue swatch inactive_blue-u250937-r-fr.png" crc="3898652315" ref="index"/>
+    <file name="blue swatch active_blue-u250937-a-fr.png" crc="484482369" ref="index"/>
+    <file name="white swatch_white-u250936-fr.png" crc="374195496" ref="index"/>
+    <file name="white swatch inactive_white-u250936-r-fr.png" crc="105860457" ref="index"/>
+    <file name="ubw_frame1_black-u250886-fr2.jpg" crc="3983782747" ref="index"/>
+    <file name="ubw_frame2_black-u250885-fr2.jpg" crc="3927022853" ref="index"/>
+    <file name="ubw_frame3_black-u250884-fr2.jpg" crc="182523720" ref="index"/>
+    <file name="ubw_frame4_black-u250883-fr2.jpg" crc="3863632467" ref="index"/>
+    <file name="ubw_frame1_pink-u250919-fr2.jpg" crc="282055038" ref="index"/>
+    <file name="ubw_frame2_pink-u250920-fr2.jpg" crc="3772576368" ref="index"/>
+    <file name="ubw_frame3_pink-u250918-fr2.jpg" crc="3808484628" ref="index"/>
+    <file name="ubw_frame4_pink-u250917-fr2.jpg" crc="4170755293" ref="index"/>
+    <file name="ubw_frame1_grey-u250892-fr2.jpg" crc="4088185635" ref="index"/>
+    <file name="ubw_frame2_grey-u250893-fr2.jpg" crc="3879989585" ref="index"/>
+    <file name="ubw_frame3_grey-u250894-fr2.jpg" crc="42379335" ref="index"/>
+    <file name="ubw_frame4_grey-u250895-fr2.jpg" crc="4005374471" ref="index"/>
+    <file name="ubw_frame1_blue-u250870-fr2.jpg" crc="4254542406" ref="index"/>
+    <file name="ubw_frame2_blue-u250868-fr2.jpg" crc="4003447373" ref="index"/>
+    <file name="ubw_frame3_blue-u250867-fr2.jpg" crc="4142432250" ref="index"/>
+    <file name="ubw_frame4_blue-u250869-fr2.jpg" crc="4194635321" ref="index"/>
+    <file name="black swatch_black-u250928-fr.png" crc="486265467" ref="index"/>
+    <file name="black swatch inactive_black-u250928-r-fr.png" crc="3954918674" ref="index"/>
+    <file name="black swatch active_black-u250928-a-fr.png" crc="105429275" ref="index"/>
+    <file name="pink swatch_pink-u250926-fr.png" crc="467486866" ref="index"/>
+    <file name="pink swatch inactive_pink-u250926-r-fr.png" crc="4075493840" ref="index"/>
+    <file name="pink swatch active_pink-u250926-a-fr.png" crc="4048075865" ref="index"/>
+    <file name="grey swatch_grey-u250929-fr.png" crc="3812366935" ref="index"/>
+    <file name="grey swatch inactive_grey-u250929-r-fr.png" crc="218242842" ref="index"/>
+    <file name="grey swatch active_grey-u250929-a-fr.png" crc="4054282784" ref="index"/>
+    <file name="blue swatch_blue-u250927-fr.png" crc="3871416446" ref="index"/>
+    <file name="blue swatch inactive_blue-u250927-r-fr.png" crc="449828732" ref="index"/>
+    <file name="blue swatch active_blue-u250927-a-fr.png" crc="4058984035" ref="index"/>
+    <file name="el_frame1_mobile_grey-u113455-fr2.jpg" crc="459523515" ref="index"/>
+    <file name="el_frame2 -mobile_grey-u113453-fr2.jpg" crc="3802269689" ref="index"/>
+    <file name="el_frame3-mobile_grey-u113452-fr2.jpg" crc="511886644" ref="index"/>
+    <file name="el_frame4-mobile_grey-u113454-fr2.jpg" crc="49723213" ref="index"/>
+    <file name="el_frame1_mobile_pink-u113440-fr2.jpg" crc="4046704514" ref="index"/>
+    <file name="el_frame2 -mobile_pink-u113441-fr2.jpg" crc="3878823474" ref="index"/>
+    <file name="el_frame3-mobile_pink-u113439-fr2.jpg" crc="187440821" ref="index"/>
+    <file name="el_frame4-mobile_pink-u113442-fr2.jpg" crc="4174759058" ref="index"/>
+    <file name="black swatch-u113424-fr.png" crc="472088866" ref="index"/>
+    <file name="black swatch inactive-u113424-r-fr.png" crc="3990783358" ref="index"/>
+    <file name="black swatch active-u113424-a-fr.png" crc="16191823" ref="index"/>
+    <file name="pink swatch-u113425-fr.png" crc="504979557" ref="index"/>
+    <file name="pink swatch inactive-u113425-r-fr.png" crc="3867737127" ref="index"/>
+    <file name="pink swatch active-u113425-a-fr.png" crc="4241641725" ref="index"/>
+    <file name="doublebanner-100-u65767-fr.jpg" crc="44333997" ref="index"/>
+    <file name="u263709-4.png" crc="406655470" ref="index"/>
+    <file name="u263710-4.png" crc="4245290654" ref="index"/>
+    <file name="u263711-4.png" crc="4248751277" ref="index"/>
+    <file name="u263712-4.png" crc="386169084" ref="index"/>
+    <file name="u263713-4.png" crc="3853497738" ref="index"/>
+    <file name="u263714-4.png" crc="510850784" ref="index"/>
+    <file name="u263718-4.png" crc="138688299" ref="index"/>
+    <file name="u263719-4.png" crc="207183727" ref="index"/>
+    <file name="dick-s_sporting_goods_logo.png" crc="4047831415" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="search-tablet.png" crc="3888704939" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u263727-4.png" crc="3785014924" ref="index"/>
+    <file name="u263728-4.png" crc="4014642397" ref="index"/>
+    <file name="map.png" crc="372465025" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u263715-4.png" crc="3933901625" ref="index"/>
+    <file name="sale.png" crc="4025139782" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u263716-4.png" crc="56410081" ref="index"/>
+    <file name="cart_tablet-mobile.png" crc="3825537137" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u263717-4.png" crc="3877115550" ref="index"/>
+    <file name="u263720-7.png" crc="536015543" ref="index"/>
+    <file name="rungif2.gif" crc="85745628" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u63891-8.png" crc="3797129032" ref="index"/>
+    <file name="shoe_windows-crop-u659733.jpg" crc="251303117" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="single-crop-u659643.jpg" crc="3844065339" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ubwomen_icon-crop-u659603.jpg" crc="330183410" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="running_ss18_edgelux_women_cq1239_ftw_1-crop-u659553.jpg" crc="4237629234" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shoe_butterfly378x283.png" crc="190729168" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ab_frame1-u245881-fr3.jpg" crc="505408408" ref="index"/>
+    <file name="ab_frame2-u245884-fr3.jpg" crc="3896400884" ref="index"/>
+    <file name="ab_frame3-u245882-fr3.jpg" crc="276258103" ref="index"/>
+    <file name="ab_frame4-u245883-fr3.jpg" crc="121590820" ref="index"/>
+    <file name="ab_frame1_blue-u245866-fr3.jpg" crc="211015864" ref="index"/>
+    <file name="ab_frame2_blue-u245864-fr3.jpg" crc="110061687" ref="index"/>
+    <file name="ab_frame3_blue-u245865-fr3.jpg" crc="4099573779" ref="index"/>
+    <file name="ab_frame4_blue-u245863-fr3.jpg" crc="4253377156" ref="index"/>
+    <file name="ab_frame1_black-u245843-fr3.jpg" crc="246767083" ref="index"/>
+    <file name="ab_frame2_black-u245844-fr3.jpg" crc="3768298052" ref="index"/>
+    <file name="ab_frame3_black-u245846-fr3.jpg" crc="211047615" ref="index"/>
+    <file name="ab_frame4_black-u245845-fr3.jpg" crc="4156450119" ref="index"/>
+    <file name="ab_frame1_olive-u245909-fr3.jpg" crc="3943056527" ref="index"/>
+    <file name="ab_frame2_olive-u245911-fr3.jpg" crc="4285178894" ref="index"/>
+    <file name="ab_frame3_olive-u245908-fr3.jpg" crc="210153439" ref="index"/>
+    <file name="ab_frame4_olive-u245910-fr3.jpg" crc="4184863945" ref="index"/>
+    <file name="red swatch-u245835-fr2.png" crc="526068335" ref="index"/>
+    <file name="red swatch inactive-u245835-r-fr2.png" crc="4293784187" ref="index"/>
+    <file name="red swatch active-u245835-a-fr2.png" crc="3805468000" ref="index"/>
+    <file name="blue swatch-u245836-fr2.png" crc="4134158166" ref="index"/>
+    <file name="blue swatch inactive-u245836-r-fr2.png" crc="4074920509" ref="index"/>
+    <file name="blue swatch active-u245836-a-fr2.png" crc="422099258" ref="index"/>
+    <file name="black swatch-u245837-fr2.png" crc="3813447068" ref="index"/>
+    <file name="black swatch inactive-u245837-r-fr2.png" crc="3941116762" ref="index"/>
+    <file name="black swatch active-u245837-a-fr2.png" crc="467225620" ref="index"/>
+    <file name="olive swatch-u245838-fr2.png" crc="3816174946" ref="index"/>
+    <file name="olive swatch inactive-u245838-r-fr2.png" crc="3767476392" ref="index"/>
+    <file name="olive swatch active-u245838-a-fr2.png" crc="4016232077" ref="index"/>
+    <file name="u60492-7.png" crc="50510637" ref="index"/>
+    <file name="ub_m_inactive-u250837-fr2.jpg" crc="209835438" ref="index"/>
+    <file name="ub_m_active-u250837-r-fr2.jpg" crc="3905998797" ref="index"/>
+    <file name="ub_m_active_1-u250836-fr2.jpg" crc="4264083059" ref="index"/>
+    <file name="ub_w_active-u250836-r-fr2.jpg" crc="472887320" ref="index"/>
+    <file name="ub_frame1_black-u250950-fr3.jpg" crc="404356847" ref="index"/>
+    <file name="ub_frame2_black-u250948-fr3.jpg" crc="4224196586" ref="index"/>
+    <file name="ub_frame3_black-u250949-fr3.jpg" crc="416262424" ref="index"/>
+    <file name="ub_frame4_black-u250951-fr3.jpg" crc="279354912" ref="index"/>
+    <file name="ub_frame1_blue-u250980-fr3.jpg" crc="34750396" ref="index"/>
+    <file name="ub_frame2_blue-u250977-fr3.jpg" crc="3961419016" ref="index"/>
+    <file name="ub_frame3_blue-u250978-fr3.jpg" crc="4010281371" ref="index"/>
+    <file name="ub_frame4_blue-u250979-fr3.jpg" crc="3860970125" ref="index"/>
+    <file name="ub_frame1_white-u251011-fr3.jpg" crc="77576379" ref="index"/>
+    <file name="ub_frame2_white-u251012-fr3.jpg" crc="444587747" ref="index"/>
+    <file name="ub_frame3_white-u251014-fr3.jpg" crc="4188104865" ref="index"/>
+    <file name="ub_frame4_white-u251013-fr3.jpg" crc="4004097110" ref="index"/>
+    <file name="black swatch_black-u250939-fr2.png" crc="86217418" ref="index"/>
+    <file name="black swatch inactive_black-u250939-r-fr2.png" crc="302434887" ref="index"/>
+    <file name="black swatch active_black-u250939-a-fr2.png" crc="99844252" ref="index"/>
+    <file name="blue swatch_blue-u250937-fr2.png" crc="4206672185" ref="index"/>
+    <file name="blue swatch inactive_blue-u250937-r-fr2.png" crc="291415430" ref="index"/>
+    <file name="blue swatch active_blue-u250937-a-fr2.png" crc="4062451330" ref="index"/>
+    <file name="white swatch_white-u250936-fr2.png" crc="4265470971" ref="index"/>
+    <file name="white swatch inactive_white-u250936-r-fr2.png" crc="151790344" ref="index"/>
+    <file name="ubw_frame1_black-u250886-fr3.jpg" crc="389068585" ref="index"/>
+    <file name="ubw_frame2_black-u250885-fr3.jpg" crc="4158958688" ref="index"/>
+    <file name="ubw_frame3_black-u250884-fr3.jpg" crc="48828955" ref="index"/>
+    <file name="ubw_frame4_black-u250883-fr3.jpg" crc="13430338" ref="index"/>
+    <file name="ubw_frame1_pink-u250919-fr3.jpg" crc="3959570518" ref="index"/>
+    <file name="ubw_frame2_pink-u250920-fr3.jpg" crc="3916413034" ref="index"/>
+    <file name="ubw_frame3_pink-u250918-fr3.jpg" crc="375261662" ref="index"/>
+    <file name="ubw_frame4_pink-u250917-fr3.jpg" crc="65386488" ref="index"/>
+    <file name="ubw_frame1_grey-u250892-fr3.jpg" crc="152124299" ref="index"/>
+    <file name="ubw_frame2_grey-u250893-fr3.jpg" crc="428140072" ref="index"/>
+    <file name="ubw_frame3_grey-u250894-fr3.jpg" crc="3784408258" ref="index"/>
+    <file name="ubw_frame4_grey-u250895-fr3.jpg" crc="4129826389" ref="index"/>
+    <file name="ubw_frame1_blue-u250870-fr3.jpg" crc="4277512286" ref="index"/>
+    <file name="ubw_frame2_blue-u250868-fr3.jpg" crc="3969487664" ref="index"/>
+    <file name="ubw_frame3_blue-u250867-fr3.jpg" crc="320178760" ref="index"/>
+    <file name="ubw_frame4_blue-u250869-fr3.jpg" crc="178790321" ref="index"/>
+    <file name="black swatch_black-u250928-fr2.png" crc="3943232462" ref="index"/>
+    <file name="black swatch inactive_black-u250928-r-fr2.png" crc="3826747545" ref="index"/>
+    <file name="black swatch active_black-u250928-a-fr2.png" crc="200576842" ref="index"/>
+    <file name="pink swatch_pink-u250926-fr2.png" crc="3864168835" ref="index"/>
+    <file name="pink swatch inactive_pink-u250926-r-fr2.png" crc="252430204" ref="index"/>
+    <file name="pink swatch active_pink-u250926-a-fr2.png" crc="4177922025" ref="index"/>
+    <file name="grey swatch_grey-u250929-fr2.png" crc="3856403382" ref="index"/>
+    <file name="grey swatch inactive_grey-u250929-r-fr2.png" crc="3981853787" ref="index"/>
+    <file name="grey swatch active_grey-u250929-a-fr2.png" crc="429840545" ref="index"/>
+    <file name="blue swatch_blue-u250927-fr2.png" crc="3877509506" ref="index"/>
+    <file name="blue swatch inactive_blue-u250927-r-fr2.png" crc="163329066" ref="index"/>
+    <file name="blue swatch active_blue-u250927-a-fr2.png" crc="3924708516" ref="index"/>
+    <file name="el_frame1_mobile_grey-u113455-fr3.jpg" crc="3984596062" ref="index"/>
+    <file name="el_frame2 -mobile_grey-u113453-fr3.jpg" crc="525061248" ref="index"/>
+    <file name="el_frame3-mobile_grey-u113452-fr3.jpg" crc="3882591064" ref="index"/>
+    <file name="el_frame4-mobile_grey-u113454-fr3.jpg" crc="3774123996" ref="index"/>
+    <file name="el_frame1_mobile_pink-u113440-fr3.jpg" crc="3928570007" ref="index"/>
+    <file name="el_frame2 -mobile_pink-u113441-fr3.jpg" crc="407731860" ref="index"/>
+    <file name="el_frame3-mobile_pink-u113439-fr3.jpg" crc="3761877005" ref="index"/>
+    <file name="el_frame4-mobile_pink-u113442-fr3.jpg" crc="3904506432" ref="index"/>
+    <file name="black swatch-u113424-fr2.png" crc="82236178" ref="index"/>
+    <file name="black swatch inactive-u113424-r-fr2.png" crc="53181946" ref="index"/>
+    <file name="black swatch active-u113424-a-fr2.png" crc="314985263" ref="index"/>
+    <file name="pink swatch-u113425-fr2.png" crc="534227796" ref="index"/>
+    <file name="pink swatch inactive-u113425-r-fr2.png" crc="137646554" ref="index"/>
+    <file name="pink swatch active-u113425-a-fr2.png" crc="4161828389" ref="index"/>
+    <file name="doublebanner-100-u65767-fr2.jpg" crc="4208250556" ref="index"/>
+    <file name="u264170-7.png" crc="4078625031" ref="index"/>
+    <file name="u264172-4.png" crc="313466919" ref="index"/>
+    <file name="u264173-4.png" crc="3869286911" ref="index"/>
+    <file name="u264174-4.png" crc="469227240" ref="index"/>
+    <file name="u264177-4.png" crc="3844769231" ref="index"/>
+    <file name="u264178-4.png" crc="531264987" ref="index"/>
+    <file name="u63892-8.png" crc="3896607462" ref="index"/>
+    <file name="shoe_windows-crop-u659734.jpg" crc="4022639345" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ubwomen_icon-crop-u659604.jpg" crc="3999626976" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="single-crop-u659644.jpg" crc="211403258" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="running_ss18_edgelux_women_cq1239_ftw_1-crop-u659554.jpg" crc="368507546" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ab_frame1-u245881-fr4.jpg" crc="4118816546" ref="index"/>
+    <file name="ab_frame2-u245884-fr4.jpg" crc="169508054" ref="index"/>
+    <file name="ab_frame3-u245882-fr4.jpg" crc="4189456882" ref="index"/>
+    <file name="ab_frame4-u245883-fr4.jpg" crc="3985283548" ref="index"/>
+    <file name="ab_frame1_blue-u245866-fr4.jpg" crc="142720624" ref="index"/>
+    <file name="ab_frame2_blue-u245864-fr4.jpg" crc="3832713287" ref="index"/>
+    <file name="ab_frame3_blue-u245865-fr4.jpg" crc="3925076285" ref="index"/>
+    <file name="ab_frame4_blue-u245863-fr4.jpg" crc="4044194142" ref="index"/>
+    <file name="ab_frame1_black-u245843-fr4.jpg" crc="3769272915" ref="index"/>
+    <file name="ab_frame2_black-u245844-fr4.jpg" crc="382678070" ref="index"/>
+    <file name="ab_frame3_black-u245846-fr4.jpg" crc="229504539" ref="index"/>
+    <file name="ab_frame4_black-u245845-fr4.jpg" crc="3795558515" ref="index"/>
+    <file name="ab_frame1_olive-u245909-fr4.jpg" crc="491312519" ref="index"/>
+    <file name="ab_frame2_olive-u245911-fr4.jpg" crc="117696771" ref="index"/>
+    <file name="ab_frame3_olive-u245908-fr4.jpg" crc="4222980276" ref="index"/>
+    <file name="ab_frame4_olive-u245910-fr4.jpg" crc="4071634015" ref="index"/>
+    <file name="blue swatch-u245836-fr3.png" crc="3925879454" ref="index"/>
+    <file name="blue swatch inactive-u245836-r-fr3.png" crc="4286991292" ref="index"/>
+    <file name="blue swatch active-u245836-a-fr3.png" crc="3761862327" ref="index"/>
+    <file name="shoe_butterfly381x286.png" crc="4024079884" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ab_new_gif.gif" crc="4259669996" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ub_m_inactive-u250837-fr3.jpg" crc="4018283571" ref="index"/>
+    <file name="ub_m_active-u250837-r-fr3.jpg" crc="22991092" ref="index"/>
+    <file name="ub_m_active_1-u250836-fr3.jpg" crc="174509062" ref="index"/>
+    <file name="ub_w_active-u250836-r-fr3.jpg" crc="191395982" ref="index"/>
+    <file name="ub_frame1_black-u250950-fr4.jpg" crc="19705737" ref="index"/>
+    <file name="ub_frame2_black-u250948-fr4.jpg" crc="4150501279" ref="index"/>
+    <file name="ub_frame3_black-u250949-fr4.jpg" crc="4286568260" ref="index"/>
+    <file name="ub_frame4_black-u250951-fr4.jpg" crc="3812692071" ref="index"/>
+    <file name="ub_frame1_blue-u250980-fr4.jpg" crc="4196451610" ref="index"/>
+    <file name="ub_frame2_blue-u250977-fr4.jpg" crc="448254723" ref="index"/>
+    <file name="ub_frame3_blue-u250978-fr4.jpg" crc="4073114251" ref="index"/>
+    <file name="ub_frame4_blue-u250979-fr4.jpg" crc="189709384" ref="index"/>
+    <file name="ab_frame4_blue-u250979-r-fr.jpg" crc="3917685389" ref="index"/>
+    <file name="ub_frame1_white-u251011-fr4.jpg" crc="19758510" ref="index"/>
+    <file name="ub_frame2_white-u251012-fr4.jpg" crc="207276395" ref="index"/>
+    <file name="ub_frame3_white-u251014-fr4.jpg" crc="188042798" ref="index"/>
+    <file name="ub_frame4_white-u251013-fr4.jpg" crc="4232928643" ref="index"/>
+    <file name="blue swatch_blue-u250937-fr3.png" crc="112225673" ref="index"/>
+    <file name="blue swatch inactive_blue-u250937-r-fr3.png" crc="249383292" ref="index"/>
+    <file name="blue swatch active_blue-u250937-a-fr3.png" crc="4236379746" ref="index"/>
+    <file name="ubw_frame1_black-u250886-fr4.jpg" crc="202470174" ref="index"/>
+    <file name="ubw_frame2_black-u250885-fr4.jpg" crc="3887284179" ref="index"/>
+    <file name="ubw_frame3_black-u250884-fr4.jpg" crc="313470413" ref="index"/>
+    <file name="ubw_frame4_black-u250883-fr4.jpg" crc="4100715575" ref="index"/>
+    <file name="ubw_frame1_pink-u250919-fr4.jpg" crc="352042320" ref="index"/>
+    <file name="ubw_frame2_pink-u250920-fr4.jpg" crc="209853715" ref="index"/>
+    <file name="ubw_frame3_pink-u250918-fr4.jpg" crc="336127781" ref="index"/>
+    <file name="ubw_frame4_pink-u250917-fr4.jpg" crc="3882111639" ref="index"/>
+    <file name="ubw_frame1_grey-u250892-fr4.jpg" crc="4090457998" ref="index"/>
+    <file name="ubw_frame2_grey-u250893-fr4.jpg" crc="4170031616" ref="index"/>
+    <file name="ubw_frame3_grey-u250894-fr4.jpg" crc="127558355" ref="index"/>
+    <file name="ubw_frame4_grey-u250895-fr4.jpg" crc="313268328" ref="index"/>
+    <file name="ubw_frame1_blue-u250870-fr4.jpg" crc="3791814295" ref="index"/>
+    <file name="ubw_frame2_blue-u250868-fr4.jpg" crc="239273769" ref="index"/>
+    <file name="ubw_frame3_blue-u250867-fr4.jpg" crc="503864878" ref="index"/>
+    <file name="ubw_frame4_blue-u250869-fr4.jpg" crc="4142286088" ref="index"/>
+    <file name="pink swatch_pink-u250926-fr3.png" crc="182839245" ref="index"/>
+    <file name="pink swatch inactive_pink-u250926-r-fr3.png" crc="4160640879" ref="index"/>
+    <file name="pink swatch active_pink-u250926-a-fr3.png" crc="498289608" ref="index"/>
+    <file name="el_frame1_mobile_grey-u113455-fr4.jpg" crc="3788517909" ref="index"/>
+    <file name="el_frame2 -mobile_grey-u113453-fr4.jpg" crc="131833831" ref="index"/>
+    <file name="el_frame3-mobile_grey-u113452-fr4.jpg" crc="73034861" ref="index"/>
+    <file name="el_frame4-mobile_grey-u113454-fr4.jpg" crc="3930726202" ref="index"/>
+    <file name="el_frame1_mobile_pink-u113440-fr4.jpg" crc="3901047319" ref="index"/>
+    <file name="el_frame2 -mobile_pink-u113441-fr4.jpg" crc="53734229" ref="index"/>
+    <file name="el_frame3-mobile_pink-u113439-fr4.jpg" crc="3841944382" ref="index"/>
+    <file name="el_frame4-mobile_pink-u113442-fr4.jpg" crc="3945848449" ref="index"/>
+    <file name="black swatch-u113424-fr3.png" crc="430141640" ref="index"/>
+    <file name="black swatch inactive-u113424-r-fr3.png" crc="3760016356" ref="index"/>
+    <file name="black swatch active-u113424-a-fr3.png" crc="282775737" ref="index"/>
+    <file name="pink swatch-u113425-fr3.png" crc="3922134925" ref="index"/>
+    <file name="pink swatch inactive-u113425-r-fr3.png" crc="3871957906" ref="index"/>
+    <file name="pink swatch active-u113425-a-fr3.png" crc="4217070004" ref="index"/>
+    <file name="el_new_gif.gif" crc="511951641" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2_men_banner.jpg" crc="234059030" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2_women_banner.jpg" crc="4252518727" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ocean_mobile.gif" crc="3989476768" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u264432-7.png" crc="3870356100" ref="index"/>
+    <file name="menu_tablet-mobile.png" crc="3951720400" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u264435-4.png" crc="249290530" ref="index"/>
+    <file name="u264434-4.png" crc="4104147573" ref="index"/>
+    <file name="u264436-4.png" crc="4146925710" ref="index"/>
+    <file name="u264437-4.png" crc="4212483974" ref="index"/>
+    <file name="u264440-4.png" crc="511508447" ref="index"/>
+    <file name="u264441-4.png" crc="3889596608" ref="index"/>
+    <file name="u63892-82.png" crc="60089271" ref="index"/>
+    <file name="shoe_windows-crop-u659735.jpg" crc="4081009943" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ubwomen_icon-crop-u659605.jpg" crc="69522462" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="single-crop-u659645.jpg" crc="3909482572" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="running_ss18_edgelux_women_cq1239_ftw_1-crop-u659555.jpg" crc="4250785564" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shoe_butterfly254x191.png" crc="4015416422" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ab_frame1-u245881-fr5.jpg" crc="3906688500" ref="index"/>
+    <file name="ab_frame2-u245884-fr5.jpg" crc="3900248425" ref="index"/>
+    <file name="ab_frame3-u245882-fr5.jpg" crc="489647733" ref="index"/>
+    <file name="ab_frame4-u245883-fr5.jpg" crc="4127924810" ref="index"/>
+    <file name="ab_frame1_blue-u245866-fr5.jpg" crc="3920693290" ref="index"/>
+    <file name="ab_frame2_blue-u245864-fr5.jpg" crc="520662102" ref="index"/>
+    <file name="ab_frame3_blue-u245865-fr5.jpg" crc="3806628155" ref="index"/>
+    <file name="ab_frame4_blue-u245863-fr5.jpg" crc="3788972684" ref="index"/>
+    <file name="ab_frame1_black-u245843-fr5.jpg" crc="4162729343" ref="index"/>
+    <file name="ab_frame2_black-u245844-fr5.jpg" crc="4005441772" ref="index"/>
+    <file name="ab_frame3_black-u245846-fr5.jpg" crc="229629631" ref="index"/>
+    <file name="ab_frame4_black-u245845-fr5.jpg" crc="3993807955" ref="index"/>
+    <file name="ab_frame1_olive-u245909-fr5.jpg" crc="257216673" ref="index"/>
+    <file name="ab_frame2_olive-u245911-fr5.jpg" crc="4250865307" ref="index"/>
+    <file name="ab_frame3_olive-u245908-fr5.jpg" crc="3873307346" ref="index"/>
+    <file name="ab_frame4_olive-u245910-fr5.jpg" crc="4181828999" ref="index"/>
+    <file name="red swatch-u245835-fr3.png" crc="477812333" ref="index"/>
+    <file name="red swatch inactive-u245835-r-fr3.png" crc="335715541" ref="index"/>
+    <file name="red swatch active-u245835-a-fr3.png" crc="520881917" ref="index"/>
+    <file name="blue swatch-u245836-fr4.png" crc="45760041" ref="index"/>
+    <file name="blue swatch inactive-u245836-r-fr4.png" crc="4041608766" ref="index"/>
+    <file name="blue swatch active-u245836-a-fr4.png" crc="217291889" ref="index"/>
+    <file name="black swatch-u245837-fr3.png" crc="371686443" ref="index"/>
+    <file name="black swatch inactive-u245837-r-fr3.png" crc="435544893" ref="index"/>
+    <file name="black swatch active-u245837-a-fr3.png" crc="3799536971" ref="index"/>
+    <file name="olive swatch-u245838-fr3.png" crc="353384824" ref="index"/>
+    <file name="olive swatch inactive-u245838-r-fr3.png" crc="3927894951" ref="index"/>
+    <file name="olive swatch active-u245838-a-fr3.png" crc="3901305245" ref="index"/>
+    <file name="ub_m_inactive-u250837-fr4.jpg" crc="3831630358" ref="index"/>
+    <file name="ub_m_active-u250837-r-fr4.jpg" crc="4233554426" ref="index"/>
+    <file name="ub_m_active_1-u250836-fr4.jpg" crc="208657944" ref="index"/>
+    <file name="ub_w_active-u250836-r-fr4.jpg" crc="185041291" ref="index"/>
+    <file name="ub_frame1_black-u250950-fr5.jpg" crc="481459773" ref="index"/>
+    <file name="ub_frame2_black-u250948-fr5.jpg" crc="268416005" ref="index"/>
+    <file name="ub_frame3_black-u250949-fr5.jpg" crc="3824693333" ref="index"/>
+    <file name="ub_frame4_black-u250951-fr5.jpg" crc="4029897661" ref="index"/>
+    <file name="ub_frame1_blue-u250980-fr5.jpg" crc="3932489129" ref="index"/>
+    <file name="ub_frame2_blue-u250977-fr5.jpg" crc="102244826" ref="index"/>
+    <file name="ub_frame3_blue-u250978-fr5.jpg" crc="179466112" ref="index"/>
+    <file name="ub_frame4_blue-u250979-fr5.jpg" crc="4128667064" ref="index"/>
+    <file name="ab_frame4_blue-u250979-r-fr2.jpg" crc="516440478" ref="index"/>
+    <file name="ub_frame1_white-u251011-fr5.jpg" crc="536693765" ref="index"/>
+    <file name="ub_frame2_white-u251012-fr5.jpg" crc="3898247109" ref="index"/>
+    <file name="ub_frame3_white-u251014-fr5.jpg" crc="3844143407" ref="index"/>
+    <file name="ub_frame4_white-u251013-fr5.jpg" crc="321198140" ref="index"/>
+    <file name="black swatch_black-u250939-fr3.png" crc="4137207346" ref="index"/>
+    <file name="black swatch inactive_black-u250939-r-fr3.png" crc="456536659" ref="index"/>
+    <file name="black swatch active_black-u250939-a-fr3.png" crc="4047718490" ref="index"/>
+    <file name="blue swatch_blue-u250937-fr4.png" crc="3850707848" ref="index"/>
+    <file name="blue swatch inactive_blue-u250937-r-fr4.png" crc="4176659614" ref="index"/>
+    <file name="blue swatch active_blue-u250937-a-fr4.png" crc="315848381" ref="index"/>
+    <file name="white swatch_white-u250936-fr3.png" crc="61545305" ref="index"/>
+    <file name="white swatch inactive_white-u250936-r-fr3.png" crc="30857820" ref="index"/>
+    <file name="ubw_frame1_black-u250886-fr5.jpg" crc="3980955253" ref="index"/>
+    <file name="ubw_frame2_black-u250885-fr5.jpg" crc="256440163" ref="index"/>
+    <file name="ubw_frame3_black-u250884-fr5.jpg" crc="4087363355" ref="index"/>
+    <file name="ubw_frame4_black-u250883-fr5.jpg" crc="34612008" ref="index"/>
+    <file name="ubw_frame1_pink-u250919-fr5.jpg" crc="3971878946" ref="index"/>
+    <file name="ubw_frame2_pink-u250920-fr5.jpg" crc="143716950" ref="index"/>
+    <file name="ubw_frame3_pink-u250918-fr5.jpg" crc="204220883" ref="index"/>
+    <file name="ubw_frame4_pink-u250917-fr5.jpg" crc="488352983" ref="index"/>
+    <file name="ubw_frame1_grey-u250892-fr5.jpg" crc="142366651" ref="index"/>
+    <file name="ubw_frame2_grey-u250893-fr5.jpg" crc="3835143639" ref="index"/>
+    <file name="ubw_frame3_grey-u250894-fr5.jpg" crc="498991497" ref="index"/>
+    <file name="ubw_frame4_grey-u250895-fr5.jpg" crc="4030551610" ref="index"/>
+    <file name="ubw_frame1_blue-u250870-fr5.jpg" crc="4136559689" ref="index"/>
+    <file name="ubw_frame2_blue-u250868-fr5.jpg" crc="148909761" ref="index"/>
+    <file name="ubw_frame3_blue-u250867-fr5.jpg" crc="3901925609" ref="index"/>
+    <file name="ubw_frame4_blue-u250869-fr5.jpg" crc="213381435" ref="index"/>
+    <file name="black swatch_black-u250928-fr3.png" crc="415268034" ref="index"/>
+    <file name="black swatch inactive_black-u250928-r-fr3.png" crc="3914960816" ref="index"/>
+    <file name="black swatch active_black-u250928-a-fr3.png" crc="4073625760" ref="index"/>
+    <file name="pink swatch_pink-u250926-fr4.png" crc="3798710341" ref="index"/>
+    <file name="pink swatch inactive_pink-u250926-r-fr4.png" crc="44335571" ref="index"/>
+    <file name="pink swatch active_pink-u250926-a-fr4.png" crc="29967961" ref="index"/>
+    <file name="grey swatch_grey-u250929-fr3.png" crc="259222939" ref="index"/>
+    <file name="grey swatch inactive_grey-u250929-r-fr3.png" crc="4074370374" ref="index"/>
+    <file name="grey swatch active_grey-u250929-a-fr3.png" crc="169242883" ref="index"/>
+    <file name="blue swatch_blue-u250927-fr3.png" crc="3784004964" ref="index"/>
+    <file name="blue swatch inactive_blue-u250927-r-fr3.png" crc="472539703" ref="index"/>
+    <file name="blue swatch active_blue-u250927-a-fr3.png" crc="4010868987" ref="index"/>
+    <file name="el_circle-u125874-fr.png" crc="4225439750" ref="index"/>
+    <file name="el_frame1_mobile_grey-u113455-fr5.jpg" crc="286108315" ref="index"/>
+    <file name="el_frame2 -mobile_grey-u113453-fr5.jpg" crc="413536930" ref="index"/>
+    <file name="el_frame3-mobile_grey-u113452-fr5.jpg" crc="117746237" ref="index"/>
+    <file name="el_frame4-mobile_grey-u113454-fr5.jpg" crc="408745287" ref="index"/>
+    <file name="el_frame1_mobile_pink-u113440-fr5.jpg" crc="203076364" ref="index"/>
+    <file name="el_frame2 -mobile_pink-u113441-fr5.jpg" crc="215683197" ref="index"/>
+    <file name="el_frame3-mobile_pink-u113439-fr5.jpg" crc="4269263814" ref="index"/>
+    <file name="el_frame4-mobile_pink-u113442-fr5.jpg" crc="4165356290" ref="index"/>
+    <file name="black swatch-u113424-fr4.png" crc="3866189834" ref="index"/>
+    <file name="black swatch inactive-u113424-r-fr4.png" crc="3871447625" ref="index"/>
+    <file name="black swatch active-u113424-a-fr4.png" crc="4194389258" ref="index"/>
+    <file name="pink swatch-u113425-fr4.png" crc="136042273" ref="index"/>
+    <file name="pink swatch inactive-u113425-r-fr4.png" crc="475106253" ref="index"/>
+    <file name="pink swatch active-u113425-a-fr4.png" crc="252836959" ref="index"/>
   </folder>
-  <file name="index.html" crc="4056984192" seo="true" mt="1522625612970" redirect="true"/>
-  <file name="final-version.html" crc="42156539" seo="true" mt="1522631631824" redirect="true"/>
+  <file name="index.html" crc="105565537" seo="true" mt="1523465059632" redirect="true"/>
 </manifest>
